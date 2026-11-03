@@ -1,0 +1,752 @@
+[
+  {
+    "id": 101,
+    "topic": "FCT-IRS Act 2015",
+    "question": "Under which section of the FCT-IRS Act 2015 is the Federal Capital Territory Internal Revenue Service established?",
+    "options": [
+      "Section 2",
+      "Section 1",
+      "Section 3",
+      "Section 7"
+    ],
+    "answer": 1,
+    "explanation": "Section 1(1) establishes the Service; section 3 establishes the Board.",
+    "source": "FCT-IRS Act 2015, s.1(1)",
+    "difficulty": "easy"
+  },
+  {
+    "id": 102,
+    "topic": "FCT-IRS Act 2015",
+    "question": "On what date did the FCT-IRS Act 2015 commence?",
+    "options": [
+      "1 January 2015",
+      "4 March 2015",
+      "1 January 2018",
+      "27 February 2015"
+    ],
+    "answer": 3,
+    "explanation": "Commencement is 27 February 2015. The Act was published in the Official Gazette of 4 March 2015.",
+    "source": "FCT-IRS Act 2015, Commencement clause",
+    "difficulty": "medium"
+  },
+  {
+    "id": 103,
+    "topic": "FCT-IRS Act 2015",
+    "question": "What is the legal status of the Service under section 1(2)?",
+    "options": [
+      "A body corporate with perpetual succession and a common seal",
+      "An unincorporated department of the FCTA that cannot sue or be sued",
+      "A parastatal that may sue only through the Attorney-General",
+      "A committee of the Federal Inland Revenue Service"
+    ],
+    "answer": 0,
+    "explanation": "Section 1(2) makes the Service a body corporate with perpetual succession and a common seal that may sue and be sued in its corporate name.",
+    "source": "FCT-IRS Act 2015, s.1(2)",
+    "difficulty": "easy"
+  },
+  {
+    "id": 104,
+    "topic": "FCT-IRS Act 2015",
+    "question": "What is the object of the Service under section 2?",
+    "options": [
+      "To determine the budget and fiscal policy of the FCT Administration",
+      "To regulate the accountancy and tax consultancy professions in the FCT",
+      "To control and administer the taxes and laws in the First Schedule and account for all taxes collected",
+      "To hear and determine appeals from tax assessments in the FCT"
+    ],
+    "answer": 2,
+    "explanation": "Section 2: control and administer the taxes and laws specified in the First Schedule and account for all taxes collected.",
+    "source": "FCT-IRS Act 2015, s.2",
+    "difficulty": "medium"
+  },
+  {
+    "id": 105,
+    "topic": "FCT-IRS Act 2015",
+    "question": "Who appoints the Chairman of the Service, and subject to whose approval?",
+    "options": [
+      "The President, subject to confirmation by the Senate",
+      "The Minister of the FCT, subject to approval of the National Assembly",
+      "The Head of Service of the FCT, subject to approval of the Minister",
+      "The Board, subject to approval of the FCT Executive Council"
+    ],
+    "answer": 1,
+    "explanation": "Section 3(2)(a) and 3(3): the Chairman is appointed by the Minister of the FCT, subject to the approval of the National Assembly.",
+    "source": "FCT-IRS Act 2015, s.3(2)(a), s.3(3)",
+    "difficulty": "medium"
+  },
+  {
+    "id": 106,
+    "topic": "FCT-IRS Act 2015",
+    "question": "Who is the Deputy Chairman of the Board?",
+    "options": [
+      "The FCT Director of Treasury",
+      "The Director of Legal Services",
+      "The Secretary to the Service",
+      "The Director of Lands, Planning and Survey"
+    ],
+    "answer": 0,
+    "explanation": "Section 3(2)(b): the FCT Director of Treasury is Deputy Chairman.",
+    "source": "FCT-IRS Act 2015, s.3(2)(b)",
+    "difficulty": "medium"
+  },
+  {
+    "id": 107,
+    "topic": "FCT-IRS Act 2015",
+    "question": "How many members of the Board represent the six geopolitical zones, and how many of them must be women?",
+    "options": [
+      "Six persons, one of whom must be a woman",
+      "Six persons, three of whom must be women",
+      "Four persons, two of whom must be women",
+      "Six persons, two of whom must be women"
+    ],
+    "answer": 3,
+    "explanation": "Section 3(2)(d): six persons from the six geopolitical zones, knowledgeable in tax matters, two of whom must be women.",
+    "source": "FCT-IRS Act 2015, s.3(2)(d)",
+    "difficulty": "medium"
+  },
+  {
+    "id": 108,
+    "topic": "FCT-IRS Act 2015",
+    "question": "Under section 3(4), the members of the Board other than the Chairman are:",
+    "options": [
+      "Full-time members",
+      "Ex-officio members only",
+      "Part-time members",
+      "Appointees of the President"
+    ],
+    "answer": 2,
+    "explanation": "Section 3(4): members other than the Chairman are part-time members.",
+    "source": "FCT-IRS Act 2015, s.3(4)",
+    "difficulty": "easy"
+  },
+  {
+    "id": 109,
+    "topic": "FCT-IRS Act 2015",
+    "question": "What is the tenure of the Chairman and non ex-officio members of the Board?",
+    "options": [
+      "Four years, renewable once only",
+      "Five years, renewable once only",
+      "Four years, renewable twice",
+      "Three years, not renewable"
+    ],
+    "answer": 0,
+    "explanation": "Section 4(a): a term of four years renewable once only.",
+    "source": "FCT-IRS Act 2015, s.4(a)",
+    "difficulty": "easy"
+  },
+  {
+    "id": 110,
+    "topic": "FCT-IRS Act 2015",
+    "question": "Which of the following is NOT a ground under section 5(1) on which a Board member ceases to hold office?",
+    "options": [
+      "Conviction of a felony or an offence involving dishonesty or corruption",
+      "Absence from two consecutive meetings of the Board",
+      "Bankruptcy or a compromise with creditors",
+      "Becoming of unsound mind"
+    ],
+    "answer": 1,
+    "explanation": "Section 5(1) lists resignation, unsound mind, bankruptcy, conviction, incapacity, serious misconduct, removal by the Minister, Code of Conduct breach, professional disqualification and ceasing to hold a qualifying office. Absence from meetings is not listed.",
+    "source": "FCT-IRS Act 2015, s.5(1)",
+    "difficulty": "hard"
+  },
+  {
+    "id": 111,
+    "topic": "FCT-IRS Act 2015",
+    "question": "If a Board member leaves office before the term expires, who is appointed under section 5(2)?",
+    "options": [
+      "A person nominated by the Chairman for a fresh four-year term",
+      "No replacement is made until the next round of appointments",
+      "A person chosen by the Board from any interest group",
+      "Another person representing the same interest, for the unexpired term"
+    ],
+    "answer": 3,
+    "explanation": "Section 5(2): another person representing the same interest is appointed for the unexpired term.",
+    "source": "FCT-IRS Act 2015, s.5(2)",
+    "difficulty": "medium"
+  },
+  {
+    "id": 112,
+    "topic": "FCT-IRS Act 2015",
+    "question": "Who approves the emoluments, allowances and benefits of the Chairman and members of the Board?",
+    "options": [
+      "The National Assembly",
+      "The Board itself",
+      "The Minister",
+      "The Head of the Civil Service of the Federation"
+    ],
+    "answer": 2,
+    "explanation": "Section 6: such emoluments, allowances and benefits as may be approved by the Minister.",
+    "source": "FCT-IRS Act 2015, s.6",
+    "difficulty": "easy"
+  },
+  {
+    "id": 113,
+    "topic": "FCT-IRS Act 2015",
+    "question": "Which of the following is a function of the Board under section 7(1)?",
+    "options": [
+      "Review and approve the strategic plans of the Service",
+      "Appoint members of the Tax Appeal Committee",
+      "Designate magistrates for the adjudication of tax matters",
+      "Make regulations on the assessment of property tax"
+    ],
+    "answer": 0,
+    "explanation": "Section 7(1)(c) gives the Board this function. The TAC is established by the Minister (s.50), magistrates are designated by the Chief Judge (s.47) and regulations are made by the Minister (s.84).",
+    "source": "FCT-IRS Act 2015, s.7(1)(c)",
+    "difficulty": "medium"
+  },
+  {
+    "id": 114,
+    "topic": "FCT-IRS Act 2015",
+    "question": "To which body does the Board make recommendations on tax policy, tax reform, tax registration and exemptions under section 7(1)(e)?",
+    "options": [
+      "The Federal Executive Council",
+      "The National Assembly",
+      "The FCT Joint Revenue Committee",
+      "The Joint Tax Board"
+    ],
+    "answer": 3,
+    "explanation": "Section 7(1)(e): recommendations to the Joint Tax Board.",
+    "source": "FCT-IRS Act 2015, s.7(1)(e)",
+    "difficulty": "medium"
+  },
+  {
+    "id": 115,
+    "topic": "FCT-IRS Act 2015",
+    "question": "Which power does section 8(1)(g) give the Service?",
+    "options": [
+      "Appoint tax consultants and agents",
+      "Issue a taxpayer identification number to every person taxable in the FCT",
+      "Remit additions to tax",
+      "Issue warrants to enter premises and seize documents"
+    ],
+    "answer": 1,
+    "explanation": "Section 8(1)(g): issue a taxpayer identification number to every person taxable in the FCT.",
+    "source": "FCT-IRS Act 2015, s.8(1)(g)",
+    "difficulty": "easy"
+  },
+  {
+    "id": 116,
+    "topic": "FCT-IRS Act 2015",
+    "question": "Under section 8(1)(p), which tax does the Service specifically administer, collect and enforce in the FCT?",
+    "options": [
+      "Petroleum profits tax",
+      "Customs duties",
+      "Property tax",
+      "Excise duties on imported goods"
+    ],
+    "answer": 2,
+    "explanation": "Section 8(1)(p): administer, collect and enforce payment of property tax in the FCT.",
+    "source": "FCT-IRS Act 2015, s.8(1)(p)",
+    "difficulty": "easy"
+  },
+  {
+    "id": 117,
+    "topic": "FCT-IRS Act 2015",
+    "question": "Section 8(1)(f) empowers the Service to adopt which measures regarding the proceeds of tax fraud or evasion?",
+    "options": [
+      "Identify, trace, freeze, confiscate or seize them",
+      "Publish and auction them without a court order",
+      "Report them to the Minister for forfeiture",
+      "Compound them and write them off"
+    ],
+    "answer": 0,
+    "explanation": "Section 8(1)(f): adopt measures to identify, trace, freeze, confiscate or seize the proceeds of tax fraud or evasion.",
+    "source": "FCT-IRS Act 2015, s.8(1)(f)",
+    "difficulty": "medium"
+  },
+  {
+    "id": 118,
+    "topic": "FCT-IRS Act 2015",
+    "question": "Under section 7(2)(g), the Board may employ practising tax practitioners or chartered accountants for revenue collection, tax audit and compliance monitoring, except in relation to which function?",
+    "options": [
+      "Tax audit",
+      "Income tax assessment",
+      "Compliance monitoring",
+      "Collection of revenue"
+    ],
+    "answer": 1,
+    "explanation": "Section 7(2)(g) excludes income tax assessment from what may be delegated to external practitioners.",
+    "source": "FCT-IRS Act 2015, s.7(2)(g)",
+    "difficulty": "hard"
+  },
+  {
+    "id": 119,
+    "topic": "FCT-IRS Act 2015",
+    "question": "How many Directors appointed to the Board from within the Service sit on the Technical Committee under section 9(1)?",
+    "options": [
+      "One",
+      "Three",
+      "Four",
+      "Two"
+    ],
+    "answer": 3,
+    "explanation": "Section 9(1): the Technical Committee comprises the Chairman, two Directors from within the Service, and the Director of Legal Services or a representative not below Director rank.",
+    "source": "FCT-IRS Act 2015, s.9(1)",
+    "difficulty": "medium"
+  },
+  {
+    "id": 120,
+    "topic": "FCT-IRS Act 2015",
+    "question": "Under section 11, the Chairman of the Board is the ______ of the Service.",
+    "options": [
+      "Secretary and Legal Adviser",
+      "Chief Revenue Collector only",
+      "Chief Executive and Accounting Officer",
+      "Head of the Technical Committee only"
+    ],
+    "answer": 2,
+    "explanation": "Section 11(a): Chief Executive and Accounting Officer of the Service.",
+    "source": "FCT-IRS Act 2015, s.11(a)",
+    "difficulty": "easy"
+  },
+  {
+    "id": 121,
+    "topic": "FCT-IRS Act 2015",
+    "question": "Who appoints the Secretary of the Board under section 12(1), and from where?",
+    "options": [
+      "The Minister, from the FCTA civil service",
+      "The Board, from within the Service",
+      "The Chairman, from the private sector",
+      "The Head of the Civil Service of the Federation"
+    ],
+    "answer": 1,
+    "explanation": "Section 12(1)(a): the Secretary is appointed by the Board within the Service.",
+    "source": "FCT-IRS Act 2015, s.12(1)(a)",
+    "difficulty": "medium"
+  },
+  {
+    "id": 122,
+    "topic": "FCT-IRS Act 2015",
+    "question": "Staff regulations made by the Board have no effect until approved by whom and published where (section 13(2))?",
+    "options": [
+      "The Minister, and published in the FCT Gazette",
+      "The Board, and published in the Federal Gazette",
+      "The Chairman, and published in two daily newspapers",
+      "The National Assembly, and published on the Service's website"
+    ],
+    "answer": 0,
+    "explanation": "Section 13(2): approval by the Minister and publication in the FCT Gazette.",
+    "source": "FCT-IRS Act 2015, s.13(2)",
+    "difficulty": "medium"
+  },
+  {
+    "id": 123,
+    "topic": "FCT-IRS Act 2015",
+    "question": "Under section 62, a person obliged to deduct tax who fails to remit it to the Service commits an offence if remittance is not made within how many days?",
+    "options": [
+      "7 days",
+      "14 days",
+      "30 days",
+      "60 days"
+    ],
+    "answer": 2,
+    "explanation": "Section 62: failure to remit within 30 days of deduction (or of the duty to deduct arising) is an offence, with the tax withheld, a 10% per annum penalty and interest at the prevailing commercial rate.",
+    "source": "FCT-IRS Act 2015, s.62",
+    "difficulty": "hard"
+  },
+  {
+    "id": 124,
+    "topic": "FCT-IRS Act 2015",
+    "question": "What is the maximum share of the preceding year's collected revenue that may be credited to the Board's fund as administrative charge or cost of collection under section 15(a)?",
+    "options": [
+      "1%",
+      "2.5%",
+      "10%",
+      "5%"
+    ],
+    "answer": 3,
+    "explanation": "Section 15(a): an amount not more than 5% of all revenues collected in the preceding year, subject to appropriation.",
+    "source": "FCT-IRS Act 2015, s.15(a)",
+    "difficulty": "medium"
+  },
+  {
+    "id": 125,
+    "topic": "FCT-IRS Act 2015",
+    "question": "By what date each year must the Service submit its estimate of expenditure and income to the Minister (section 17(1))?",
+    "options": [
+      "30 September",
+      "31 March",
+      "30 June",
+      "31 December"
+    ],
+    "answer": 0,
+    "explanation": "Section 17(1): not later than 30th September in each year.",
+    "source": "FCT-IRS Act 2015, s.17(1)",
+    "difficulty": "medium"
+  },
+  {
+    "id": 126,
+    "topic": "FCT-IRS Act 2015",
+    "question": "Within what period after the end of each year must the Service's accounts be audited (section 17(2))?",
+    "options": [
+      "Three months",
+      "Six months",
+      "Nine months",
+      "Twelve months"
+    ],
+    "answer": 1,
+    "explanation": "Section 17(2): audited within six months after the end of each year.",
+    "source": "FCT-IRS Act 2015, s.17(2)",
+    "difficulty": "medium"
+  },
+  {
+    "id": 127,
+    "topic": "FCT-IRS Act 2015",
+    "question": "Where the sum the Service wishes to borrow is in foreign currency, what does section 20(3) require?",
+    "options": [
+      "A resolution of the Board only",
+      "Approval of the National Assembly",
+      "Prior approval of the Minister",
+      "Approval of the Central Bank of Nigeria"
+    ],
+    "answer": 2,
+    "explanation": "Section 20(3): the Service shall not borrow in foreign currency without the prior approval of the Minister.",
+    "source": "FCT-IRS Act 2015, s.20(3)",
+    "difficulty": "medium"
+  },
+  {
+    "id": 128,
+    "topic": "FCT-IRS Act 2015",
+    "question": "Section 22(3) gives the Service exclusive powers to control, administer and impose taxes and levies in the FCT notwithstanding paragraph 10 of the First Schedule to which Act?",
+    "options": [
+      "Federal Inland Revenue Service (Establishment) Act 2007",
+      "Personal Income Tax Act",
+      "Stamp Duties Act",
+      "Companies Income Tax Act"
+    ],
+    "answer": 0,
+    "explanation": "Section 22(3) refers to paragraph 10 of the First Schedule to the FIRS (Establishment) Act 2007.",
+    "source": "FCT-IRS Act 2015, s.22(3)",
+    "difficulty": "hard"
+  },
+  {
+    "id": 129,
+    "topic": "FCT-IRS Act 2015",
+    "question": "Where two or more persons act as trustees, how are they treated for tax under section 23(3)?",
+    "options": [
+      "Liable only in proportion to their shares in the trust",
+      "Liable only through the first-named trustee",
+      "Chargeable only severally",
+      "May be charged jointly or severally and are jointly and severally liable"
+    ],
+    "answer": 3,
+    "explanation": "Section 23(3): they may be charged jointly or severally and are jointly and severally liable for payment.",
+    "source": "FCT-IRS Act 2015, s.23(3)",
+    "difficulty": "medium"
+  },
+  {
+    "id": 130,
+    "topic": "FCT-IRS Act 2015",
+    "question": "The Service may request returns by notice published in how many daily national newspapers (section 24(2))?",
+    "options": [
+      "One",
+      "Two",
+      "Three",
+      "Five"
+    ],
+    "answer": 1,
+    "explanation": "Section 24(2): any two daily national newspapers.",
+    "source": "FCT-IRS Act 2015, s.24(2)",
+    "difficulty": "easy"
+  },
+  {
+    "id": 131,
+    "topic": "FCT-IRS Act 2015",
+    "question": "A taxable person whose total income exceeds ₦40,000, and who is not otherwise required to make a return, must notify the Service of the source of income within what period after the end of the year (section 24(6))?",
+    "options": [
+      "14 days",
+      "21 days",
+      "One month",
+      "Three months"
+    ],
+    "answer": 2,
+    "explanation": "Section 24(6): within one month after the end of the year.",
+    "source": "FCT-IRS Act 2015, s.24(6)",
+    "difficulty": "hard"
+  },
+  {
+    "id": 132,
+    "topic": "FCT-IRS Act 2015",
+    "question": "Where the Service refuses to accept a return, how does it determine the assessment under section 26(2)(b)?",
+    "options": [
+      "To the best of its judgment",
+      "By applying the preceding year's assessment",
+      "By agreement with the taxpayer only",
+      "Through a determination of the Tax Appeal Committee"
+    ],
+    "answer": 0,
+    "explanation": "Section 26(2)(b): the Service may refuse the return and determine the assessment to the best of its judgment.",
+    "source": "FCT-IRS Act 2015, s.26(2)(b)",
+    "difficulty": "medium"
+  },
+  {
+    "id": 133,
+    "topic": "FCT-IRS Act 2015",
+    "question": "Under section 26(4), within how many years after year-end must an employee whose tax was recovered under PAYE apply to be assessed for repayment?",
+    "options": [
+      "Two years",
+      "Three years",
+      "Five years",
+      "Six years"
+    ],
+    "answer": 3,
+    "explanation": "Section 26(4): no assessment is made on PAYE emoluments unless, within six years after the end of the year, the employee applied to be assessed for repayment or otherwise.",
+    "source": "FCT-IRS Act 2015, s.26(4)",
+    "difficulty": "hard"
+  },
+  {
+    "id": 134,
+    "topic": "FCT-IRS Act 2015",
+    "question": "An employer must produce PAYE records for examination within how many days from the date of the Service's notice (section 28(c))?",
+    "options": [
+      "7 days",
+      "21 days",
+      "30 days",
+      "14 days"
+    ],
+    "answer": 1,
+    "explanation": "Section 28(c): within 21 days from the date of notice.",
+    "source": "FCT-IRS Act 2015, s.28(c)",
+    "difficulty": "medium"
+  },
+  {
+    "id": 135,
+    "topic": "FCT-IRS Act 2015",
+    "question": "A notice of objection to an assessment must be made within how many days from the date of service of the notice of assessment (section 30(2))?",
+    "options": [
+      "14 days",
+      "21 days",
+      "30 days",
+      "90 days"
+    ],
+    "answer": 2,
+    "explanation": "Section 30(2): within 30 days from the date of service of the notice of assessment.",
+    "source": "FCT-IRS Act 2015, s.30(2)",
+    "difficulty": "easy"
+  },
+  {
+    "id": 136,
+    "topic": "FCT-IRS Act 2015",
+    "question": "Within what period of receiving an application must the Board issue a Tax Clearance Certificate where section 31(1) is satisfied?",
+    "options": [
+      "48 hours",
+      "One week",
+      "One month",
+      "Two weeks"
+    ],
+    "answer": 3,
+    "explanation": "Section 31(1): within two weeks of receipt of the application.",
+    "source": "FCT-IRS Act 2015, s.31(1)",
+    "difficulty": "medium"
+  },
+  {
+    "id": 137,
+    "topic": "FCT-IRS Act 2015",
+    "question": "A Tax Clearance Certificate is based on tax compliance for how many years immediately preceding the current year of assessment (section 31(1)(a)(i))?",
+    "options": [
+      "Three years",
+      "Two years",
+      "Five years",
+      "Six years"
+    ],
+    "answer": 0,
+    "explanation": "Section 31(1)(a)(i) and 31(8): the three years immediately preceding the current year of assessment.",
+    "source": "FCT-IRS Act 2015, s.31(1)(a)(i)",
+    "difficulty": "easy"
+  },
+  {
+    "id": 138,
+    "topic": "FCT-IRS Act 2015",
+    "question": "Under section 31(3), no Tax Clearance Certificate may be issued to an applicant who has paid his own tax liability but has failed to:",
+    "options": [
+      "File annual returns for the current year",
+      "Pay property tax on rented premises",
+      "Remit withholding tax or PAYE deductions collected on behalf of the FCT",
+      "Register the business with the Corporate Affairs Commission"
+    ],
+    "answer": 2,
+    "explanation": "Section 31(3): failure to remit withholding tax or PAYE deductions collected on behalf of the FCT bars issuance.",
+    "source": "FCT-IRS Act 2015, s.31(3)",
+    "difficulty": "medium"
+  },
+  {
+    "id": 139,
+    "topic": "FCT-IRS Act 2015",
+    "question": "Apart from paper, in what form may the Tax Clearance Certificate be issued under section 31(2)?",
+    "options": [
+      "A QR-coded certificate verified through a mobile app",
+      "An electronic format stored on a machine-readable smart card",
+      "A one-time token sent by SMS to the taxpayer",
+      "An embossed passport-style booklet"
+    ],
+    "answer": 1,
+    "explanation": "Section 31(2): electronic format on a machine-readable smart card (Electronic Tax Clearance Certificate).",
+    "source": "FCT-IRS Act 2015, s.31(2)",
+    "difficulty": "medium"
+  },
+  {
+    "id": 140,
+    "topic": "FCT-IRS Act 2015",
+    "question": "Between what hours may an authorised officer have free access to lands, buildings and documents under section 32(1)?",
+    "options": [
+      "8 a.m. and 5 p.m.",
+      "7 a.m. and 6 p.m.",
+      "8 a.m. and 4 p.m.",
+      "9 a.m. and 4 p.m."
+    ],
+    "answer": 3,
+    "explanation": "Section 32(1): between 9 a.m. and 4 p.m.",
+    "source": "FCT-IRS Act 2015, s.32(1)",
+    "difficulty": "medium"
+  },
+  {
+    "id": 141,
+    "topic": "FCT-IRS Act 2015",
+    "question": "Who may issue the written authorisation for an officer to enter a private dwelling under section 32(6)?",
+    "options": [
+      "The Chairman of the Service",
+      "A Judge of the Federal High Court",
+      "The Minister of the FCT",
+      "The Secretary to the Board"
+    ],
+    "answer": 0,
+    "explanation": "Section 32(5)-(6): entry needs the occupier's consent or a written authorisation issued by the Chairman.",
+    "source": "FCT-IRS Act 2015, s.32(5)-(6)",
+    "difficulty": "hard"
+  },
+  {
+    "id": 142,
+    "topic": "FCT-IRS Act 2015",
+    "question": "An authorisation to enter a private dwelling is valid for how long, unless the Chairman fixes a shorter period (section 32(7)(c))?",
+    "options": [
+      "14 days",
+      "One month",
+      "Three months",
+      "Six months"
+    ],
+    "answer": 2,
+    "explanation": "Section 32(7)(c): valid for 3 months, and renewable by the Chairman on application.",
+    "source": "FCT-IRS Act 2015, s.32(7)(c)",
+    "difficulty": "hard"
+  },
+  {
+    "id": 143,
+    "topic": "FCT-IRS Act 2015",
+    "question": "If tax is not paid within the prescribed period, what percentage of the tax payable is added under section 34(3)?",
+    "options": [
+      "5%",
+      "10%",
+      "15%",
+      "25%"
+    ],
+    "answer": 1,
+    "explanation": "Section 34(3): a sum equal to 10 per cent of the tax payable is added, and interest runs at the prevailing CBN commercial rate.",
+    "source": "FCT-IRS Act 2015, s.34(3)",
+    "difficulty": "medium"
+  },
+  {
+    "id": 144,
+    "topic": "FCT-IRS Act 2015",
+    "question": "For how many days may distrained goods be kept at the defaulter's expense before sale under section 35(5)?",
+    "options": [
+      "7 days",
+      "21 days",
+      "30 days",
+      "14 days"
+    ],
+    "answer": 3,
+    "explanation": "Section 35(5): kept for 14 days, after which they may be sold if the amount due is not paid.",
+    "source": "FCT-IRS Act 2015, s.35(5)",
+    "difficulty": "medium"
+  },
+  {
+    "id": 145,
+    "topic": "FCT-IRS Act 2015",
+    "question": "What does section 35(7) require before immovable property may be sold under distraint?",
+    "options": [
+      "An order of the Federal High Court",
+      "Written approval of the Minister",
+      "A resolution of the Board",
+      "A notice published in two daily newspapers"
+    ],
+    "answer": 0,
+    "explanation": "Section 35(7): the sale of immovable property requires an order of a Federal High Court.",
+    "source": "FCT-IRS Act 2015, s.35(7)",
+    "difficulty": "medium"
+  },
+  {
+    "id": 146,
+    "topic": "FCT-IRS Act 2015",
+    "question": "Under section 36(1), any amount due by way of tax constitutes:",
+    "options": [
+      "A contingent liability of the Service",
+      "A debt due to the FCT",
+      "A statutory fine",
+      "A lien on the taxpayer's property"
+    ],
+    "answer": 1,
+    "explanation": "Section 36(1): a debt due to the FCT, recoverable by civil action brought by the Board.",
+    "source": "FCT-IRS Act 2015, s.36(1)",
+    "difficulty": "easy"
+  },
+  {
+    "id": 147,
+    "topic": "FCT-IRS Act 2015",
+    "question": "What is the penalty under section 42(2) for communicating confidential information contrary to that section?",
+    "options": [
+      "₦50,000 or 3 months' imprisonment, or both",
+      "₦100,000 or 1 year's imprisonment, or both",
+      "₦200,000 or 3 years' imprisonment, or both",
+      "₦500,000 or 5 years' imprisonment, or both"
+    ],
+    "answer": 2,
+    "explanation": "Section 42(2): a fine of ₦200,000 or imprisonment for 3 years or both.",
+    "source": "FCT-IRS Act 2015, s.42(2)",
+    "difficulty": "hard"
+  },
+  {
+    "id": 148,
+    "topic": "FCT-IRS Act 2015",
+    "question": "What is the minimum number of magistrates the Chief Judge of the FCT must designate in each Area Council to give priority to revenue matters (section 47)?",
+    "options": [
+      "One",
+      "Three",
+      "Five",
+      "Two"
+    ],
+    "answer": 3,
+    "explanation": "Section 47: at least two magistrates in each Area Council.",
+    "source": "FCT-IRS Act 2015, s.47",
+    "difficulty": "medium"
+  },
+  {
+    "id": 149,
+    "topic": "FCT-IRS Act 2015",
+    "question": "What is the term of office of an Appeal Commissioner under section 50(7)(b)?",
+    "options": [
+      "2 years",
+      "3 years",
+      "4 years",
+      "5 years"
+    ],
+    "answer": 1,
+    "explanation": "Section 50(7)(b): a period of 3 years from the date of appointment.",
+    "source": "FCT-IRS Act 2015, s.50(7)(b)",
+    "difficulty": "medium"
+  },
+  {
+    "id": 150,
+    "topic": "FCT-IRS Act 2015",
+    "question": "Where no specific penalty is provided, what is the penalty for contravening the Act under section 57(1)?",
+    "options": [
+      "A fine of ₦200,000, or imprisonment not exceeding 6 months, or both",
+      "A fine of ₦100,000, or imprisonment not exceeding 3 months, or both",
+      "A fine of ₦500,000, or imprisonment not exceeding 12 months, or both",
+      "A fine of ₦50,000, or imprisonment not exceeding 1 month, or both"
+    ],
+    "answer": 0,
+    "explanation": "Section 57(1): a fine of ₦200,000, or imprisonment not exceeding 6 months, or both.",
+    "source": "FCT-IRS Act 2015, s.57(1)",
+    "difficulty": "hard"
+  }
+]

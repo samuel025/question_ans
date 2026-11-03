@@ -1,0 +1,752 @@
+[
+  {
+    "id": 801,
+    "topic": "Ethics, Leadership and ICT/Revenue Systems",
+    "question": "Under para 1 of the Code of Conduct for Public Officers, a public officer shall not put himself in a position where:",
+    "options": [
+      "His personal interest conflicts with his duties and responsibilities",
+      "His duties conflict with those of a superior officer",
+      "His salary exceeds the approved scale",
+      "His spouse holds a private business"
+    ],
+    "answer": 0,
+    "explanation": "Para 1 bars a conflict between personal interest and the duties and responsibilities of the office.",
+    "source": "1999 Constitution, Fifth Schedule, Part I, para 1",
+    "difficulty": "easy"
+  },
+  {
+    "id": 802,
+    "topic": "Ethics, Leadership and ICT/Revenue Systems",
+    "question": "Para 2 of the Code of Conduct provides that a public officer shall not receive:",
+    "options": [
+      "Any allowance on top of his salary",
+      "Remuneration from a private company",
+      "Remuneration from more than one public office at the same time",
+      "A pension and a salary together"
+    ],
+    "answer": 2,
+    "explanation": "Without prejudice to para 1, an officer may not draw pay from more than one public office at once.",
+    "source": "1999 Constitution, Fifth Schedule, Part I, para 2",
+    "difficulty": "medium"
+  },
+  {
+    "id": 803,
+    "topic": "Ethics, Leadership and ICT/Revenue Systems",
+    "question": "Para 3 of the Code of Conduct prohibits certain senior officials, including the President, governors, ministers and legislators, from:",
+    "options": [
+      "Holding more than one bank account in Nigeria",
+      "Owning shares in any company",
+      "Travelling abroad without approval",
+      "Holding or operating a bank account outside Nigeria"
+    ],
+    "answer": 3,
+    "explanation": "Para 3 covers the listed offices and bars foreign bank accounts.",
+    "source": "1999 Constitution, Fifth Schedule, Part I, para 3",
+    "difficulty": "medium"
+  },
+  {
+    "id": 804,
+    "topic": "Ethics, Leadership and ICT/Revenue Systems",
+    "question": "Para 4 of the Code of Conduct, on a retiree who receives a public pension, allows him to hold:",
+    "options": [
+      "Any number of posts in government-owned companies",
+      "Only one remunerated post as chairman, director or employee of a government-owned company or public authority",
+      "No remunerated post of any kind",
+      "One post in a private company and one in a public company"
+    ],
+    "answer": 1,
+    "explanation": "While on a public pension, a retiree may hold only one remunerated post of the kind described.",
+    "source": "1999 Constitution, Fifth Schedule, Part I, para 4",
+    "difficulty": "hard"
+  },
+  {
+    "id": 805,
+    "topic": "Ethics, Leadership and ICT/Revenue Systems",
+    "question": "Para 5 of the Code of Conduct bars retired holders of which offices from working for foreign companies or enterprises?",
+    "options": [
+      "Ministers and commissioners only",
+      "Permanent Secretaries and Directors",
+      "Members of the National Assembly only",
+      "President, Vice-President, Chief Justice, governor and deputy governor"
+    ],
+    "answer": 3,
+    "explanation": "Para 5 names the President, Vice-President, Chief Justice, governor and deputy governor.",
+    "source": "1999 Constitution, Fifth Schedule, Part I, para 5",
+    "difficulty": "hard"
+  },
+  {
+    "id": 806,
+    "topic": "Ethics, Leadership and ICT/Revenue Systems",
+    "question": "Under para 6 of the Code of Conduct, a gift to a public officer from a company that has contracts with government is:",
+    "options": [
+      "Always permitted if it is small",
+      "Presumed to be improper unless the contrary is proved",
+      "Permitted if declared at year end",
+      "Presumed proper unless the Bureau objects"
+    ],
+    "answer": 1,
+    "explanation": "Para 6 raises a presumption of impropriety for gifts from firms with government contracts.",
+    "source": "1999 Constitution, Fifth Schedule, Part I, para 6",
+    "difficulty": "medium"
+  },
+  {
+    "id": 807,
+    "topic": "Ethics, Leadership and ICT/Revenue Systems",
+    "question": "Under para 6 of the Code of Conduct, a gift given to a public officer on a public or ceremonial occasion is treated as:",
+    "options": [
+      "A personal gift to the officer",
+      "A taxable benefit",
+      "An inducement",
+      "A gift to the institution he represents"
+    ],
+    "answer": 3,
+    "explanation": "Gifts on public or ceremonial occasions are gifts to the institution the officer represents.",
+    "source": "1999 Constitution, Fifth Schedule, Part I, para 6",
+    "difficulty": "hard"
+  },
+  {
+    "id": 808,
+    "topic": "Ethics, Leadership and ICT/Revenue Systems",
+    "question": "Under para 7 of the Code of Conduct, listed senior officials may take loans only from:",
+    "options": [
+      "Any person approved by the Head of Service",
+      "Government bodies or recognised financial institutions",
+      "Companies, contractors or businessmen",
+      "Relatives and friends"
+    ],
+    "answer": 1,
+    "explanation": "Para 7 restricts loans to government bodies and recognised financial institutions, and bars benefits from companies, contractors or businessmen.",
+    "source": "1999 Constitution, Fifth Schedule, Part I, para 7",
+    "difficulty": "hard"
+  },
+  {
+    "id": 809,
+    "topic": "Ethics, Leadership and ICT/Revenue Systems",
+    "question": "Para 8 of the Code of Conduct makes it a breach to:",
+    "options": [
+      "Accept a salary advance",
+      "Attend a ceremony at government expense",
+      "Offer a public officer property, gifts or benefits as an inducement or bribe for a favour",
+      "Receive a pension"
+    ],
+    "answer": 2,
+    "explanation": "Para 8 prohibits offering inducements or bribes to public officers.",
+    "source": "1999 Constitution, Fifth Schedule, Part I, para 8",
+    "difficulty": "easy"
+  },
+  {
+    "id": 810,
+    "topic": "Ethics, Leadership and ICT/Revenue Systems",
+    "question": "Para 9 of the Code of Conduct, on abuse of office, concerns an officer who:",
+    "options": [
+      "Resigns before completing his tenure",
+      "Delegates a duty to a subordinate",
+      "Declines a promotion",
+      "Does an arbitrary act prejudicial to another person's rights, knowing it is unlawful or contrary to government policy"
+    ],
+    "answer": 3,
+    "explanation": "Para 9 covers arbitrary acts that harm another person's rights, done knowingly in abuse of office.",
+    "source": "1999 Constitution, Fifth Schedule, Part I, para 9",
+    "difficulty": "medium"
+  },
+  {
+    "id": 811,
+    "topic": "Ethics, Leadership and ICT/Revenue Systems",
+    "question": "Para 10 of the Code of Conduct bars a public officer from belonging to a society whose membership is:",
+    "options": [
+      "Open to the public",
+      "Registered with the CAC",
+      "Incompatible with the functions or dignity of his office",
+      "Foreign in origin"
+    ],
+    "answer": 2,
+    "explanation": "Para 10 prohibits membership of societies incompatible with the functions or dignity of the office.",
+    "source": "1999 Constitution, Fifth Schedule, Part I, para 10",
+    "difficulty": "medium"
+  },
+  {
+    "id": 812,
+    "topic": "Ethics, Leadership and ICT/Revenue Systems",
+    "question": "A public officer must declare his assets to the Code of Conduct Bureau within three months of taking office, and thereafter:",
+    "options": [
+      "Every year",
+      "Every two years",
+      "Only at the end of his term",
+      "At the end of every four years and at the end of his term"
+    ],
+    "answer": 3,
+    "explanation": "Para 11: within three months, then every four years, and at the end of the term of office.",
+    "source": "1999 Constitution, Fifth Schedule, Part I, para 11",
+    "difficulty": "easy"
+  },
+  {
+    "id": 813,
+    "topic": "Ethics, Leadership and ICT/Revenue Systems",
+    "question": "A public officer's asset declaration under para 11 must also cover the assets of:",
+    "options": [
+      "His parents",
+      "His unmarried children under 18",
+      "His siblings",
+      "His business partners"
+    ],
+    "answer": 1,
+    "explanation": "The declaration covers the officer and his unmarried children under 18.",
+    "source": "1999 Constitution, Fifth Schedule, Part I, para 11",
+    "difficulty": "medium"
+  },
+  {
+    "id": 814,
+    "topic": "Ethics, Leadership and ICT/Revenue Systems",
+    "question": "Under para 11 of the Code of Conduct, an asset acquired after declaration that cannot be fairly attributed to approved income, gifts or loans is:",
+    "options": [
+      "Presumed to be a breach unless the officer proves otherwise",
+      "Presumed lawful unless the Bureau disproves it",
+      "Exempt from the Code",
+      "A matter for the police only"
+    ],
+    "answer": 0,
+    "explanation": "Para 11 puts the burden on the officer to explain unattributable assets.",
+    "source": "1999 Constitution, Fifth Schedule, Part I, para 11",
+    "difficulty": "hard"
+  },
+  {
+    "id": 815,
+    "topic": "Ethics, Leadership and ICT/Revenue Systems",
+    "question": "Under para 12 of the Code of Conduct, allegations that a public officer breached the Code must be made to:",
+    "options": [
+      "The Code of Conduct Tribunal",
+      "The Federal High Court",
+      "The Code of Conduct Bureau",
+      "The Head of the Civil Service"
+    ],
+    "answer": 2,
+    "explanation": "Para 12 requires such allegations to go to the Bureau, which may refer matters to the Tribunal.",
+    "source": "1999 Constitution, Fifth Schedule, Part I, para 12",
+    "difficulty": "medium"
+  },
+  {
+    "id": 816,
+    "topic": "Ethics, Leadership and ICT/Revenue Systems",
+    "question": "Under para 13 of the Code of Conduct, doing a prohibited act through a nominee, trustee or agent is:",
+    "options": [
+      "Permitted if the agent is a relative",
+      "Itself a breach of the Code",
+      "Permitted if declared to the Bureau",
+      "Not covered by the Code"
+    ],
+    "answer": 1,
+    "explanation": "Para 13 treats acts done through nominees, trustees or agents as breaches.",
+    "source": "1999 Constitution, Fifth Schedule, Part I, para 13",
+    "difficulty": "hard"
+  },
+  {
+    "id": 817,
+    "topic": "Ethics, Leadership and ICT/Revenue Systems",
+    "question": "The Code of Conduct Tribunal consists of:",
+    "options": [
+      "A chairman and two other members",
+      "A chairman and four other members",
+      "Five members and no chairman",
+      "A chairman and nine other members"
+    ],
+    "answer": 0,
+    "explanation": "Para 15 gives the Tribunal a chairman and two other members.",
+    "source": "1999 Constitution, Fifth Schedule, Part I, para 15",
+    "difficulty": "medium"
+  },
+  {
+    "id": 818,
+    "topic": "Ethics, Leadership and ICT/Revenue Systems",
+    "question": "The chairman of the Code of Conduct Tribunal must be qualified to be a judge of:",
+    "options": [
+      "The Supreme Court only",
+      "The Federal High Court only",
+      "A magistrate's court",
+      "A superior court of record"
+    ],
+    "answer": 3,
+    "explanation": "Para 15 requires qualification to be a judge of a superior court of record.",
+    "source": "1999 Constitution, Fifth Schedule, Part I, para 15",
+    "difficulty": "hard"
+  },
+  {
+    "id": 819,
+    "topic": "Ethics, Leadership and ICT/Revenue Systems",
+    "question": "Members of the Code of Conduct Tribunal are appointed by:",
+    "options": [
+      "The President, on the recommendation of the National Judicial Council",
+      "The Senate President",
+      "The Chief Justice of Nigeria alone",
+      "The Federal Civil Service Commission"
+    ],
+    "answer": 0,
+    "explanation": "Para 15: the President appoints on the National Judicial Council's recommendation.",
+    "source": "1999 Constitution, Fifth Schedule, Part I, para 15",
+    "difficulty": "hard"
+  },
+  {
+    "id": 820,
+    "topic": "Ethics, Leadership and ICT/Revenue Systems",
+    "question": "The chairman and members of the Code of Conduct Tribunal leave office at the age of:",
+    "options": [
+      "65 years",
+      "70 years",
+      "60 years",
+      "75 years"
+    ],
+    "answer": 1,
+    "explanation": "Para 17 sets retirement at 70; those with at least ten years' service get a lifetime pension.",
+    "source": "1999 Constitution, Fifth Schedule, Part I, para 17",
+    "difficulty": "hard"
+  },
+  {
+    "id": 821,
+    "topic": "Ethics, Leadership and ICT/Revenue Systems",
+    "question": "Among the punishments the Code of Conduct Tribunal may impose on an officer found guilty is disqualification from public office for a period not exceeding:",
+    "options": [
+      "Ten years",
+      "Five years",
+      "Fifteen years",
+      "Twenty years"
+    ],
+    "answer": 0,
+    "explanation": "Para 18(2) provides for disqualification for up to ten years.",
+    "source": "1999 Constitution, Fifth Schedule, Part I, para 18(2)",
+    "difficulty": "medium"
+  },
+  {
+    "id": 822,
+    "topic": "Ethics, Leadership and ICT/Revenue Systems",
+    "question": "Under para 18 of the Code of Conduct, property acquired through abuse or corruption of office may be:",
+    "options": [
+      "Returned to the officer after ten years",
+      "Sold by the Bureau for its own use",
+      "Held in trust for the family",
+      "Forfeited to the State"
+    ],
+    "answer": 3,
+    "explanation": "Para 18(2) provides for seizure and forfeiture to the State.",
+    "source": "1999 Constitution, Fifth Schedule, Part I, para 18(2)",
+    "difficulty": "medium"
+  },
+  {
+    "id": 823,
+    "topic": "Ethics, Leadership and ICT/Revenue Systems",
+    "question": "Appeals from decisions of the Code of Conduct Tribunal lie to:",
+    "options": [
+      "The Court of Appeal, as of right",
+      "The Federal High Court",
+      "The Supreme Court directly",
+      "The National Judicial Council"
+    ],
+    "answer": 0,
+    "explanation": "Para 18 gives an appeal as of right to the Court of Appeal.",
+    "source": "1999 Constitution, Fifth Schedule, Part I, para 18",
+    "difficulty": "medium"
+  },
+  {
+    "id": 824,
+    "topic": "Ethics, Leadership and ICT/Revenue Systems",
+    "question": "Regarding punishments imposed by the Code of Conduct Tribunal, the prerogative of mercy:",
+    "options": [
+      "Applies on the President's advice",
+      "Applies after five years",
+      "Does not apply",
+      "Applies only to forfeiture"
+    ],
+    "answer": 2,
+    "explanation": "Para 18 says the prerogative of mercy does not apply to these punishments.",
+    "source": "1999 Constitution, Fifth Schedule, Part I, para 18",
+    "difficulty": "hard"
+  },
+  {
+    "id": 825,
+    "topic": "Ethics, Leadership and ICT/Revenue Systems",
+    "question": "The Code of Conduct Bureau consists of:",
+    "options": [
+      "A chairman and twelve other members",
+      "A chairman and nine other members",
+      "A chairman and two other members",
+      "Five members including the chairman"
+    ],
+    "answer": 1,
+    "explanation": "Para 1 of Part I (Code of Conduct Bureau) gives ten members in all: a chairman and nine others.",
+    "source": "1999 Constitution, Third Schedule, Part I, Code of Conduct Bureau, para 1",
+    "difficulty": "easy"
+  },
+  {
+    "id": 826,
+    "topic": "Ethics, Leadership and ICT/Revenue Systems",
+    "question": "The minimum age of a member of the Code of Conduct Bureau at appointment is:",
+    "options": [
+      "Fifty years",
+      "Forty years",
+      "Forty-five years",
+      "Fifty-five years"
+    ],
+    "answer": 0,
+    "explanation": "Members must be not less than fifty years old.",
+    "source": "1999 Constitution, Third Schedule, Part I, Code of Conduct Bureau, para 1",
+    "difficulty": "hard"
+  },
+  {
+    "id": 827,
+    "topic": "Ethics, Leadership and ICT/Revenue Systems",
+    "question": "A member of the Code of Conduct Bureau vacates office on attaining the age of:",
+    "options": [
+      "Sixty years",
+      "Seventy years",
+      "Sixty-five years",
+      "Seventy-five years"
+    ],
+    "answer": 1,
+    "explanation": "Para 1 provides for vacation of office at seventy.",
+    "source": "1999 Constitution, Third Schedule, Part I, Code of Conduct Bureau, para 1",
+    "difficulty": "medium"
+  },
+  {
+    "id": 828,
+    "topic": "Ethics, Leadership and ICT/Revenue Systems",
+    "question": "The Code of Conduct Bureau may establish offices:",
+    "options": [
+      "Only in the Federal Capital Territory",
+      "Only in the six geo-political zones",
+      "In each local government area",
+      "In each State of the Federation as needed"
+    ],
+    "answer": 3,
+    "explanation": "Para 2 permits offices in each State as necessary.",
+    "source": "1999 Constitution, Third Schedule, Part I, Code of Conduct Bureau, para 2",
+    "difficulty": "medium"
+  },
+  {
+    "id": 829,
+    "topic": "Ethics, Leadership and ICT/Revenue Systems",
+    "question": "Which function belongs to the Code of Conduct Bureau under para 3?",
+    "options": [
+      "Impose forfeiture of property",
+      "Receive and investigate complaints of breach and refer matters to the Tribunal where appropriate",
+      "Sentence officers to disqualification",
+      "Hear appeals from the Tribunal"
+    ],
+    "answer": 1,
+    "explanation": "The Bureau investigates and refers; the Tribunal adjudicates and punishes.",
+    "source": "1999 Constitution, Third Schedule, Part I, Code of Conduct Bureau, para 3",
+    "difficulty": "medium"
+  },
+  {
+    "id": 830,
+    "topic": "Ethics, Leadership and ICT/Revenue Systems",
+    "question": "Under para 3 of Part I (Code of Conduct Bureau), declarations of assets are kept by the Bureau and made available:",
+    "options": [
+      "For inspection by any citizen of Nigeria, on terms set by the National Assembly",
+      "Only to the President",
+      "Only to the Tribunal",
+      "Only to the National Assembly"
+    ],
+    "answer": 0,
+    "explanation": "The Bureau keeps custody of declarations and makes them available for citizen inspection.",
+    "source": "1999 Constitution, Third Schedule, Part I, Code of Conduct Bureau, para 3",
+    "difficulty": "medium"
+  },
+  {
+    "id": 831,
+    "topic": "Ethics, Leadership and ICT/Revenue Systems",
+    "question": "The terms and conditions of service of staff of the Code of Conduct Bureau are the same as those of:",
+    "options": [
+      "Judicial officers",
+      "Members of the National Assembly",
+      "Civil servants of the Federation",
+      "Armed forces personnel"
+    ],
+    "answer": 2,
+    "explanation": "Para 4 aligns Bureau staff with civil servants of the Federation.",
+    "source": "1999 Constitution, Third Schedule, Part I, Code of Conduct Bureau, para 4",
+    "difficulty": "hard"
+  },
+  {
+    "id": 832,
+    "topic": "Ethics, Leadership and ICT/Revenue Systems",
+    "question": "Under the Corrupt Practices and Other Related Offences Act 2000, an official who fails without reasonable excuse to report a bribery offer or demand is liable to:",
+    "options": [
+      "Imprisonment for seven years",
+      "A fine of ₦1,000,000",
+      "Imprisonment for up to five years",
+      "A fine of up to ₦100,000, or imprisonment for up to two years, or both"
+    ],
+    "answer": 3,
+    "explanation": "Duty to report: fine up to ₦100,000 or imprisonment up to two years, or both.",
+    "source": "Corrupt Practices and Other Related Offences Act 2000, s.26 [as read via a summary of the placng text; spot-check]",
+    "difficulty": "hard"
+  },
+  {
+    "id": 833,
+    "topic": "Ethics, Leadership and ICT/Revenue Systems",
+    "question": "Under the Corrupt Practices and Other Related Offences Act 2000, bribery relating to public contracts and inflating prices above market rates attracts imprisonment for seven years or:",
+    "options": [
+      "A fine of ₦100,000",
+      "A fine of ₦1,000,000",
+      "A fine of ₦500,000",
+      "A fine of ₦5,000,000"
+    ],
+    "answer": 1,
+    "explanation": "The penalty is seven years or a fine of one million naira.",
+    "source": "Corrupt Practices and Other Related Offences Act 2000, s.25 [as read via a summary of the placng text; spot-check]",
+    "difficulty": "hard"
+  },
+  {
+    "id": 834,
+    "topic": "Ethics, Leadership and ICT/Revenue Systems",
+    "question": "Under the Corrupt Practices and Other Related Offences Act 2000, dealing with or concealing property that is the subject of specified offences attracts imprisonment for a term not exceeding:",
+    "options": [
+      "Five years",
+      "Three years",
+      "Seven years",
+      "Ten years"
+    ],
+    "answer": 0,
+    "explanation": "Dealing with proceeds of the specified offences: up to five years.",
+    "source": "Corrupt Practices and Other Related Offences Act 2000, s.27 [as read via a summary of the placng text; spot-check]",
+    "difficulty": "hard"
+  },
+  {
+    "id": 835,
+    "topic": "Ethics, Leadership and ICT/Revenue Systems",
+    "question": "Under the Corrupt Practices and Other Related Offences Act 2000, 'gratification' includes:",
+    "options": [
+      "Only cash payments",
+      "Only gifts of property",
+      "Forbearance from demanding money or money's worth due",
+      "Only offers made to public officers"
+    ],
+    "answer": 2,
+    "explanation": "Gratification covers money, gifts, offices, loan repayments, discounts, forbearance from demanding payment, protection from penalties and similar advantages.",
+    "source": "Corrupt Practices and Other Related Offences Act 2000, s.2 [as read via a summary of the placng text; spot-check]",
+    "difficulty": "medium"
+  },
+  {
+    "id": 836,
+    "topic": "Ethics, Leadership and ICT/Revenue Systems",
+    "question": "Which of the following is expressly covered by the Act's definition of 'gratification'?",
+    "options": [
+      "A salary increase approved by the Federal Executive Council",
+      "A public holiday",
+      "A statutory pension",
+      "Protection from penalty or proceedings"
+    ],
+    "answer": 3,
+    "explanation": "The definition includes protection from penalties or proceedings, given or promised with intent to influence.",
+    "source": "Corrupt Practices and Other Related Offences Act 2000, s.2 [as read via a summary of the placng text; spot-check]",
+    "difficulty": "medium"
+  },
+  {
+    "id": 837,
+    "topic": "Ethics, Leadership and ICT/Revenue Systems",
+    "question": "Which body is established by s.4 of the Nigeria Data Protection Act 2023?",
+    "options": [
+      "The National Data Protection Bureau",
+      "The Nigeria Cybersecurity Council",
+      "The Nigeria Data Protection Commission",
+      "The National Information Technology Development Agency"
+    ],
+    "answer": 2,
+    "explanation": "The Act establishes the Commission, replacing the National Data Protection Bureau as regulator.",
+    "source": "Nigeria Data Protection Act 2023, s.4",
+    "difficulty": "easy"
+  },
+  {
+    "id": 838,
+    "topic": "Ethics, Leadership and ICT/Revenue Systems",
+    "question": "Under the Nigeria Data Protection Act 2023, a data controller of major importance must designate:",
+    "options": [
+      "A Data Protection Officer",
+      "A Chief Revenue Officer",
+      "A Tax Ombud",
+      "An Information Commissioner"
+    ],
+    "answer": 0,
+    "explanation": "Section 32 requires a DPO with expert knowledge of data protection law.",
+    "source": "Nigeria Data Protection Act 2023, s.32",
+    "difficulty": "medium"
+  },
+  {
+    "id": 839,
+    "topic": "Ethics, Leadership and ICT/Revenue Systems",
+    "question": "Under s.40 of the Nigeria Data Protection Act 2023, a controller must notify the Commission of a breach likely to risk individuals' rights within:",
+    "options": [
+      "24 hours of becoming aware",
+      "7 days of becoming aware",
+      "72 hours of becoming aware",
+      "30 days of becoming aware"
+    ],
+    "answer": 2,
+    "explanation": "A processor tells the controller; the controller tells the Commission within 72 hours.",
+    "source": "Nigeria Data Protection Act 2023, s.40",
+    "difficulty": "easy"
+  },
+  {
+    "id": 840,
+    "topic": "Ethics, Leadership and ICT/Revenue Systems",
+    "question": "Under s.40 of the Nigeria Data Protection Act 2023, where a breach poses a high risk to individuals, the controller must also:",
+    "options": [
+      "Wait for the Commission's instruction",
+      "Communicate it to the affected data subjects immediately",
+      "Publish it in the Gazette",
+      "Notify the Attorney-General only"
+    ],
+    "answer": 1,
+    "explanation": "High-risk breaches must be communicated to affected data subjects immediately.",
+    "source": "Nigeria Data Protection Act 2023, s.40",
+    "difficulty": "medium"
+  },
+  {
+    "id": 841,
+    "topic": "Ethics, Leadership and ICT/Revenue Systems",
+    "question": "Under s.26 of the Nigeria Data Protection Act 2023, the silence or inactivity of a data subject:",
+    "options": [
+      "Constitutes implied consent",
+      "Constitutes consent after 30 days",
+      "Does not constitute consent",
+      "Constitutes consent for public bodies"
+    ],
+    "answer": 2,
+    "explanation": "Consent must be affirmative; silence or inactivity is not consent, and the controller bears the burden of proving it.",
+    "source": "Nigeria Data Protection Act 2023, s.26",
+    "difficulty": "easy"
+  },
+  {
+    "id": 842,
+    "topic": "Ethics, Leadership and ICT/Revenue Systems",
+    "question": "Under s.31 of the Nigeria Data Protection Act 2023, before relying on consent to process a child's data, the controller must obtain consent of:",
+    "options": [
+      "The parent or legal guardian",
+      "The child alone",
+      "The school",
+      "The Commission"
+    ],
+    "answer": 0,
+    "explanation": "The section covers children and persons lacking legal capacity, and requires verification by appropriate means.",
+    "source": "Nigeria Data Protection Act 2023, s.31",
+    "difficulty": "medium"
+  },
+  {
+    "id": 843,
+    "topic": "Ethics, Leadership and ICT/Revenue Systems",
+    "question": "Which of the following is sensitive personal data under s.30 of the Nigeria Data Protection Act 2023?",
+    "options": [
+      "A person's occupation",
+      "A person's postcode",
+      "A business registration number",
+      "Biometric data"
+    ],
+    "answer": 3,
+    "explanation": "Sensitive personal data includes genetic and biometric data, health status, religious beliefs and political opinions.",
+    "source": "Nigeria Data Protection Act 2023, s.30",
+    "difficulty": "medium"
+  },
+  {
+    "id": 844,
+    "topic": "Ethics, Leadership and ICT/Revenue Systems",
+    "question": "Under s.44 of the Nigeria Data Protection Act 2023, controllers of major importance must register with the Commission within:",
+    "options": [
+      "Six months of commencement or of becoming such a controller",
+      "Thirty days",
+      "Three months",
+      "Twelve months"
+    ],
+    "answer": 0,
+    "explanation": "Registration is within six months; significant changes are notified within 60 days.",
+    "source": "Nigeria Data Protection Act 2023, s.44",
+    "difficulty": "medium"
+  },
+  {
+    "id": 845,
+    "topic": "Ethics, Leadership and ICT/Revenue Systems",
+    "question": "The maximum fine for a data controller or processor of major importance under s.48 of the Nigeria Data Protection Act 2023 is the greater of 2% of annual gross revenue in the preceding year and:",
+    "options": [
+      "₦2,000,000",
+      "₦5,000,000",
+      "₦10,000,000",
+      "₦50,000,000"
+    ],
+    "answer": 2,
+    "explanation": "Higher tier: greater of ₦10m and 2% of prior-year gross revenue.",
+    "source": "Nigeria Data Protection Act 2023, s.48",
+    "difficulty": "hard"
+  },
+  {
+    "id": 846,
+    "topic": "Ethics, Leadership and ICT/Revenue Systems",
+    "question": "The maximum fine for a data controller or processor not of major importance under s.48 is the greater of 2% of annual gross revenue in the preceding year and:",
+    "options": [
+      "₦10,000,000",
+      "₦1,000,000",
+      "₦5,000,000",
+      "₦2,000,000"
+    ],
+    "answer": 3,
+    "explanation": "Standard tier: greater of ₦2m and 2% of prior-year gross revenue.",
+    "source": "Nigeria Data Protection Act 2023, s.48",
+    "difficulty": "hard"
+  },
+  {
+    "id": 847,
+    "topic": "Ethics, Leadership and ICT/Revenue Systems",
+    "question": "Under the Nigeria Data Protection Act 2023, the Chairman of the Governing Council of the Commission is:",
+    "options": [
+      "The Minister of Communications",
+      "A part-time chairman who is a retired judge, serving four years renewable once",
+      "The Attorney-General",
+      "A serving Supreme Court justice"
+    ],
+    "answer": 1,
+    "explanation": "Sections 8-10 provide a part-time Chairman, a retired judge, appointed by the President on the Minister's recommendation for four years, renewable once.",
+    "source": "Nigeria Data Protection Act 2023, s.8-10",
+    "difficulty": "hard"
+  },
+  {
+    "id": 848,
+    "topic": "Ethics, Leadership and ICT/Revenue Systems",
+    "question": "The National Commissioner, chief executive of the Nigeria Data Protection Commission, serves a term of:",
+    "options": [
+      "Four years, renewable once",
+      "Six years, non-renewable",
+      "Three years, renewable twice",
+      "Five years, renewable once"
+    ],
+    "answer": 3,
+    "explanation": "Section 14: five years, renewable once; the role requires a data protection certification and at least ten years' senior experience.",
+    "source": "Nigeria Data Protection Act 2023, s.14",
+    "difficulty": "hard"
+  },
+  {
+    "id": 849,
+    "topic": "Ethics, Leadership and ICT/Revenue Systems",
+    "question": "The e-invoicing and electronic fiscal system announced by the Nigeria Revenue Service in February 2026 is also called:",
+    "options": [
+      "The Merchant Buyer Solution (MBS)",
+      "TaxPro-Max",
+      "The Integrated Payroll System",
+      "The Treasury Single Account"
+    ],
+    "answer": 0,
+    "explanation": "The NRS notice described the E-Invoicing and Electronic Fiscal System, the Merchant Buyer Solution.",
+    "source": "Nairametrics, 17 Feb 2026 [secondary source]",
+    "difficulty": "medium"
+  },
+  {
+    "id": 850,
+    "topic": "Ethics, Leadership and ICT/Revenue Systems",
+    "question": "In the NRS e-invoicing roll-out, medium taxpayers are those with annual turnover of:",
+    "options": [
+      "₦100 million to ₦1 billion",
+      "Above ₦5 billion",
+      "₦1 billion to ₦5 billion",
+      "₦50 million to ₦500 million"
+    ],
+    "answer": 2,
+    "explanation": "Medium taxpayers fall between ₦1bn and ₦5bn; emerging taxpayers are below ₦1bn.",
+    "source": "Nairametrics, 17 Feb 2026 [secondary source]",
+    "difficulty": "hard"
+  }
+]

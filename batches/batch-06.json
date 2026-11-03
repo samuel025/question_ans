@@ -1,0 +1,752 @@
+[
+  {
+    "id": 601,
+    "topic": "Tax Audit and Investigation",
+    "question": "The six-year limit on additional assessments in section 36(1) does NOT prevent the relevant tax authority from:",
+    "options": [
+      "Raising an assessment for any year without giving notice",
+      "Assessing a taxable person who has filed nil returns",
+      "Extending the limit by notice in the Gazette",
+      "Continuing a tax audit that began before the six years expired and raising an additional assessment from it"
+    ],
+    "answer": 3,
+    "explanation": "Section 36(2) preserves an audit that commenced before the six-year period ended. Section 36(4) separately removes the limit for deliberate misstatement.",
+    "source": "NTAA 2025 s.36(2)",
+    "difficulty": "medium"
+  },
+  {
+    "id": 602,
+    "topic": "Tax Audit and Investigation",
+    "question": "In computing an additional assessment under section 36, the relevant tax authority:",
+    "options": [
+      "May rely only on the facts available at the time of the earlier assessment",
+      "Must consider all relevant facts, even those not known when an earlier assessment was made for the same year",
+      "Must exclude facts supplied by third parties",
+      "Must obtain the taxpayer's consent to any new facts"
+    ],
+    "answer": 1,
+    "explanation": "Section 36(5) requires all relevant facts to be considered, including facts unknown at the time of the prior assessment.",
+    "source": "NTAA 2025 s.36(5)",
+    "difficulty": "hard"
+  },
+  {
+    "id": 603,
+    "topic": "Tax Audit and Investigation",
+    "question": "Under section 35(4), an administrative assessment may be made before the time for delivering a return has expired if the authority considers the assessment to be:",
+    "options": [
+      "Excessive",
+      "Provisional",
+      "In jeopardy",
+      "Disputed"
+    ],
+    "answer": 2,
+    "explanation": "Section 35(4) allows a jeopardy assessment for any year before the time to deliver a return or give notice expires.",
+    "source": "NTAA 2025 s.35(4)",
+    "difficulty": "hard"
+  },
+  {
+    "id": 604,
+    "topic": "Tax Audit and Investigation",
+    "question": "Where a resident's business produces no assessable profit, or less than expected, section 38(1)(a) allows the authority to assess and charge:",
+    "options": [
+      "A fair and reasonable percentage of the gross income from the trade or business, as the authority determines",
+      "A flat 4% of gross income",
+      "The preceding year's profit increased by 10%",
+      "The turnover multiplied by the Central Bank rate"
+    ],
+    "answer": 0,
+    "explanation": "Section 38(1)(a) provides for a deemed profit assessment on a fair and reasonable percentage of gross income. For non-residents, section 38(1)(b) applies the profit margin to Nigerian turnover.",
+    "source": "NTAA 2025 s.38(1)(a)",
+    "difficulty": "medium"
+  },
+  {
+    "id": 605,
+    "topic": "Tax Audit and Investigation",
+    "question": "For the deemed profit assessment in section 38, \"profit margin\" is:",
+    "options": [
+      "Gross profit as a proportion of cost of sales",
+      "Net profit after tax as a proportion of total assets",
+      "The proportion of earnings before interest and tax (EBIT) to income or revenue in the published audited financial statement, or that of comparable companies",
+      "Operating cash flow as a proportion of turnover"
+    ],
+    "answer": 2,
+    "explanation": "Section 38(2) defines profit margin by reference to EBIT over revenue, using comparable companies where the person publishes no statements.",
+    "source": "NTAA 2025 s.38(2)",
+    "difficulty": "hard"
+  },
+  {
+    "id": 606,
+    "topic": "Tax Audit and Investigation",
+    "question": "Which of the following must the assessment list contain under section 44(2)?",
+    "options": [
+      "The amount of the total profits of each person and the amount of tax payable by the person",
+      "The bank account numbers of each taxable person",
+      "The names of the officers who made each assessment",
+      "The penalties waived for each person"
+    ],
+    "answer": 0,
+    "explanation": "Section 44(2) lists names and addresses, the person in whose name the taxpayer is chargeable, total profits, tax payable and other particulars the authority determines.",
+    "source": "NTAA 2025 s.44(2)",
+    "difficulty": "medium"
+  },
+  {
+    "id": 607,
+    "topic": "Tax Audit and Investigation",
+    "question": "Under section 45, a manager or principal officer of a company is:",
+    "options": [
+      "Liable only to provide information when asked",
+      "Exempt from liability once the company is wound up",
+      "Liable for doing all acts, matters and things required for the assessment of the company and payment of its tax",
+      "Liable only if the officer is also a shareholder"
+    ],
+    "answer": 2,
+    "explanation": "Section 45 makes the manager or principal officer answerable for the acts required to assess the company and pay its tax.",
+    "source": "NTAA 2025 s.45",
+    "difficulty": "medium"
+  },
+  {
+    "id": 608,
+    "topic": "Tax Audit and Investigation",
+    "question": "Under section 46(1), where a tax-reducing transaction is considered artificial or fictitious, the relevant tax authority may:",
+    "options": [
+      "Refer it to the Tax Appeal Tribunal before taking any action",
+      "Disregard it or direct adjustments it considers appropriate to counteract the reduction in tax liability",
+      "Impose a penalty but leave the assessment unchanged",
+      "Require the taxpayer to apply for an advance ruling"
+    ],
+    "answer": 1,
+    "explanation": "Section 46(1) lets the authority disregard the disposition or transaction or make counteracting adjustments. Section 46(3) gives the person a right of appeal as if the direction were an assessment.",
+    "source": "NTAA 2025 s.46(1), (3)",
+    "difficulty": "medium"
+  },
+  {
+    "id": 609,
+    "topic": "Tax Audit and Investigation",
+    "question": "Under section 47(1), the authority may counteract a prohibited tax avoidance arrangement unless the taxable person proves that:",
+    "options": [
+      "The arrangement was disclosed under section 30",
+      "The tax benefit was below ₦10,000,000",
+      "The arrangement was approved by the taxpayer's auditor",
+      "Granting the benefit would be in accordance with the object and purpose of the relevant provisions of the tax law"
+    ],
+    "answer": 3,
+    "explanation": "Section 47(1) places the burden on the taxable person to satisfy the authority that the benefit accords with the object and purpose of the provisions.",
+    "source": "NTAA 2025 s.47(1)",
+    "difficulty": "hard"
+  },
+  {
+    "id": 610,
+    "topic": "Tax Audit and Investigation",
+    "question": "Under section 47(2), an arrangement is a prohibited tax avoidance arrangement where it is reasonable to conclude, among other things, that:",
+    "options": [
+      "The arrangement involves a non-resident",
+      "The main purpose of the arrangement was to obtain a tax benefit or advantage",
+      "The taxpayer holds more than one Tax ID",
+      "The arrangement was not stated in the return"
+    ],
+    "answer": 1,
+    "explanation": "Section 47(2) lists main purpose, conflict with the object and purpose of the law, misuse or abuse of the provisions, and lack of commercial substance.",
+    "source": "NTAA 2025 s.47(2)",
+    "difficulty": "medium"
+  },
+  {
+    "id": 611,
+    "topic": "Tax Audit and Investigation",
+    "question": "Under section 48(2), where a tax authority discovers non-compliance during an audit of a tax accruing to another tax authority, it shall:",
+    "options": [
+      "Assess the tax itself and keep the proceeds",
+      "Close the audit and take no action",
+      "Refer the non-compliance to, or invite, that other authority for a joint audit",
+      "Report the matter directly to the Tax Appeal Tribunal"
+    ],
+    "answer": 2,
+    "explanation": "Section 48 provides for information exchange (section 48(1)) and referral or joint audit (section 48(2)).",
+    "source": "NTAA 2025 s.48(1)-(2)",
+    "difficulty": "medium"
+  },
+  {
+    "id": 612,
+    "topic": "Tax Audit and Investigation",
+    "question": "A person entering a disclosable transaction whose principal purpose is to obtain a tax advantage must provide information to the relevant tax authority under section 30(1):",
+    "options": [
+      "Without notice or request",
+      "Only after a written demand",
+      "Only after an assessment has been made",
+      "Only if the advantage exceeds ₦1,000,000,000"
+    ],
+    "answer": 0,
+    "explanation": "Section 30(1) requires disclosure without notice or request. Regulations may set the form, timing and administrative penalties (section 30(2)).",
+    "source": "NTAA 2025 s.30(1)-(2)",
+    "difficulty": "medium"
+  },
+  {
+    "id": 613,
+    "topic": "Tax Audit and Investigation",
+    "question": "Which of the following falls within the definition of \"tax advantage\" in section 30(3)?",
+    "options": [
+      "Payment of tax before the due date",
+      "Registration of a new Tax ID",
+      "Receipt of an advance ruling",
+      "Avoidance of an obligation to deduct or account for tax"
+    ],
+    "answer": 3,
+    "explanation": "Section 30(3) includes relief, repayment, avoidance or reduction of a charge or assessment, deferral of payment, advancement of a repayment, and avoidance of an obligation to deduct or account for tax.",
+    "source": "NTAA 2025 s.30(3)(f)",
+    "difficulty": "hard"
+  },
+  {
+    "id": 614,
+    "topic": "Tax Audit and Investigation",
+    "question": "Under section 31(1), who must maintain books or records of accounts?",
+    "options": [
+      "Only persons liable to pay tax",
+      "Every person, including a company granted exemption from incorporation, whether or not liable to pay tax",
+      "Only companies with audited accounts",
+      "Only persons with turnover above ₦100,000,000"
+    ],
+    "answer": 1,
+    "explanation": "Section 31(1) applies to every person regardless of tax liability.",
+    "source": "NTAA 2025 s.31(1)",
+    "difficulty": "easy"
+  },
+  {
+    "id": 615,
+    "topic": "Tax Audit and Investigation",
+    "question": "Where books are kept in a language other than English, section 31(4) requires the person, on demand, to:",
+    "options": [
+      "Produce a translation at the tax authority's expense",
+      "Obtain a translation certified by the Corporate Affairs Commission",
+      "Produce at its own expense a translation in English certified by a sworn translator",
+      "Do nothing, as translation is not required"
+    ],
+    "answer": 2,
+    "explanation": "Section 31(3)-(4) requires English-language books or a certified translation at the person's own cost.",
+    "source": "NTAA 2025 s.31(3)-(4)",
+    "difficulty": "medium"
+  },
+  {
+    "id": 616,
+    "topic": "Tax Audit and Investigation",
+    "question": "On receiving a notice of objection, section 41(4) allows the relevant tax authority to:",
+    "options": [
+      "Require particulars, books and documents, and summon any person to give evidence or make a declaration on oath",
+      "Collect the disputed tax immediately and refuse to hear the objection",
+      "Seize the taxpayer's assets pending the outcome",
+      "Refer the objection directly to the Supreme Court"
+    ],
+    "answer": 0,
+    "explanation": "Section 41(4) gives the authority information and summons powers for the purposes of the objection.",
+    "source": "NTAA 2025 s.41(4)",
+    "difficulty": "medium"
+  },
+  {
+    "id": 617,
+    "topic": "Tax Audit and Investigation",
+    "question": "Under section 43(1), an assessment is final and conclusive as regards the amount of total profits where, among other things:",
+    "options": [
+      "The taxpayer has paid the disputed tax under protest",
+      "The assessment was made by a State tax authority",
+      "The assessment is more than three years old",
+      "No valid objection or appeal has been lodged within the time stipulated under the Act"
+    ],
+    "answer": 3,
+    "explanation": "Section 43(1) also covers amounts agreed on objection, revised on objection, or agreed, revised or determined on appeal.",
+    "source": "NTAA 2025 s.43(1)",
+    "difficulty": "medium"
+  },
+  {
+    "id": 618,
+    "topic": "Tax Audit and Investigation",
+    "question": "Under section 57(1)(e), a notice from a tax authority may require a taxable person to grant access to records stored in:",
+    "options": [
+      "Paper files only",
+      "Computers or other electronic devices, including magnetic media or cloud computing facilities",
+      "Bank vaults only",
+      "Foreign tax databases only"
+    ],
+    "answer": 1,
+    "explanation": "Section 57(1)(e) covers electronically stored records, including cloud facilities maintained, operated, controlled or owned by the person.",
+    "source": "NTAA 2025 s.57(1)(e)",
+    "difficulty": "medium"
+  },
+  {
+    "id": 619,
+    "topic": "Tax Audit and Investigation",
+    "question": "Section 57(3) provides that the tax authority is NOT precluded from verifying by tax audit or investigation:",
+    "options": [
+      "Any matter relating to a return or an entry in a book, document or account, including those stored in computers or cloud facilities",
+      "Only matters relating to unfiled returns",
+      "Only matters raised in an objection",
+      "Only years of assessment that have not yet been assessed"
+    ],
+    "answer": 0,
+    "explanation": "Section 57(3) preserves the audit and investigation power regardless of the form in which records are stored.",
+    "source": "NTAA 2025 s.57(3)",
+    "difficulty": "medium"
+  },
+  {
+    "id": 620,
+    "topic": "Tax Audit and Investigation",
+    "question": "To obtain an extension of time to comply with a notice under section 57, a person must apply in writing:",
+    "options": [
+      "After the time expires, with payment of a penalty",
+      "Orally, at any time",
+      "Only through the Minister of Finance",
+      "Before the time stipulated in the notice expires, showing good cause for inability to comply"
+    ],
+    "answer": 3,
+    "explanation": "Section 57(4) requires an application made before expiry with good cause shown. Section 57(5) lets the authority grant or limit the extension in writing.",
+    "source": "NTAA 2025 s.57(4)-(5)",
+    "difficulty": "hard"
+  },
+  {
+    "id": 621,
+    "topic": "Tax Audit and Investigation",
+    "question": "Any return or information delivered under section 57 must be accompanied by:",
+    "options": [
+      "An audited financial statement",
+      "A tax clearance certificate",
+      "A declaration or attestation that the information supplied is true and correct",
+      "An affidavit sworn by a legal practitioner"
+    ],
+    "answer": 2,
+    "explanation": "Section 57(6) requires a declaration or attestation of truth and correctness.",
+    "source": "NTAA 2025 s.57(6)",
+    "difficulty": "medium"
+  },
+  {
+    "id": 622,
+    "topic": "Tax Audit and Investigation",
+    "question": "Under section 58(1), an authorised officer has free access at all reasonable times, notwithstanding anything in any other law, to:",
+    "options": [
+      "Only business premises registered for tax",
+      "Only books and documents stored in electronic form",
+      "Only premises after seven days' written notice",
+      "All land, buildings, places, books and documents in the custody or control of a person, public officer or institution"
+    ],
+    "answer": 3,
+    "explanation": "Section 58(1) gives wide access powers, including to computers, servers and electronic media.",
+    "source": "NTAA 2025 s.58(1)",
+    "difficulty": "easy"
+  },
+  {
+    "id": 623,
+    "topic": "Tax Audit and Investigation",
+    "question": "Where hard copies of books are not immediately available because they are stored electronically, section 58(2) allows the authority to:",
+    "options": [
+      "Wait for the taxpayer to print them",
+      "Take immediate possession of the removable media and the related equipment or computer used to access them",
+      "Apply to the Tribunal for an order",
+      "Accept a written summary from the taxpayer"
+    ],
+    "answer": 1,
+    "explanation": "Section 58(2) is aimed at preventing accidental or intentional destruction, removal or alteration of records.",
+    "source": "NTAA 2025 s.58(2)",
+    "difficulty": "hard"
+  },
+  {
+    "id": 624,
+    "topic": "Tax Audit and Investigation",
+    "question": "Instead of taking physical possession of a computer, an authority that has the ability and equipment to do so shall, under section 58(3):",
+    "options": [
+      "Make an exact duplicate copy of the information on the hard drive and use it as digital evidence",
+      "Make a summary of the files and return the computer",
+      "Seal the premises until the taxpayer prints the records",
+      "Request annual copies from the taxpayer"
+    ],
+    "answer": 0,
+    "explanation": "Section 58(3) allows exact duplicate copies to be made and used as digital evidence in investigation or criminal proceedings.",
+    "source": "NTAA 2025 s.58(3)",
+    "difficulty": "hard"
+  },
+  {
+    "id": 625,
+    "topic": "Tax Audit and Investigation",
+    "question": "An authorised officer may enter a private dwelling under section 58(5) only:",
+    "options": [
+      "On a written order of the Chairman of the tax authority",
+      "At any time on production of identification",
+      "On 48 hours' written notice to the occupier",
+      "With the consent of an occupier or under a warrant issued by a judicial officer"
+    ],
+    "answer": 3,
+    "explanation": "Section 58(5)-(6): consent of an occupier, or a warrant on application to a judicial officer.",
+    "source": "NTAA 2025 s.58(5)-(6)",
+    "difficulty": "medium"
+  },
+  {
+    "id": 626,
+    "topic": "Tax Audit and Investigation",
+    "question": "An officer exercising a power of entry under a warrant must produce the written authorisation and evidence of identity:",
+    "options": [
+      "Only if the occupier asks in writing",
+      "On first entering the private dwelling and whenever subsequently reasonably required",
+      "Only at the end of the search",
+      "Only to a police officer present"
+    ],
+    "answer": 1,
+    "explanation": "Section 58(8) requires production on first entry and whenever reasonably required afterwards.",
+    "source": "NTAA 2025 s.58(8)",
+    "difficulty": "medium"
+  },
+  {
+    "id": 627,
+    "topic": "Tax Audit and Investigation",
+    "question": "Under section 59(1), an officer of the relevant tax authority may remove books or documents accessed under section 58 to make copies if authorised by:",
+    "options": [
+      "A judicial officer in every case",
+      "The Joint Revenue Board",
+      "The taxpayer",
+      "The Chairman of the relevant tax authority"
+    ],
+    "answer": 3,
+    "explanation": "Section 59(1) requires authorisation by the Chairman. The documents must be returned as soon as practicable (section 59(2)).",
+    "source": "NTAA 2025 s.59(1)-(2)",
+    "difficulty": "medium"
+  },
+  {
+    "id": 628,
+    "topic": "Tax Audit and Investigation",
+    "question": "A copy of a book or document certified by or on behalf of the Chairman of the relevant tax authority is, under section 59(3):",
+    "options": [
+      "Admissible only with the taxpayer's consent",
+      "Admissible in evidence in court as if it were the original",
+      "Admissible only before the Tax Appeal Tribunal",
+      "Not admissible unless the original is produced"
+    ],
+    "answer": 1,
+    "explanation": "Section 59(3) gives certified copies and digital evidence the same evidential status as originals.",
+    "source": "NTAA 2025 s.59(3)",
+    "difficulty": "medium"
+  },
+  {
+    "id": 629,
+    "topic": "Tax Audit and Investigation",
+    "question": "Who bears the cost of removing books, documents or items under section 59(1)?",
+    "options": [
+      "The relevant tax authority",
+      "The Accountant-General of the Federation",
+      "The person from whom they are removed",
+      "The court that issued the warrant"
+    ],
+    "answer": 2,
+    "explanation": "Section 59(5) provides that a person shall bear any cost incurred in removing the items.",
+    "source": "NTAA 2025 s.59(5)",
+    "difficulty": "hard"
+  },
+  {
+    "id": 630,
+    "topic": "Tax Audit and Investigation",
+    "question": "When an officer removes books, documents or items under section 59, the officer must give the owner:",
+    "options": [
+      "A written receipt describing the items removed and the location and time of removal",
+      "A copy of the tax authority's annual report",
+      "A tax clearance certificate",
+      "A notice of assessment"
+    ],
+    "answer": 0,
+    "explanation": "Section 59(6) requires a written receipt. Section 59(4) lets the owner inspect and copy the items at the owner's expense.",
+    "source": "NTAA 2025 s.59(4), (6)",
+    "difficulty": "medium"
+  },
+  {
+    "id": 631,
+    "topic": "Tax Audit and Investigation",
+    "question": "Under section 60(1), the relevant tax authority may, without a High Court order, appoint an agent of a taxable person where:",
+    "options": [
+      "The taxable person has filed an objection",
+      "The taxable person has applied for an extension of time",
+      "The taxable person is a non-resident with no tax due",
+      "Tax has become due and payable and the taxable person has refused or failed to pay"
+    ],
+    "answer": 3,
+    "explanation": "Section 60(1) is the power of substitution. It also applies where the agent holds or is expected to hold the taxable person's money, funds or assets.",
+    "source": "NTAA 2025 s.60(1)",
+    "difficulty": "medium"
+  },
+  {
+    "id": 632,
+    "topic": "Tax Audit and Investigation",
+    "question": "If an agent appointed under the power of substitution defaults, section 60(3) provides that:",
+    "options": [
+      "The taxable person is automatically discharged",
+      "The matter must be restarted from assessment",
+      "Enforcement and recovery actions, including distraint, apply as if the agent were originally liable",
+      "The agent is liable only for the cost of notice"
+    ],
+    "answer": 2,
+    "explanation": "Section 60(3) extends enforcement against the defaulting agent. Section 60(5) applies the objection and appeal provisions to the notice.",
+    "source": "NTAA 2025 s.60(3), (5)",
+    "difficulty": "hard"
+  },
+  {
+    "id": 633,
+    "topic": "Tax Audit and Investigation",
+    "question": "Under section 61(1), the power to distrain may be exercised only where:",
+    "options": [
+      "An objection to the assessment has been lodged",
+      "The assessment has become final and conclusive, a demand notice has been served, and payment is not made within the time specified",
+      "The taxable person has failed to file a return for the first time",
+      "The tax authority suspects fraud but has not yet assessed"
+    ],
+    "answer": 1,
+    "explanation": "Section 61(1) requires a final and conclusive assessment and an unpaid demand notice.",
+    "source": "NTAA 2025 s.61(1)",
+    "difficulty": "medium"
+  },
+  {
+    "id": 634,
+    "topic": "Tax Audit and Investigation",
+    "question": "In executing a warrant of distraint, section 61(3) allows an authorised officer, if necessary, to break open a building or place:",
+    "options": [
+      "In the day time, and the authority may call for police assistance",
+      "At any time of day or night",
+      "Only with the consent of the occupier",
+      "Only in the presence of a judicial officer"
+    ],
+    "answer": 0,
+    "explanation": "Section 61(3) limits forced entry to the day time and provides for police assistance.",
+    "source": "NTAA 2025 s.61(3)",
+    "difficulty": "hard"
+  },
+  {
+    "id": 635,
+    "topic": "Tax Audit and Investigation",
+    "question": "Section 61(8) provides that the distraint power does NOT authorise:",
+    "options": [
+      "The sale of goods and chattels after 14 days",
+      "The sale of any immovable property without an order of a High Court or as prescribed by rules of court",
+      "The distraint of bonds and securities",
+      "The use of police assistance"
+    ],
+    "answer": 1,
+    "explanation": "Section 61(8) protects immovable property from sale without a court order.",
+    "source": "NTAA 2025 s.61(8)",
+    "difficulty": "hard"
+  },
+  {
+    "id": 636,
+    "topic": "Tax Audit and Investigation",
+    "question": "Under section 62(4), where a tax officer with a warrant seeks to access books, records or computers, the taxpayer must provide:",
+    "options": [
+      "Only a written explanation of the records",
+      "Nothing, as access is a matter for the officer",
+      "A certified translation of the passwords",
+      "Passwords, access codes and other relevant information required to access them"
+    ],
+    "answer": 3,
+    "explanation": "Section 62(4) requires the taxpayer to supply the access information for books, records and computers.",
+    "source": "NTAA 2025 s.62(4)",
+    "difficulty": "medium"
+  },
+  {
+    "id": 637,
+    "topic": "Tax Audit and Investigation",
+    "question": "Under section 62(5), a person shall not be bodily searched during such an enforcement action except by:",
+    "options": [
+      "A person of the same gender as the person to be searched",
+      "A judicial officer only",
+      "A police officer of any gender",
+      "The Chairman of the tax authority"
+    ],
+    "answer": 0,
+    "explanation": "Section 62(5) requires a same-gender searcher.",
+    "source": "NTAA 2025 s.62(5)",
+    "difficulty": "easy"
+  },
+  {
+    "id": 638,
+    "topic": "Tax Audit and Investigation",
+    "question": "Where petroleum or mineral royalty or tax is unpaid after a demand notice, section 63 requires the Service to:",
+    "options": [
+      "Revoke the licence itself",
+      "Seize the company's field assets",
+      "Notify the Commission or the relevant ministry or agency of the default for revocation of the licence or lease",
+      "Refer the matter to the Tax Ombud"
+    ],
+    "answer": 2,
+    "explanation": "Section 63 provides for notification to the relevant licensing body so that the licence or lease can be revoked under the relevant law.",
+    "source": "NTAA 2025 s.63",
+    "difficulty": "hard"
+  },
+  {
+    "id": 639,
+    "topic": "Tax Audit and Investigation",
+    "question": "Section 64(1) empowers a tax authority to investigate violations of any tax law:",
+    "options": [
+      "Whether or not the violation has been reported to it, with power to arrest suspects through a relevant law enforcement agency",
+      "Only after a complaint from a taxpayer",
+      "Only with a High Court order in every case",
+      "Only for violations of federal tax laws"
+    ],
+    "answer": 0,
+    "explanation": "Section 64(1) allows investigation on its own initiative and arrest through law enforcement agencies.",
+    "source": "NTAA 2025 s.64(1)",
+    "difficulty": "medium"
+  },
+  {
+    "id": 640,
+    "topic": "Tax Audit and Investigation",
+    "question": "Under section 64(2), the relevant tax authority may employ which officers to investigate offences under the Act?",
+    "options": [
+      "Tax Appeal Commissioners",
+      "Special Prosecutors",
+      "Revenue Marshals",
+      "Special Purpose Tax Officers"
+    ],
+    "answer": 3,
+    "explanation": "Section 64(2) provides for Special Purpose Tax Officers and permits the authority to seek assistance from law enforcement agencies.",
+    "source": "NTAA 2025 s.64(2)",
+    "difficulty": "medium"
+  },
+  {
+    "id": 641,
+    "topic": "Tax Audit and Investigation",
+    "question": "Under section 64(5), where property is the subject of a tax investigation, the authority may, upon an order of a judicial officer:",
+    "options": [
+      "Sell the property immediately to recover tax",
+      "Transfer the property to the Federation Account",
+      "Direct the person in custody of the property not to part with, deal in or dispose of it pending the conclusion of the investigation",
+      "Require the owner to deposit its value with the court"
+    ],
+    "answer": 2,
+    "explanation": "Section 64(5) provides a preservation order. Section 64(6) protects the person complying from legal proceedings.",
+    "source": "NTAA 2025 s.64(5)-(6)",
+    "difficulty": "hard"
+  },
+  {
+    "id": 642,
+    "topic": "Tax Audit and Investigation",
+    "question": "Under section 67(6), the relevant tax authority shall not make a demand for under-assessed or erroneously repaid tax after six years, unless:",
+    "options": [
+      "The taxpayer has changed address",
+      "The taxpayer is a non-resident",
+      "The amount exceeds ₦100,000,000",
+      "The under-assessment or erroneous repayment was caused by a document produced or a statement made that was found to be untrue"
+    ],
+    "answer": 3,
+    "explanation": "Section 67(6) sets a six-year limit with an exception for untrue documents or statements.",
+    "source": "NTAA 2025 s.67(4)-(6)",
+    "difficulty": "hard"
+  },
+  {
+    "id": 643,
+    "topic": "Tax Audit and Investigation",
+    "question": "Under section 69, the relevant tax authority may pay a reward in respect of useful information to:",
+    "options": [
+      "Any person who is not employed in, or related to a person employed in, the relevant tax authority, with the informant's identity kept confidential",
+      "Any tax official who uncovers evasion",
+      "Only a registered tax agent",
+      "Only a person who volunteers to testify in court"
+    ],
+    "answer": 0,
+    "explanation": "Section 69(1)-(2) excludes employees and their relatives and requires confidentiality of the informant's identity.",
+    "source": "NTAA 2025 s.69(1)-(2)",
+    "difficulty": "medium"
+  },
+  {
+    "id": 644,
+    "topic": "Tax Audit and Investigation",
+    "question": "Under section 4(1)(f) of the NRS Act, the Service makes a determination of:",
+    "options": [
+      "The tax payable by each State",
+      "The salaries of State tax officials",
+      "The rate of tax for each class of taxpayer",
+      "The extent of financial loss and other losses to Government from tax fraud or evasion, and revenue foregone from tax waivers"
+    ],
+    "answer": 3,
+    "explanation": "Section 4(1)(f) of the NRS Act covers losses from tax fraud and evasion and revenue foregone from waivers.",
+    "source": "NRS Act 2025 s.4(1)(f)",
+    "difficulty": "medium"
+  },
+  {
+    "id": 645,
+    "topic": "Tax Audit and Investigation",
+    "question": "Under section 4(1)(s) of the NRS Act, the Service may, as required, do which of the following in relation to assessment, collection and accounting for revenue?",
+    "options": [
+      "Appoint judges of the Tax Appeal Tribunal",
+      "Grant licences to State revenue services",
+      "Query, subpoena, sanction or reward any activity",
+      "Set the salaries of the Board"
+    ],
+    "answer": 2,
+    "explanation": "Section 4(1)(s) gives the Service oversight powers to query, subpoena, sanction or reward activity relating to revenue accruable to the Federation.",
+    "source": "NRS Act 2025 s.4(1)(s)",
+    "difficulty": "hard"
+  },
+  {
+    "id": 646,
+    "topic": "Tax Audit and Investigation",
+    "question": "What penalty applies under section 104 for failing to process a taxable supply through the fiscalisation system?",
+    "options": [
+      "₦200,000 plus 100% of the tax due, with interest at the prevailing CBN rate",
+      "₦50,000 plus 10% of the tax due",
+      "₦1,000,000 with no further charge",
+      "40% of the tax due only"
+    ],
+    "answer": 0,
+    "explanation": "Section 104 penalises failure to use the fiscalisation system at ₦200,000 plus 100% of the tax due, with interest.",
+    "source": "NTAA 2025 s.104 [secondary source]",
+    "difficulty": "hard"
+  },
+  {
+    "id": 647,
+    "topic": "Tax Audit and Investigation",
+    "question": "What is the penalty under section 105 for failure to collect, deduct or withhold tax that is due?",
+    "options": [
+      "10% of the amount not deducted",
+      "40% of the amount not deducted",
+      "25% of the amount not deducted",
+      "100% of the amount not deducted"
+    ],
+    "answer": 1,
+    "explanation": "Section 105 sets a penalty of 40% of the amount not deducted.",
+    "source": "NTAA 2025 s.105 [secondary source]",
+    "difficulty": "medium"
+  },
+  {
+    "id": 648,
+    "topic": "Tax Audit and Investigation",
+    "question": "What is the maximum term of imprisonment under section 116 for carrying an offensive weapon while committing an offence under the Act?",
+    "options": [
+      "One year",
+      "Three years",
+      "Five years",
+      "Ten years"
+    ],
+    "answer": 2,
+    "explanation": "Section 116 provides up to five years for carrying an offensive weapon while committing an offence. Injuring a tax officer while armed carries up to ten years.",
+    "source": "NTAA 2025 s.116 [secondary source]",
+    "difficulty": "hard"
+  },
+  {
+    "id": 649,
+    "topic": "Tax Audit and Investigation",
+    "question": "The penalty on conviction under section 117 for impersonating an authorised officer is:",
+    "options": [
+      "A fine not exceeding ₦1,000,000, imprisonment not exceeding three years, or both",
+      "A fine not exceeding ₦100,000 only",
+      "Imprisonment not exceeding six months only",
+      "A fine not exceeding ₦5,000,000 only"
+    ],
+    "answer": 0,
+    "explanation": "Section 117 provides up to ₦1,000,000 or up to three years or both.",
+    "source": "NTAA 2025 s.117 [secondary source]",
+    "difficulty": "hard"
+  },
+  {
+    "id": 650,
+    "topic": "Tax Audit and Investigation",
+    "question": "Under section 86, the pendency of a legal proceeding:",
+    "options": [
+      "Suspends all obligations until judgment",
+      "Does not affect a taxable person's duties or obligations under the Act, unless a court or tribunal orders otherwise",
+      "Suspends only the obligation to pay tax",
+      "Suspends only the obligation to file returns"
+    ],
+    "answer": 1,
+    "explanation": "Section 86 prevents taxpayers from using pending litigation to suspend compliance, except as ordered by a court or tribunal.",
+    "source": "NTAA 2025 s.86",
+    "difficulty": "medium"
+  }
+]

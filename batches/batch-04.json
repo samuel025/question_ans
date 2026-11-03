@@ -1,0 +1,752 @@
+[
+  {
+    "id": 401,
+    "topic": "Nigeria Tax Administration Act 2025",
+    "question": "What are the two stated aims of the Nigeria Tax Administration Act 2025 under section 1?",
+    "options": [
+      "To facilitate tax compliance by taxpayers and to optimise tax revenue",
+      "To reduce tax rates and to widen the tax base",
+      "To create new federal taxes and to abolish State taxes",
+      "To harmonise rates across all tiers of government and to remove all exemptions"
+    ],
+    "answer": 0,
+    "explanation": "Section 1 provides uniform procedures for consistent and efficient tax administration in order to facilitate compliance and optimise revenue.",
+    "source": "NTAA 2025 s.1",
+    "difficulty": "easy"
+  },
+  {
+    "id": 402,
+    "topic": "Nigeria Tax Administration Act 2025",
+    "question": "Which of the following does the Nigeria Revenue Service have exclusive responsibility to administer under section 3(1)(a)?",
+    "options": [
+      "Personal income tax of resident individuals in a State",
+      "Pay As You Earn on employees of State governments",
+      "Taxes on non-resident persons who derive profit or income from Nigeria",
+      "Local government tenement rates"
+    ],
+    "answer": 2,
+    "explanation": "Section 3(1)(a)(iv) gives the Service exclusive responsibility for taxes on non-residents deriving profit or income from Nigeria. Resident individuals fall to State or FCT authorities under section 3(2).",
+    "source": "NTAA 2025 s.3(1)(a)(iv); s.3(2)",
+    "difficulty": "medium"
+  },
+  {
+    "id": 403,
+    "topic": "Nigeria Tax Administration Act 2025",
+    "question": "Under section 3(1)(a), the Nigeria Revenue Service has exclusive responsibility for taxes on which category of employees?",
+    "options": [
+      "Civil servants in the Federal Capital Territory",
+      "Employees of local governments",
+      "Staff of the National Assembly",
+      "Persons employed in the Nigerian Army, Navy, Air Force or Police Force, other than in a civilian capacity"
+    ],
+    "answer": 3,
+    "explanation": "Section 3(1)(a)(ii) covers military and police personnel (other than in a civilian capacity). Section 3(1)(a)(iii) adds officers of the Nigerian Foreign Service.",
+    "source": "NTAA 2025 s.3(1)(a)(ii)-(iii)",
+    "difficulty": "hard"
+  },
+  {
+    "id": 404,
+    "topic": "Nigeria Tax Administration Act 2025",
+    "question": "Under section 3(2), the relevant tax authority in a State or the FCT is responsible for administering taxes for:",
+    "options": [
+      "All companies operating in the State",
+      "Resident individuals, subject to the Service's exclusive jurisdiction over certain categories under section 3(1)(a)(ii)-(iv)",
+      "Non-resident persons deriving income from the State",
+      "Companies carrying out specialised trade or business"
+    ],
+    "answer": 1,
+    "explanation": "Companies and non-residents are reserved to the Service. State and FCT authorities administer income tax of resident individuals, other than military, police, foreign service and non-resident categories.",
+    "source": "NTAA 2025 s.3(2)",
+    "difficulty": "medium"
+  },
+  {
+    "id": 405,
+    "topic": "Nigeria Tax Administration Act 2025",
+    "question": "How are the proceeds of Value Added Tax shared between States and Local Governments under section 81(2)?",
+    "options": [
+      "50% equally, 30% by population and 20% by consumption",
+      "40% equally, 30% by derivation and 30% by consumption",
+      "100% by population",
+      "50% equally, 20% by population and 30% by consumption"
+    ],
+    "answer": 3,
+    "explanation": "Section 81(2) shares the States' and local governments' VAT revenue 50% equally, 20% population and 30% consumption, with consumption determined by place of consumption.",
+    "source": "NTAA 2025 s.81(2)-(3)",
+    "difficulty": "hard"
+  },
+  {
+    "id": 406,
+    "topic": "Nigeria Tax Administration Act 2025",
+    "question": "A non-resident person who derives only passive income from investment in Nigeria:",
+    "options": [
+      "Must register and obtain a Tax ID in every case",
+      "May not be required to register for tax but must provide relevant information prescribed by the Service",
+      "Is exempt from providing any information to the Service",
+      "May only register through a State Internal Revenue Service"
+    ],
+    "answer": 1,
+    "explanation": "The proviso to section 6(1) relieves such a person of registration but not of the duty to supply prescribed information.",
+    "source": "NTAA 2025 s.6(1) proviso",
+    "difficulty": "hard"
+  },
+  {
+    "id": 407,
+    "topic": "Nigeria Tax Administration Act 2025",
+    "question": "Where a relevant tax authority refuses to register a person or issue a Tax ID on request, within what period must it notify the person of the refusal with reasons?",
+    "options": [
+      "24 hours of the decision",
+      "14 days of the decision",
+      "30 days of the decision",
+      "Five working days of the decision"
+    ],
+    "answer": 3,
+    "explanation": "Section 7(2) requires notice of the refusal, with reasons, within five working days of the decision.",
+    "source": "NTAA 2025 s.7(2)",
+    "difficulty": "medium"
+  },
+  {
+    "id": 408,
+    "topic": "Nigeria Tax Administration Act 2025",
+    "question": "Which statement about a Tax ID is correct under section 7?",
+    "options": [
+      "A taxable person may hold a separate Tax ID for each tax type",
+      "A Tax ID issued to one taxable person is not transferable or usable by another taxable person",
+      "A Tax ID may be transferred to the buyer when a business is sold",
+      "A tax authority may never register a person who has not applied"
+    ],
+    "answer": 1,
+    "explanation": "Section 7(7) makes a Tax ID non-transferable, section 7(5) bars a second ID, and section 7(3) lets the authority register a person who should have applied but did not.",
+    "source": "NTAA 2025 s.7(3), (5), (7)",
+    "difficulty": "medium"
+  },
+  {
+    "id": 409,
+    "topic": "Nigeria Tax Administration Act 2025",
+    "question": "Under section 8(1)(c), a Tax ID is a condition for:",
+    "options": [
+      "Opening a personal savings account",
+      "Registering a business name with the Corporate Affairs Commission",
+      "Entering into a contract with any federal or State ministry, department or agency or local government",
+      "Obtaining a driver's licence"
+    ],
+    "answer": 2,
+    "explanation": "Section 8(1)(c) makes the Tax ID a condition for contracting with federal, State and local government bodies.",
+    "source": "NTAA 2025 s.8(1)(c)",
+    "difficulty": "easy"
+  },
+  {
+    "id": 410,
+    "topic": "Nigeria Tax Administration Act 2025",
+    "question": "Within what period must a taxable person notify the relevant tax authority of a change in its particulars under section 9(1)?",
+    "options": [
+      "7 days",
+      "14 days",
+      "60 days",
+      "30 days of the occurrence of the change"
+    ],
+    "answer": 3,
+    "explanation": "Section 9(1) sets 30 days. Changes include name, registered address and, for a company, any person holding 5% or more of its share capital.",
+    "source": "NTAA 2025 s.9(1)-(2)",
+    "difficulty": "medium"
+  },
+  {
+    "id": 411,
+    "topic": "Nigeria Tax Administration Act 2025",
+    "question": "Under the proviso to section 11(1)(b), a small company's income tax return may contain:",
+    "options": [
+      "No accounts of any kind",
+      "Only a tax computation signed by a tax agent",
+      "A statement of accounts attested to by the taxpayer in place of audited financial statements",
+      "Audited financial statements prepared by the Service"
+    ],
+    "answer": 2,
+    "explanation": "The proviso allows a small company to attach an attested statement of accounts instead of audited financial statements.",
+    "source": "NTAA 2025 s.11(1)(b) proviso",
+    "difficulty": "medium"
+  },
+  {
+    "id": 412,
+    "topic": "Nigeria Tax Administration Act 2025",
+    "question": "For a newly incorporated company, section 11(5)(b) requires returns to be filed:",
+    "options": [
+      "Within 12 months of incorporation",
+      "Within 18 months of incorporation or 12 months after its first accounting period, whichever is later",
+      "Within six months of incorporation",
+      "Within 18 months of incorporation or not later than six months after the end of its first accounting period, whichever is earlier"
+    ],
+    "answer": 3,
+    "explanation": "Section 11(5)(b) uses the earlier of the two dates.",
+    "source": "NTAA 2025 s.11(5)(b)",
+    "difficulty": "hard"
+  },
+  {
+    "id": 413,
+    "topic": "Nigeria Tax Administration Act 2025",
+    "question": "For a company that has been in business for more than 18 months, section 11(5)(a) requires returns to be filed not more than how long after the end of its accounting year?",
+    "options": [
+      "Three months",
+      "Six months",
+      "Nine months",
+      "Twelve months"
+    ],
+    "answer": 1,
+    "explanation": "Section 11(5)(a) sets six months after the end of the accounting year.",
+    "source": "NTAA 2025 s.11(5)(a)",
+    "difficulty": "easy"
+  },
+  {
+    "id": 414,
+    "topic": "Nigeria Tax Administration Act 2025",
+    "question": "Who must file an income tax return under section 13(1)?",
+    "options": [
+      "Every taxable person, whether or not liable to pay tax, and non-residents liable to tax in Nigeria",
+      "Only taxable persons who are liable to pay tax",
+      "Only persons who receive a notice from the tax authority",
+      "Only persons with annual income above ₦800,000"
+    ],
+    "answer": 0,
+    "explanation": "Section 13(1) requires a return in each year of assessment without notice or demand from every taxable person, whether or not liable.",
+    "source": "NTAA 2025 s.13(1)",
+    "difficulty": "medium"
+  },
+  {
+    "id": 415,
+    "topic": "Nigeria Tax Administration Act 2025",
+    "question": "Under section 14(1), an employer must file a return of emoluments paid to its employees not later than:",
+    "options": [
+      "31 March of each year",
+      "30 June of each year",
+      "31 January of each year, for the preceding year",
+      "31 December of each year"
+    ],
+    "answer": 2,
+    "explanation": "Section 14(1) sets 31 January for the preceding year's emoluments. Employees still file their own annual returns under section 13.",
+    "source": "NTAA 2025 s.14(1), (3)",
+    "difficulty": "easy"
+  },
+  {
+    "id": 416,
+    "topic": "Nigeria Tax Administration Act 2025",
+    "question": "A company engaged in petroleum operations must submit an estimated return of profits or losses for each accounting period not later than:",
+    "options": [
+      "One month after the commencement of the period",
+      "Two months after the commencement of each accounting period",
+      "Six months after the commencement of the period",
+      "Five months after the end of the period"
+    ],
+    "answer": 1,
+    "explanation": "Section 16(1) requires the estimated return within two months of the start of each accounting period.",
+    "source": "NTAA 2025 s.16(1)",
+    "difficulty": "medium"
+  },
+  {
+    "id": 417,
+    "topic": "Nigeria Tax Administration Act 2025",
+    "question": "Monthly returns of petroleum royalty must be filed on or before which day of the following month?",
+    "options": [
+      "The 14th",
+      "The 7th",
+      "The 21st",
+      "The 30th"
+    ],
+    "answer": 0,
+    "explanation": "Section 18(2) sets the 14th day, whether or not production has taken place. Mineral royalty returns (section 20(2)) are due by the 21st.",
+    "source": "NTAA 2025 s.18(2); s.20(2)",
+    "difficulty": "hard"
+  },
+  {
+    "id": 418,
+    "topic": "Nigeria Tax Administration Act 2025",
+    "question": "VAT returns must be submitted on or before which day of the following month under section 22(1)?",
+    "options": [
+      "The 10th",
+      "The 14th",
+      "The last day",
+      "The 21st"
+    ],
+    "answer": 3,
+    "explanation": "Section 22(1) sets the 21st day of the following month, whether or not an economic activity has taken place.",
+    "source": "NTAA 2025 s.22(1)",
+    "difficulty": "easy"
+  },
+  {
+    "id": 419,
+    "topic": "Nigeria Tax Administration Act 2025",
+    "question": "Where the Service grants an extension of time to file a VAT return, what is the effect on payment of the tax?",
+    "options": [
+      "It does not extend the time to pay the tax",
+      "It extends the time to pay by the same period",
+      "It suspends payment until the return is reviewed",
+      "It waives interest for the extension period"
+    ],
+    "answer": 0,
+    "explanation": "Section 22(2) states that an extension of the filing period does not imply an extension of time to pay.",
+    "source": "NTAA 2025 s.22(2)",
+    "difficulty": "medium"
+  },
+  {
+    "id": 420,
+    "topic": "Nigeria Tax Administration Act 2025",
+    "question": "Under section 22(5), a small business may:",
+    "options": [
+      "Never register for VAT",
+      "By written notice to the Service, opt out of the exemption, including registration, charging VAT and filing returns",
+      "Opt out only with the approval of the National Assembly",
+      "Opt out only after reaching ₦250,000,000 in fixed assets"
+    ],
+    "answer": 1,
+    "explanation": "Section 22(5) allows a small business to opt out of the exemption by written notice to the Service. It does not apply to petroleum operations companies (section 22(9)).",
+    "source": "NTAA 2025 s.22(5), (9)",
+    "difficulty": "hard"
+  },
+  {
+    "id": 421,
+    "topic": "Nigeria Tax Administration Act 2025",
+    "question": "Where the Service deploys an Electronic Fiscal System, section 23(1) requires any person making a taxable supply to:",
+    "options": [
+      "Use the system for recording and reporting all supplies",
+      "Use it only for supplies above ₦1,000,000",
+      "Use it only for exports",
+      "Use it only if the buyer requests a fiscal receipt"
+    ],
+    "answer": 0,
+    "explanation": "Section 23(1) requires use of the Electronic Fiscal System for recording and reporting all supplies once it is deployed.",
+    "source": "NTAA 2025 s.23(1)",
+    "difficulty": "easy"
+  },
+  {
+    "id": 422,
+    "topic": "Nigeria Tax Administration Act 2025",
+    "question": "Section 29 requires banks and other financial institutions to file quarterly returns on existing customers whose cumulative monthly transactions reach what thresholds?",
+    "options": [
+      "₦10,000,000 for an individual and ₦50,000,000 for a body corporate",
+      "₦50,000,000 for an individual and ₦250,000,000 for a body corporate",
+      "₦5,000,000 for an individual and ₦25,000,000 for a body corporate",
+      "₦25,000,000 for an individual and ₦100,000,000 for a body corporate"
+    ],
+    "answer": 3,
+    "explanation": "Section 29(1)(b) sets ₦25m a month for individuals and ₦100m a month for bodies corporate. Returns on new customers are also required.",
+    "source": "NTAA 2025 s.29(1)",
+    "difficulty": "hard"
+  },
+  {
+    "id": 423,
+    "topic": "Nigeria Tax Administration Act 2025",
+    "question": "Under section 31(5), books and records must be kept for not less than:",
+    "options": [
+      "Six years after the year of assessment to which the income relates",
+      "Two years",
+      "Three years",
+      "Ten years"
+    ],
+    "answer": 0,
+    "explanation": "Section 31(5) sets six years after the year of assessment. Records must be in English or translated by a sworn translator on demand.",
+    "source": "NTAA 2025 s.31(3)-(5)",
+    "difficulty": "medium"
+  },
+  {
+    "id": 424,
+    "topic": "Nigeria Tax Administration Act 2025",
+    "question": "Under section 33(3), a return is deemed duly filed only if filed by:",
+    "options": [
+      "Any person who holds a Tax ID",
+      "A legal practitioner only",
+      "The taxpayer or an accredited tax agent on its behalf",
+      "A bank acting on instruction"
+    ],
+    "answer": 2,
+    "explanation": "Section 33(3): no return is deemed duly filed except by the taxpayer or an accredited tax agent.",
+    "source": "NTAA 2025 s.33(3)",
+    "difficulty": "medium"
+  },
+  {
+    "id": 425,
+    "topic": "Nigeria Tax Administration Act 2025",
+    "question": "Under section 34(2), a taxable person who submits a self-assessment return in the prescribed form is deemed to have:",
+    "options": [
+      "Made a provisional assessment that is not binding",
+      "Made an assessment of the tax payable, including a nil or negative amount",
+      "Made an assessment only where tax is payable",
+      "Waived the right to object to the assessment"
+    ],
+    "answer": 1,
+    "explanation": "Section 34(2) treats the return as a self-assessment, even for a nil or negative amount.",
+    "source": "NTAA 2025 s.34(2)",
+    "difficulty": "medium"
+  },
+  {
+    "id": 426,
+    "topic": "Nigeria Tax Administration Act 2025",
+    "question": "Which of the following is NOT an option open to the relevant tax authority after a taxable person delivers a return under section 34(4)?",
+    "options": [
+      "Cancel the taxpayer's Tax ID",
+      "Accept the return without making an additional assessment",
+      "Accept the return and make an additional assessment",
+      "Reject the return and assess to the best of its judgement"
+    ],
+    "answer": 0,
+    "explanation": "Section 34(4) lets the authority accept, accept with an additional assessment, or reject and assess to the best of its judgement.",
+    "source": "NTAA 2025 s.34(4)",
+    "difficulty": "medium"
+  },
+  {
+    "id": 427,
+    "topic": "Nigeria Tax Administration Act 2025",
+    "question": "Where a taxable person has not delivered a return and the authority considers it liable to tax, section 35(1) allows the authority to:",
+    "options": [
+      "Wait indefinitely for the return",
+      "Determine the tax due to the best of its judgement and make an assessment accordingly",
+      "Assess only after obtaining a court order",
+      "Treat the taxable person as exempt for that year"
+    ],
+    "answer": 1,
+    "explanation": "Section 35(1) provides for an administrative assessment on a best-of-judgement basis where no return has been delivered.",
+    "source": "NTAA 2025 s.35(1)",
+    "difficulty": "easy"
+  },
+  {
+    "id": 428,
+    "topic": "Nigeria Tax Administration Act 2025",
+    "question": "Under section 36(1), an additional assessment may ordinarily be made within what period of an assessment?",
+    "options": [
+      "Two years",
+      "Three years",
+      "Ten years",
+      "Six years"
+    ],
+    "answer": 3,
+    "explanation": "Section 36(1) sets a six-year window, but section 36(2) allows an audit that began within the six years to continue.",
+    "source": "NTAA 2025 s.36(1)-(2)",
+    "difficulty": "medium"
+  },
+  {
+    "id": 429,
+    "topic": "Nigeria Tax Administration Act 2025",
+    "question": "Where there is a deliberate misstatement by a taxable person, section 36(4) allows the authority to assess:",
+    "options": [
+      "Only within ten years",
+      "At any time, and as often as necessary, to make good the loss of tax",
+      "Only once, within six years",
+      "Only with the written consent of the taxpayer"
+    ],
+    "answer": 1,
+    "explanation": "Section 36(4) removes the six-year limit in cases of deliberate misstatement.",
+    "source": "NTAA 2025 s.36(4)",
+    "difficulty": "medium"
+  },
+  {
+    "id": 430,
+    "topic": "Nigeria Tax Administration Act 2025",
+    "question": "Where the profits of a non-resident cannot be readily ascertained, section 38(1)(b) deems its profits to be:",
+    "options": [
+      "The amount from applying the person's profit margin to the turnover generated from Nigeria",
+      "A flat 4% of its global revenue",
+      "The profits of its Nigerian customers",
+      "A fixed ₦1,000,000"
+    ],
+    "answer": 0,
+    "explanation": "Section 38(1)(b) applies the profit margin (EBIT to revenue, or a comparable company's margin) to the Nigerian turnover.",
+    "source": "NTAA 2025 s.38(1)(b), (2)",
+    "difficulty": "hard"
+  },
+  {
+    "id": 431,
+    "topic": "Nigeria Tax Administration Act 2025",
+    "question": "A notice of objection to an assessment is valid only if delivered to the relevant tax authority within:",
+    "options": [
+      "7 days",
+      "14 days",
+      "30 days from the date of service of the disputed notice of assessment",
+      "90 days"
+    ],
+    "answer": 2,
+    "explanation": "Section 41(2)(a) sets 30 days from service, though the authority may extend the period for good cause (section 41(3)).",
+    "source": "NTAA 2025 s.41(2)(a), (3)",
+    "difficulty": "easy"
+  },
+  {
+    "id": 432,
+    "topic": "Nigeria Tax Administration Act 2025",
+    "question": "Under section 41(6), if the relevant tax authority does not respond to an objection within 90 days:",
+    "options": [
+      "The objection lapses",
+      "The assessment is automatically doubled",
+      "The matter goes to the Supreme Court",
+      "The taxpayer's objection is upheld"
+    ],
+    "answer": 3,
+    "explanation": "Section 41(6) provides that failure to respond within 90 days results in the objection being upheld.",
+    "source": "NTAA 2025 s.41(6)",
+    "difficulty": "medium"
+  },
+  {
+    "id": 433,
+    "topic": "Nigeria Tax Administration Act 2025",
+    "question": "A taxpayer dissatisfied with a judgement of the Tax Appeal Tribunal may appeal to the High Court, provided it pays what into an account designated by the court?",
+    "options": [
+      "10% of the disputed amount",
+      "20% of the disputed amount as security before the hearing",
+      "50% of the disputed amount",
+      "The whole of the disputed amount"
+    ],
+    "answer": 1,
+    "explanation": "Section 41(8) requires 20% of the disputed amount as security, with evidence of payment filed with the notice of appeal.",
+    "source": "NTAA 2025 s.41(8)",
+    "difficulty": "medium"
+  },
+  {
+    "id": 434,
+    "topic": "Nigeria Tax Administration Act 2025",
+    "question": "Under section 46(2), transactions between connected persons are deemed artificial or fictitious if, in the authority's opinion:",
+    "options": [
+      "They were not made on terms that might fairly be expected between persons dealing at arm's length",
+      "They were made between persons in different States",
+      "They were made in a currency other than the Naira",
+      "They were not stamped within 30 days"
+    ],
+    "answer": 0,
+    "explanation": "Section 46(2) uses an arm's-length test for connected persons.",
+    "source": "NTAA 2025 s.46(2)",
+    "difficulty": "medium"
+  },
+  {
+    "id": 435,
+    "topic": "Nigeria Tax Administration Act 2025",
+    "question": "Tax charged by an assessment that is not the subject of an objection or appeal is payable within:",
+    "options": [
+      "7 days",
+      "60 days",
+      "30 days of service of the notice of assessment",
+      "90 days"
+    ],
+    "answer": 2,
+    "explanation": "Section 49(2) sets 30 days of service, though the authority may extend the time at its discretion.",
+    "source": "NTAA 2025 s.49(2)",
+    "difficulty": "easy"
+  },
+  {
+    "id": 436,
+    "topic": "Nigeria Tax Administration Act 2025",
+    "question": "Under section 51(8), a non-resident company that provides technical, consulting, professional or management services to a labelled startup is subject to a deduction at source of:",
+    "options": [
+      "10%, which is an advance payment of tax",
+      "2%, which is an advance payment of tax",
+      "15%, which is the final tax on that income",
+      "5%, which is the final tax on that income"
+    ],
+    "answer": 3,
+    "explanation": "Section 51(8) imposes a 5% deduction as final tax for such non-resident service providers.",
+    "source": "NTAA 2025 s.51(8)",
+    "difficulty": "hard"
+  },
+  {
+    "id": 437,
+    "topic": "Nigeria Tax Administration Act 2025",
+    "question": "Where a company is being wound up, section 53 provides that the liquidator:",
+    "options": [
+      "May distribute assets first and settle tax later",
+      "Is liable only for the tax of the last year",
+      "Shall not distribute assets to shareholders unless tax payable has been provided for in full, and is personally liable if tax is not paid",
+      "Is exempt from liability if the shareholders consent"
+    ],
+    "answer": 2,
+    "explanation": "Section 53(1)-(2): no distribution without provision for tax in full, and the liquidator is personally liable otherwise.",
+    "source": "NTAA 2025 s.53",
+    "difficulty": "medium"
+  },
+  {
+    "id": 438,
+    "topic": "Nigeria Tax Administration Act 2025",
+    "question": "A claim for refund of tax under section 55 must be made in writing within:",
+    "options": [
+      "Six years after the end of the year of assessment to which it relates",
+      "One year",
+      "Two years",
+      "Ten years"
+    ],
+    "answer": 0,
+    "explanation": "Section 55(7) sets six years after the year of assessment. Refunds are paid within 90 days of the authority's decision (section 55(3)).",
+    "source": "NTAA 2025 s.55(3), (7)",
+    "difficulty": "hard"
+  },
+  {
+    "id": 439,
+    "topic": "Nigeria Tax Administration Act 2025",
+    "question": "A taxable person that qualifies for a VAT refund must make the request to the Service not later than what period after the transaction giving rise to it?",
+    "options": [
+      "30 days",
+      "6 months",
+      "12 months, otherwise the request lapses",
+      "6 years"
+    ],
+    "answer": 2,
+    "explanation": "Section 56(2) sets 12 months. The Service must refund within 30 days of a valid request or set off the amount against liabilities (section 56(3)).",
+    "source": "NTAA 2025 s.56(2)-(3)",
+    "difficulty": "hard"
+  },
+  {
+    "id": 440,
+    "topic": "Nigeria Tax Administration Act 2025",
+    "question": "A notice requiring a taxable person to appear, produce books or provide information under section 57 must allow a time of not less than:",
+    "options": [
+      "24 hours from the date of service",
+      "Seven days from the date of service",
+      "14 days from the date of service",
+      "30 days from the date of service"
+    ],
+    "answer": 1,
+    "explanation": "Section 57(2) sets a minimum of seven days from service.",
+    "source": "NTAA 2025 s.57(2)",
+    "difficulty": "medium"
+  },
+  {
+    "id": 441,
+    "topic": "Nigeria Tax Administration Act 2025",
+    "question": "A warrant authorising an officer to enter a private dwelling under section 58 is valid for:",
+    "options": [
+      "24 hours, and is not renewable",
+      "One month, and is not renewable",
+      "Three months from issue, or less as the judicial officer considers appropriate, and is renewable",
+      "Twelve months, and is not renewable"
+    ],
+    "answer": 2,
+    "explanation": "Section 58(7) makes the warrant valid for three months or a lesser period, and renewable on application. Section 58(5) bars entry into a private dwelling without consent or a warrant.",
+    "source": "NTAA 2025 s.58(5)-(7)",
+    "difficulty": "hard"
+  },
+  {
+    "id": 442,
+    "topic": "Nigeria Tax Administration Act 2025",
+    "question": "Assets distrained by the Service under section 61 may be kept at the owner's cost for how long before sale if the tax and costs are unpaid?",
+    "options": [
+      "14 days",
+      "7 days",
+      "30 days",
+      "90 days"
+    ],
+    "answer": 0,
+    "explanation": "Section 61(4) allows sale after 14 days. Distrained assets of another relevant tax authority are sold only with a High Court order (section 61(5)).",
+    "source": "NTAA 2025 s.61(4)-(5)",
+    "difficulty": "hard"
+  },
+  {
+    "id": 443,
+    "topic": "Nigeria Tax Administration Act 2025",
+    "question": "Where tax is not paid within the prescribed period, section 65(1)(a) adds a sum equal to what percentage of the tax payable?",
+    "options": [
+      "5%",
+      "15%",
+      "20%",
+      "10%"
+    ],
+    "answer": 3,
+    "explanation": "Section 65(1)(a) adds 10% of the tax payable. Interest accrues separately under section 65(1)(b) and (c).",
+    "source": "NTAA 2025 s.65(1)(a)",
+    "difficulty": "easy"
+  },
+  {
+    "id": 444,
+    "topic": "Nigeria Tax Administration Act 2025",
+    "question": "For tax remitted in foreign currency that is paid late, section 65(1)(c) charges interest at:",
+    "options": [
+      "The prevailing Secured Overnight Financing Rate (SOFR) or successor rate, plus 10% or another spread set by the Minister",
+      "The Central Bank of Nigeria monetary policy rate only",
+      "A flat 10% with no reference rate",
+      "The LIBOR rate plus 2%"
+    ],
+    "answer": 0,
+    "explanation": "Section 65(1)(c) uses SOFR (or any successor rate) plus 10% or such other spread as the Minister determines. Naira remittances use the CBN monetary policy rate plus a spread.",
+    "source": "NTAA 2025 s.65(1)(b)-(c)",
+    "difficulty": "hard"
+  },
+  {
+    "id": 445,
+    "topic": "Nigeria Tax Administration Act 2025",
+    "question": "A tax clearance certificate issued under section 72 shows details for the last how many years of assessment?",
+    "options": [
+      "One",
+      "Five",
+      "Three",
+      "Six"
+    ],
+    "answer": 2,
+    "explanation": "Section 72(2)-(3) requires a certificate covering the three preceding years, disclosing total profits or income, tax payable, tax paid and tax outstanding.",
+    "source": "NTAA 2025 s.72(2)-(3)",
+    "difficulty": "medium"
+  },
+  {
+    "id": 446,
+    "topic": "Nigeria Tax Administration Act 2025",
+    "question": "An application for an advance ruling must be answered within what period, or the authority must give written reasons for inability to issue it?",
+    "options": [
+      "7 days",
+      "30 days",
+      "90 days",
+      "21 days of receipt of the application"
+    ],
+    "answer": 3,
+    "explanation": "Section 73(2)(b) sets 21 days.",
+    "source": "NTAA 2025 s.73(2)(b)",
+    "difficulty": "hard"
+  },
+  {
+    "id": 447,
+    "topic": "Nigeria Tax Administration Act 2025",
+    "question": "How is net VAT revenue distributed under section 81(1)?",
+    "options": [
+      "15% to the Federal Government, 50% to States and the FCT, 35% to Local Governments",
+      "10% to the Federal Government, 55% to States and the FCT, 35% to Local Governments",
+      "10% to the Federal Government, 35% to States and the FCT, 55% to Local Governments",
+      "20% to the Federal Government, 50% to States and the FCT, 30% to Local Governments"
+    ],
+    "answer": 1,
+    "explanation": "Section 81(1) allocates 10% federal, 55% States and FCT, and 35% local governments.",
+    "source": "NTAA 2025 s.81(1)",
+    "difficulty": "hard"
+  },
+  {
+    "id": 448,
+    "topic": "Nigeria Tax Administration Act 2025",
+    "question": "What is the quorum of a State Board (Management Board of the State Service) under section 89(4)?",
+    "options": [
+      "Three members, including the Secretary",
+      "Seven members, including the Legal Adviser",
+      "Half of the members, including the Governor's nominee",
+      "Five members, one of whom must be the Chairman or a Director"
+    ],
+    "answer": 3,
+    "explanation": "Section 89(4) fixes the quorum at five members, one of whom is the Chairman or a Director.",
+    "source": "NTAA 2025 s.89(4)",
+    "difficulty": "hard"
+  },
+  {
+    "id": 449,
+    "topic": "Nigeria Tax Administration Act 2025",
+    "question": "Under section 90(1), the Executive Chairman of a State Service is appointed by:",
+    "options": [
+      "The State Governor, subject to confirmation by the State House of Assembly",
+      "The President on the advice of the Joint Revenue Board",
+      "The Commissioner for Finance, subject to confirmation by the Executive Council",
+      "The State Board, subject to confirmation by the Governor"
+    ],
+    "answer": 0,
+    "explanation": "Section 90(1) requires appointment by the Governor, subject to confirmation by the State House of Assembly.",
+    "source": "NTAA 2025 s.90(1)",
+    "difficulty": "medium"
+  },
+  {
+    "id": 450,
+    "topic": "Nigeria Tax Administration Act 2025",
+    "question": "What is the administrative penalty for failure to file returns under section 101?",
+    "options": [
+      "₦50,000 in the first month and ₦25,000 for each subsequent month",
+      "₦200,000 in the first month and ₦50,000 for each subsequent month",
+      "₦100,000 in the first month and ₦50,000 for each subsequent month the failure continues",
+      "₦10,000 in the first month and ₦5,000 for each subsequent month"
+    ],
+    "answer": 2,
+    "explanation": "Section 101 penalises non-filing and knowingly filing incomplete or inaccurate returns at ₦100,000 for the first month and ₦50,000 per further month. State revenue services cite this in their public notices.",
+    "source": "NTAA 2025 s.101 [secondary source]",
+    "difficulty": "medium"
+  }
+]

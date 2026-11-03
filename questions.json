@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "topic": "Tax Reform Acts",
+    "question": "Which statute consolidated Nigeria's income tax, VAT, capital gains and stamp duty laws and took effect on 1 January 2026?",
+    "options": ["Nigeria Tax Administration Act 2025", "Nigeria Tax Act 2025", "Finance Act 2019", "Nigeria Revenue Service (Establishment) Act 2025"],
+    "answer": 1,
+    "explanation": "The Nigeria Tax Act 2025 is the core law and commenced on 1 January 2026."
+  },
+  {
+    "id": 2,
+    "topic": "Tax Reform Acts",
+    "question": "On what date did the Nigeria Tax Administration Act 2025 commence?",
+    "options": ["1 January 2026", "1 January 2025", "26 June 2025", "26 June 2026"],
+    "answer": 2,
+    "explanation": "The NTAA, NRS Act and Joint Revenue Board Act commenced on 26 June 2025; only the NTA commenced on 1 January 2026."
+  },
+  {
+    "id": 3,
+    "topic": "Tax Reform Acts",
+    "question": "Which Act replaces FIRS with the Nigeria Revenue Service?",
+    "options": ["Nigeria Revenue Service (Establishment) Act 2025", "Nigeria Tax Act 2025", "Joint Revenue Board of Nigeria (Establishment) Act 2025", "Nigeria Tax Administration Act 2025"],
+    "answer": 0,
+    "explanation": "The NRS (Establishment) Act 2025 establishes the Nigeria Revenue Service in place of FIRS."
+  },
+  {
+    "id": 4,
+    "topic": "Tax Administration",
+    "question": "Which Act primarily governs assessment, collection, enforcement and compliance?",
+    "options": ["Nigeria Tax Act 2025", "Nigeria Revenue Service (Establishment) Act 2025", "Joint Revenue Board of Nigeria (Establishment) Act 2025", "Nigeria Tax Administration Act 2025"],
+    "answer": 3,
+    "explanation": "The NTAA provides the administrative framework; the NTA sets taxable income, rates, exemptions and liabilities."
+  },
+  {
+    "id": 5,
+    "topic": "Tax Administration",
+    "question": "Which body coordinates federal and sub-national tax authorities under the 2025 reforms?",
+    "options": ["Nigeria Revenue Service", "Tax Appeal Tribunal", "Joint Revenue Board of Nigeria", "Federal Account Allocation Committee"],
+    "answer": 2,
+    "explanation": "The Joint Revenue Board of Nigeria (Establishment) Act 2025 creates the board for federal and sub-national coordination."
+  },
+  {
+    "id": 6,
+    "topic": "Personal Income Tax",
+    "question": "Under the Nigeria Tax Act 2025, annual income up to what amount is exempt from personal income tax?",
+    "options": ["₦300,000", "₦800,000", "₦1,200,000", "₦2,000,000"],
+    "answer": 1,
+    "explanation": "The tax-free threshold was raised from ₦300,000 to ₦800,000."
+  },
+  {
+    "id": 7,
+    "topic": "Personal Income Tax",
+    "question": "What is the top marginal personal income tax rate under the Nigeria Tax Act 2025?",
+    "options": ["24%", "30%", "21%", "25%"],
+    "answer": 3,
+    "explanation": "The progressive bands run from 0% up to a top marginal rate of 25%."
+  },
+  {
+    "id": 8,
+    "topic": "Personal Income Tax",
+    "question": "What happened to the Consolidated Relief Allowance (CRA) under the Nigeria Tax Act 2025?",
+    "options": ["It was abolished", "It was increased to 30% of gross income", "It was retained unchanged", "It was limited to pensioners"],
+    "answer": 0,
+    "explanation": "The CRA was abolished under the new Act."
+  },
+  {
+    "id": 9,
+    "topic": "VAT",
+    "question": "What is the standard VAT rate in Nigeria under the Nigeria Tax Act 2025?",
+    "options": ["5%", "10%", "7.5%", "12.5%"],
+    "answer": 2,
+    "explanation": "The rate was raised from 5% to 7.5% by the Finance Act 2019 and is unchanged under the new Act."
+  },
+  {
+    "id": 10,
+    "topic": "Tax Reform Acts",
+    "question": "Which of the following was repealed by the Nigeria Tax Act 2025?",
+    "options": ["Evidence Act", "Companies and Allied Matters Act", "Nigerian Constitution", "Companies Income Tax Act"],
+    "answer": 3,
+    "explanation": "The NTA repealed CITA, PITA, the Capital Gains Tax Act, the Stamp Duties Act and the VAT Act."
+  }
+]

@@ -1,0 +1,752 @@
+[
+  {
+    "id": 301,
+    "topic": "Nigeria Tax Act 2025",
+    "question": "What is the objective of the Nigeria Tax Act 2025 as stated in section 1?",
+    "options": [
+      "To provide a unified fiscal legislation governing taxation in Nigeria",
+      "To establish the Nigeria Revenue Service as the sole tax collector",
+      "To set out procedures for assessment, collection and enforcement of tax",
+      "To create a joint board for federal and sub-national tax coordination"
+    ],
+    "answer": 0,
+    "explanation": "Section 1 states the objective as a unified fiscal legislation for taxation. The NRS, tax administration and the Joint Revenue Board are handled by the other three 2025 Acts.",
+    "source": "NTA 2025 s.1",
+    "difficulty": "easy"
+  },
+  {
+    "id": 302,
+    "topic": "Nigeria Tax Act 2025",
+    "question": "Which of the following is NOT a category on which income tax is imposed under section 3?",
+    "options": [
+      "Profits or gains of any company or enterprise",
+      "Income of any individual or family",
+      "Gross turnover of a business regardless of profit",
+      "Income arising or due to a trustee or an estate"
+    ],
+    "answer": 2,
+    "explanation": "Section 3 imposes income tax on (a) profits or gains of a company or enterprise, (b) income of an individual or family, and (c) income of a trustee or estate. Gross turnover as such is not a head of charge.",
+    "source": "NTA 2025 s.3",
+    "difficulty": "easy"
+  },
+  {
+    "id": 303,
+    "topic": "Nigeria Tax Act 2025",
+    "question": "Which type of transaction does section 4(1) expressly list as giving rise to chargeable profits or gains, in addition to trade, rent and dividends?",
+    "options": [
+      "Only transactions in tangible movable property",
+      "Transactions in digital or virtual assets",
+      "Only disposals of shares listed on the Nigerian Exchange",
+      "Only transfers of land and buildings"
+    ],
+    "answer": 1,
+    "explanation": "Section 4(1) expressly includes profits or gains from transactions in digital or virtual assets.",
+    "source": "NTA 2025 s.4(1)",
+    "difficulty": "easy"
+  },
+  {
+    "id": 304,
+    "topic": "Nigeria Tax Act 2025",
+    "question": "Under section 4(6)(a), interest is treated as accruing in Nigeria where:",
+    "options": [
+      "It is paid into a bank account maintained in Nigeria",
+      "The lender is a Nigerian resident",
+      "The liability to pay it falls on a Nigerian resident or a Nigerian permanent establishment of a non-resident, regardless of where it is paid",
+      "The loan agreement was signed in Nigeria"
+    ],
+    "answer": 2,
+    "explanation": "Section 4(6)(a)(i) ties accrual to where the liability to pay falls (a resident or a Nigerian PE), regardless of where or in what form the interest is paid.",
+    "source": "NTA 2025 s.4(6)(a)(i)",
+    "difficulty": "medium"
+  },
+  {
+    "id": 305,
+    "topic": "Nigeria Tax Act 2025",
+    "question": "Under section 4(6)(e), the transfer of securities or shares under a regulated securities lending transaction is NOT a disposal, provided that:",
+    "options": [
+      "The loan period does not exceed 12 months",
+      "The borrower is a Nigerian company",
+      "The securities are listed on a Nigerian securities exchange",
+      "The securities or shares are transferred from the lender and subsequently returned by the borrower to the lender"
+    ],
+    "answer": 3,
+    "explanation": "The exclusion from disposal applies only where the securities lent are returned by the borrower to the lender.",
+    "source": "NTA 2025 s.4(6)(e)",
+    "difficulty": "hard"
+  },
+  {
+    "id": 306,
+    "topic": "Nigeria Tax Act 2025",
+    "question": "Which of the following is NOT a person in whose name a company may be charged to tax under section 5(1)?",
+    "options": [
+      "Its principal officer, attorney, factor, agent or representative in Nigeria",
+      "Its largest shareholder",
+      "Its receiver, liquidator or administrator",
+      "The company in its own name"
+    ],
+    "answer": 1,
+    "explanation": "Section 5(1) allows charge in the company's own name, in the name of its principal officer, attorney, factor, agent or representative in Nigeria, or in the name of its receiver, liquidator or administrator. A shareholder is not listed.",
+    "source": "NTA 2025 s.5(1)",
+    "difficulty": "medium"
+  },
+  {
+    "id": 307,
+    "topic": "Nigeria Tax Act 2025",
+    "question": "Under section 6(1), the profits of a Nigerian company are deemed to accrue in Nigeria:",
+    "options": [
+      "Wherever they arise, whether or not brought into or received in Nigeria",
+      "Only where they arise within Nigeria",
+      "Only when they are brought into Nigeria",
+      "Only when they are distributed to shareholders"
+    ],
+    "answer": 0,
+    "explanation": "A Nigerian company is taxed on worldwide profits: they are deemed to accrue in Nigeria wherever they arise and whether or not remitted.",
+    "source": "NTA 2025 s.6(1)",
+    "difficulty": "easy"
+  },
+  {
+    "id": 308,
+    "topic": "Nigeria Tax Act 2025",
+    "question": "Under section 6(2), a foreign company controlled by a Nigerian company has not distributed its profits in a year. What follows?",
+    "options": [
+      "The foreign company is deemed a Nigerian resident for that year",
+      "The undistributed profits stay exempt until they are actually repatriated",
+      "The proportion that could have been distributed without detriment to the foreign company's business is treated as distributed and included in the Nigerian company's profits",
+      "The whole of the foreign company's profit is taxed at the 4% development levy rate"
+    ],
+    "answer": 2,
+    "explanation": "Section 6(2) is a controlled foreign company rule. The distributable proportion is construed as distributed and taxed in the Nigerian parent's profits.",
+    "source": "NTA 2025 s.6(2)",
+    "difficulty": "hard"
+  },
+  {
+    "id": 309,
+    "topic": "Nigeria Tax Act 2025",
+    "question": "Under section 7(2), income from a dividend distributed by a Nigerian company is deemed to arise on:",
+    "options": [
+      "The day the directors declare the dividend",
+      "The day on which payment of the dividend becomes due",
+      "The last day of the company's accounting period",
+      "The day the shareholder actually receives the payment"
+    ],
+    "answer": 1,
+    "explanation": "Section 7(2) fixes the date of arising as the day payment of the dividend becomes due.",
+    "source": "NTA 2025 s.7(2)",
+    "difficulty": "medium"
+  },
+  {
+    "id": 310,
+    "topic": "Nigeria Tax Act 2025",
+    "question": "Section 10(1) allows the Service to direct that part of undistributed profits be treated as distributed, for a Nigerian company controlled by:",
+    "options": [
+      "Not more than five individuals",
+      "Not more than three individuals",
+      "Not more than ten individuals",
+      "A single individual only"
+    ],
+    "answer": 0,
+    "explanation": "Section 10(1) applies to a Nigerian company controlled by not more than five individuals that has not distributed profits.",
+    "source": "NTA 2025 s.10(1)",
+    "difficulty": "medium"
+  },
+  {
+    "id": 311,
+    "topic": "Nigeria Tax Act 2025",
+    "question": "Under section 10(6), a direction on deemed distribution for an accounting period must be made not later than:",
+    "options": [
+      "One year after the end of the accounting period",
+      "Five years after the year of assessment",
+      "Three years after the Service receives the duly audited accounts for that period",
+      "Six years after the company's incorporation"
+    ],
+    "answer": 2,
+    "explanation": "Section 10(6) sets a three-year limit running from receipt of the duly audited accounts by the Service.",
+    "source": "NTA 2025 s.10(6)",
+    "difficulty": "hard"
+  },
+  {
+    "id": 312,
+    "topic": "Nigeria Tax Act 2025",
+    "question": "Under section 13(2), the employment income of a non-resident employee is NOT taxed in Nigeria where:",
+    "options": [
+      "The employee earns less than ₦800,000 a year",
+      "The employer has deducted tax at source in Nigeria",
+      "The employee spends fewer than 183 days in Nigeria",
+      "The employer is a start-up or engaged in technology-driven services or creative arts, and the income is taxable in the employee's country of tax residence"
+    ],
+    "answer": 3,
+    "explanation": "Section 13(2) protects non-resident employees of start-ups, technology-driven services and creative arts employers, provided the income is taxable in their country of residence.",
+    "source": "NTA 2025 s.13(2)",
+    "difficulty": "hard"
+  },
+  {
+    "id": 313,
+    "topic": "Nigeria Tax Act 2025",
+    "question": "For the purposes of section 13, a \"start-up\" means:",
+    "options": [
+      "Any company incorporated within the last five years",
+      "Any company with annual turnover not above ₦100 million",
+      "A Nigerian company granted a start-up label under the Nigeria Startup Act, 2022",
+      "Any company registered with NITDA"
+    ],
+    "answer": 2,
+    "explanation": "Section 13(6)(c) defines a start-up by reference to the start-up label granted under the Nigeria Startup Act, 2022.",
+    "source": "NTA 2025 s.13(6)(c)",
+    "difficulty": "medium"
+  },
+  {
+    "id": 314,
+    "topic": "Nigeria Tax Act 2025",
+    "question": "Under section 14(1)(a), where an employer's own asset is used in providing a benefit to an employee, the employee is deemed to have earned an annual benefit of:",
+    "options": [
+      "10% of the amount the employer spent acquiring the asset",
+      "5% of the amount the employer spent acquiring the asset",
+      "15% of the market value of the asset each year",
+      "20% of the employee's annual gross income"
+    ],
+    "answer": 1,
+    "explanation": "Section 14(1)(a): the annual benefit is 5% of the acquisition cost to the employer (or 5% of market value if cost cannot be ascertained).",
+    "source": "NTA 2025 s.14(1)(a)",
+    "difficulty": "medium"
+  },
+  {
+    "id": 315,
+    "topic": "Nigeria Tax Act 2025",
+    "question": "Where an employer provides rent-free premises, section 14(6) treats the employee as receiving additional emoluments equal to the annual rental value, subject to a maximum of:",
+    "options": [
+      "20% of annual gross income from the employment, including the rental value",
+      "10% of annual gross income from the employment, excluding the rental value",
+      "25% of annual gross income from the employment, excluding the rental value",
+      "20% of annual gross income from the employment, excluding the rental value"
+    ],
+    "answer": 3,
+    "explanation": "The cap in section 14(6) is 20% of annual gross income from the employment, excluding the rental value itself.",
+    "source": "NTA 2025 s.14(6)",
+    "difficulty": "hard"
+  },
+  {
+    "id": 316,
+    "topic": "Nigeria Tax Act 2025",
+    "question": "Where a non-resident's income is not liable to deduction at source and its profits cannot be ascertained, section 17(8) sets a minimum tax of:",
+    "options": [
+      "4% of the total income generated from Nigeria",
+      "2% of the total income generated from Nigeria",
+      "5% of the total income generated from Nigeria",
+      "7.5% of the total income generated from Nigeria"
+    ],
+    "answer": 0,
+    "explanation": "Section 17(8): the tax shall not be less than the tax withheld at source, and where no deduction applies, 4% of total income generated from Nigeria.",
+    "source": "NTA 2025 s.17(8)",
+    "difficulty": "hard"
+  },
+  {
+    "id": 317,
+    "topic": "Nigeria Tax Act 2025",
+    "question": "Under section 18(6), the tax payable by a non-resident shipping or air transport company for a year shall not be less than:",
+    "options": [
+      "4% of gross revenue from carriage shipped or loaded in Nigeria, paid annually",
+      "5% of gross revenue from carriage shipped or loaded in Nigeria, paid quarterly",
+      "1% of gross revenue from carriage shipped or loaded in Nigeria, paid monthly",
+      "2% of gross revenue from carriage shipped or loaded in Nigeria, computed, assessed and paid monthly"
+    ],
+    "answer": 3,
+    "explanation": "Section 18(6) sets a 2% minimum on gross revenue from carriage shipped from, or loaded in, Nigeria, paid monthly.",
+    "source": "NTA 2025 s.18(6)",
+    "difficulty": "medium"
+  },
+  {
+    "id": 318,
+    "topic": "Nigeria Tax Act 2025",
+    "question": "Which test governs the deductibility of expenses in ascertaining profits under section 20(1)?",
+    "options": [
+      "Expenses wholly, reasonably and necessarily incurred for the business",
+      "Expenses that are recorded in the audited financial statements",
+      "Expenses wholly and exclusively incurred in the production of the income",
+      "Expenses incurred for the general benefit of the business"
+    ],
+    "answer": 2,
+    "explanation": "Section 20(1) allows all expenses for the period wholly and exclusively incurred in the production of the income.",
+    "source": "NTA 2025 s.20(1)",
+    "difficulty": "easy"
+  },
+  {
+    "id": 319,
+    "topic": "Nigeria Tax Act 2025",
+    "question": "Which expense is expressly deductible under section 20(1)(m)?",
+    "options": [
+      "Fines or penalties imposed under any law",
+      "Taxes on profits levied in Nigeria or elsewhere",
+      "Depreciation of fixed assets",
+      "Expenses on assistive devices and disability-related products such as hearing aids, wheelchairs and braille materials"
+    ],
+    "answer": 3,
+    "explanation": "Section 20(1)(m) allows expenses on assistive devices and disability-related products. Fines, taxes on profit and depreciation are disallowed under section 21.",
+    "source": "NTA 2025 s.20(1)(m); s.21",
+    "difficulty": "medium"
+  },
+  {
+    "id": 320,
+    "topic": "Nigeria Tax Act 2025",
+    "question": "Under section 20(4), an expense incurred in a foreign currency is deductible only to the extent of:",
+    "options": [
+      "Its Naira equivalent at the rate in the supplier's invoice",
+      "Its Naira equivalent at the average parallel-market rate for the year",
+      "Its Naira equivalent at the Central Bank of Nigeria official exchange rate for the relevant date or period",
+      "Its Naira equivalent at the rate at which the company's bank sold the currency"
+    ],
+    "answer": 2,
+    "explanation": "Section 20(4) restricts the deduction to the Naira equivalent at the CBN official rate for the relevant date or period.",
+    "source": "NTA 2025 s.20(4)",
+    "difficulty": "hard"
+  },
+  {
+    "id": 321,
+    "topic": "Nigeria Tax Act 2025",
+    "question": "Which of the following is NOT allowed as a deduction under section 21?",
+    "options": [
+      "Rent on land or buildings occupied for generating the income",
+      "Any penalty or fine imposed under any law",
+      "Contributions to a staff pension scheme approved under the Pension Reform Act",
+      "Salaries, wages and other remuneration paid to employees"
+    ],
+    "answer": 1,
+    "explanation": "Section 21(l) disallows any penalty or fine imposed under any law. The other items are allowed under section 20(1).",
+    "source": "NTA 2025 s.21(l); s.20(1)",
+    "difficulty": "easy"
+  },
+  {
+    "id": 322,
+    "topic": "Nigeria Tax Act 2025",
+    "question": "Under section 21(p), an expense on which VAT is due under the Act but was not charged is:",
+    "options": [
+      "Deductible at 50% of its value",
+      "Deductible once the VAT is later paid by the supplier",
+      "Fully deductible if supported by documents",
+      "Not deductible in ascertaining profits"
+    ],
+    "answer": 3,
+    "explanation": "Section 21(p) disallows any expense on which VAT is due but was not charged (and, for imports, where applicable duty or levy was not paid).",
+    "source": "NTA 2025 s.21(p)",
+    "difficulty": "hard"
+  },
+  {
+    "id": 323,
+    "topic": "Nigeria Tax Act 2025",
+    "question": "Under section 24(1), where a trade or business permanently ceases operations in Nigeria, the tax on the assessable profits is payable within:",
+    "options": [
+      "Three months from the date of cessation",
+      "Twelve months from the date of cessation",
+      "Six months from the date of cessation",
+      "Thirty days from the date of cessation"
+    ],
+    "answer": 2,
+    "explanation": "Section 24(1) requires payment within six months from the date of cessation.",
+    "source": "NTA 2025 s.24(1)",
+    "difficulty": "medium"
+  },
+  {
+    "id": 324,
+    "topic": "Nigeria Tax Act 2025",
+    "question": "Under section 27(4), capital allowance is NOT prorated where the non-taxable income is less than:",
+    "options": [
+      "10% of the company's total income",
+      "5% of the company's total income",
+      "15% of the company's total income",
+      "25% of the company's total income"
+    ],
+    "answer": 0,
+    "explanation": "Section 27(3) prorates capital allowance on partly-used assets, but section 27(4) removes proration where non-taxable income is under 10% of total income.",
+    "source": "NTA 2025 s.27(3)-(4)",
+    "difficulty": "hard"
+  },
+  {
+    "id": 325,
+    "topic": "Nigeria Tax Act 2025",
+    "question": "Under section 30(1), the chargeable income of an individual is:",
+    "options": [
+      "The taxable income plus exempt income",
+      "The gross income less the Consolidated Relief Allowance",
+      "The total income less a flat personal allowance of ₦800,000",
+      "The total income ascertained under section 28 less eligible deductions"
+    ],
+    "answer": 3,
+    "explanation": "Chargeable income is total income (section 28) less eligible deductions (section 30(2)). The CRA has been abolished.",
+    "source": "NTA 2025 s.28; s.30(1)",
+    "difficulty": "medium"
+  },
+  {
+    "id": 326,
+    "topic": "Nigeria Tax Act 2025",
+    "question": "What is the rent relief available to an individual under section 30(2)(a)(vi)?",
+    "options": [
+      "10% of annual rent paid, subject to a maximum of ₦200,000",
+      "20% of annual rent paid, subject to a maximum of ₦500,000, whichever is lower",
+      "20% of annual rent paid, subject to a maximum of ₦1,000,000",
+      "25% of annual rent paid, subject to a maximum of ₦500,000"
+    ],
+    "answer": 1,
+    "explanation": "Rent relief is 20% of annual rent paid, capped at ₦500,000, and the individual must accurately declare the rent paid.",
+    "source": "NTA 2025 s.30(2)(a)(vi)",
+    "difficulty": "easy"
+  },
+  {
+    "id": 327,
+    "topic": "Nigeria Tax Act 2025",
+    "question": "Under section 34(1), gains on disposal of shares in a Nigerian company are NOT chargeable where:",
+    "options": [
+      "Aggregate disposal proceeds are below ₦150,000,000 and the chargeable gain does not exceed ₦10,000,000 in any 12 consecutive months",
+      "Aggregate disposal proceeds are below ₦100,000,000 and the chargeable gain does not exceed ₦5,000,000 in any 12 consecutive months",
+      "Aggregate disposal proceeds are below ₦250,000,000 and the chargeable gain does not exceed ₦20,000,000 in any 12 consecutive months",
+      "Aggregate disposal proceeds are below ₦50,000,000 and the chargeable gain does not exceed ₦10,000,000 in any 12 consecutive months"
+    ],
+    "answer": 0,
+    "explanation": "The proviso to section 34(1)(a) excludes share gains where proceeds are under ₦150m and the gain is not above ₦10m in any 12 consecutive months. Reinvestment in Nigerian shares within the same year is a separate exclusion.",
+    "source": "NTA 2025 s.34(1)(a) proviso",
+    "difficulty": "hard"
+  },
+  {
+    "id": 328,
+    "topic": "Nigeria Tax Act 2025",
+    "question": "Under section 43(1), where an asset is lost or destroyed, the compensation must be applied in acquiring a replacement within what period of receipt for the replacement rules to apply?",
+    "options": [
+      "One year",
+      "Three years",
+      "Two years",
+      "Five years"
+    ],
+    "answer": 1,
+    "explanation": "Section 43(1) applies where the capital sum received is applied within three years of receipt in acquiring a replacement asset.",
+    "source": "NTA 2025 s.43(1)",
+    "difficulty": "medium"
+  },
+  {
+    "id": 329,
+    "topic": "Nigeria Tax Act 2025",
+    "question": "Under section 46(f), shares in a foreign entity are deemed located in Nigeria if, at any time in the 365 days before the alienation, more than what share of their value is derived from Nigerian immovable property or other chargeable assets (or through interposed entities)?",
+    "options": [
+      "More than 25%",
+      "More than 30%",
+      "More than 50%",
+      "More than 75%"
+    ],
+    "answer": 2,
+    "explanation": "Section 46(f) uses a more-than-50% value test over the preceding 365 days.",
+    "source": "NTA 2025 s.46(f)",
+    "difficulty": "hard"
+  },
+  {
+    "id": 330,
+    "topic": "Nigeria Tax Act 2025",
+    "question": "Under section 50, compensation or damages for personal injury, including compensation for loss of office, is not a chargeable gain up to:",
+    "options": [
+      "₦10,000,000",
+      "₦50,000,000",
+      "₦20,000,000",
+      "₦100,000,000"
+    ],
+    "answer": 1,
+    "explanation": "Section 50(1)-(2): sums up to ₦50,000,000 are not chargeable gains; only the excess is chargeable.",
+    "source": "NTA 2025 s.50(1)-(2)",
+    "difficulty": "medium"
+  },
+  {
+    "id": 331,
+    "topic": "Nigeria Tax Act 2025",
+    "question": "Under section 51, the exemption on gains from disposal of an individual's dwelling-house may be enjoyed:",
+    "options": [
+      "Once every five years",
+      "Once in each year of assessment",
+      "Once in the lifetime of the individual",
+      "Once for each dwelling-house the individual owns"
+    ],
+    "answer": 2,
+    "explanation": "Section 51(2) limits the principal private residence exemption to once in a lifetime. The adjoining land covered is up to one acre.",
+    "source": "NTA 2025 s.51(1)-(2)",
+    "difficulty": "medium"
+  },
+  {
+    "id": 332,
+    "topic": "Nigeria Tax Act 2025",
+    "question": "Under section 52(1), a gain on disposal of personal chattels is not chargeable if the consideration in a period of assessment does not exceed:",
+    "options": [
+      "₦5,000,000 or three times the annual national minimum wage, whichever is higher",
+      "₦5,000,000 or three times the annual national minimum wage, whichever is lower",
+      "₦2,000,000 or twice the annual national minimum wage, whichever is higher",
+      "₦10,000,000 regardless of the national minimum wage"
+    ],
+    "answer": 0,
+    "explanation": "Section 52(1) uses the higher of ₦5,000,000 and three times the annual national minimum wage.",
+    "source": "NTA 2025 s.52(1)",
+    "difficulty": "hard"
+  },
+  {
+    "id": 333,
+    "topic": "Nigeria Tax Act 2025",
+    "question": "Under section 53, the exemption for motor vehicles used solely for private or non-profit purposes is limited to how many vehicles per individual in a year of assessment?",
+    "options": [
+      "One",
+      "Three",
+      "Five",
+      "Not more than two"
+    ],
+    "answer": 3,
+    "explanation": "Section 53(2) limits the exemption to not more than two motor vehicles by an individual in any year of assessment.",
+    "source": "NTA 2025 s.53(2)",
+    "difficulty": "medium"
+  },
+  {
+    "id": 334,
+    "topic": "Nigeria Tax Act 2025",
+    "question": "Under section 57, a company whose effective tax rate in a year is below a set floor must pay additional tax to bring the rate up to that floor. What is the floor?",
+    "options": [
+      "10%",
+      "15%",
+      "20%",
+      "25%"
+    ],
+    "answer": 1,
+    "explanation": "Section 57(1) tops up the effective tax rate to 15%.",
+    "source": "NTA 2025 s.57(1)",
+    "difficulty": "medium"
+  },
+  {
+    "id": 335,
+    "topic": "Nigeria Tax Act 2025",
+    "question": "Which category of individual is excluded from the Fourth Schedule rates under section 58?",
+    "options": [
+      "An individual earning the Minimum Wage in line with the Minimum Wage Act",
+      "A civil servant on grade level 16 and above",
+      "An individual aged 60 years and above",
+      "A self-employed individual"
+    ],
+    "answer": 0,
+    "explanation": "Section 58 applies the Fourth Schedule to chargeable income of individuals other than those earning the Minimum Wage.",
+    "source": "NTA 2025 s.58",
+    "difficulty": "medium"
+  },
+  {
+    "id": 336,
+    "topic": "Nigeria Tax Act 2025",
+    "question": "What rate applies to the portion of chargeable income above ₦25,000,000 up to ₦50,000,000 under the Fourth Schedule?",
+    "options": [
+      "21%",
+      "24%",
+      "23%",
+      "25%"
+    ],
+    "answer": 2,
+    "explanation": "The bands are 0% on the first ₦800,000, then 15%, 18%, 21%, 23% and 25% above ₦50 million.",
+    "source": "NTA 2025 s.58; Fourth Schedule [secondary source]",
+    "difficulty": "medium"
+  },
+  {
+    "id": 337,
+    "topic": "Nigeria Tax Act 2025",
+    "question": "An individual has chargeable income of ₦3,000,000. What is the tax payable under the Fourth Schedule?",
+    "options": [
+      "₦330,000",
+      "₦450,000",
+      "₦540,000",
+      "₦600,000"
+    ],
+    "answer": 0,
+    "explanation": "First ₦800,000 at 0%, then ₦2,200,000 at 15% = ₦330,000.",
+    "source": "NTA 2025 s.58; Fourth Schedule [secondary source]",
+    "difficulty": "easy"
+  },
+  {
+    "id": 338,
+    "topic": "Nigeria Tax Act 2025",
+    "question": "An individual has chargeable income of ₦20,000,000. What is the tax payable under the Fourth Schedule?",
+    "options": [
+      "₦3,000,000",
+      "₦3,630,000",
+      "₦4,200,000",
+      "₦2,580,000"
+    ],
+    "answer": 1,
+    "explanation": "₦800,000 at 0% = 0; ₦2,200,000 at 15% = ₦330,000; ₦9,000,000 at 18% = ₦1,620,000; remaining ₦8,000,000 at 21% = ₦1,680,000. Total ₦3,630,000.",
+    "source": "NTA 2025 s.58; Fourth Schedule [secondary source]",
+    "difficulty": "hard"
+  },
+  {
+    "id": 339,
+    "topic": "Nigeria Tax Act 2025",
+    "question": "The 4% development levy under section 59 is imposed on assessable profits of companies, other than:",
+    "options": [
+      "Insurance and banking companies",
+      "Manufacturing and agricultural companies",
+      "Companies listed on the Nigerian Exchange",
+      "Small companies and non-resident companies"
+    ],
+    "answer": 3,
+    "explanation": "Section 59(1) excludes small companies and non-resident companies. Section 59(4) also bars the levy on profits computed for hydrocarbon tax.",
+    "source": "NTA 2025 s.59(1), (4)",
+    "difficulty": "medium"
+  },
+  {
+    "id": 340,
+    "topic": "Nigeria Tax Act 2025",
+    "question": "Which beneficiary receives the largest share of development levy revenue under section 59(3), and what share?",
+    "options": [
+      "Nigerian Education Loan, 50%",
+      "Tertiary Education Trust Fund, 50%",
+      "Defence and Security Infrastructure Fund, 25%",
+      "National Information Technology Development Fund, 30%"
+    ],
+    "answer": 1,
+    "explanation": "Section 59(3): TETFund 50%, Nigerian Education Loan 15%, NITDF 8%, NASENI 8%, NBTI 4%, Defence and Security Infrastructure Fund 10%, National Cybersecurity Fund 5%.",
+    "source": "NTA 2025 s.59(3)",
+    "difficulty": "easy"
+  },
+  {
+    "id": 341,
+    "topic": "Nigeria Tax Act 2025",
+    "question": "What share of development levy revenue goes to the Defence and Security Infrastructure Fund under section 59(3)?",
+    "options": [
+      "5%",
+      "8%",
+      "15%",
+      "10%"
+    ],
+    "answer": 3,
+    "explanation": "The Defence and Security Infrastructure Fund gets 10%. The National Cybersecurity Fund gets 5%, and the Nigerian Education Loan gets 15%.",
+    "source": "NTA 2025 s.59(3)(f)",
+    "difficulty": "hard"
+  },
+  {
+    "id": 342,
+    "topic": "Nigeria Tax Act 2025",
+    "question": "Under section 61(8), what happens to a loss from one class of insurance business?",
+    "options": [
+      "It cannot be set off against income of another class but can be carried forward against profits of the same class",
+      "It can be set off against income of any other class in the same year",
+      "It is forfeited at the end of the year of assessment",
+      "It can be carried back to the two preceding years"
+    ],
+    "answer": 0,
+    "explanation": "Section 61(8) assesses each class separately: life and non-life losses are not interchangeable, and losses carry forward within the same class.",
+    "source": "NTA 2025 s.61(8)",
+    "difficulty": "hard"
+  },
+  {
+    "id": 343,
+    "topic": "Nigeria Tax Act 2025",
+    "question": "Which of these Acts was amended, rather than repealed, by the Nigeria Tax Act 2025?",
+    "options": [
+      "Venture Capital (Incentives) Act",
+      "Casino Act",
+      "Industrial Development (Income Tax Relief) Act",
+      "Nigeria Start-up Act"
+    ],
+    "answer": 3,
+    "explanation": "The long title repeals the Venture Capital, Casino and Industrial Development (Income Tax Relief) Acts, among others, but only amends the Nigeria Start-up Act.",
+    "source": "NTA 2025 long title; s.196",
+    "difficulty": "hard"
+  },
+  {
+    "id": 344,
+    "topic": "Nigeria Tax Act 2025",
+    "question": "An instrument executed in Nigeria and chargeable with stamp duty must be stamped not later than:",
+    "options": [
+      "14 days after its execution",
+      "30 days after its execution",
+      "60 days after its execution",
+      "90 days after its execution"
+    ],
+    "answer": 1,
+    "explanation": "The Act requires stamping within 30 days of execution by the person required to pay the duty.",
+    "source": "NTA 2025 s.126 [secondary source]",
+    "difficulty": "medium"
+  },
+  {
+    "id": 345,
+    "topic": "Nigeria Tax Act 2025",
+    "question": "Which persons are required to collect or withhold VAT on taxable supplies made to them and remit it to the Service?",
+    "options": [
+      "Federal, State and Local Governments and their ministries, departments and agencies",
+      "Only the Nigeria Revenue Service",
+      "Only companies listed on the Nigerian Exchange",
+      "Only non-resident suppliers"
+    ],
+    "answer": 0,
+    "explanation": "The VAT collection provision names Federal, State and Local Government bodies and any other person appointed by the Service.",
+    "source": "NTA 2025 s.155 [secondary source]",
+    "difficulty": "medium"
+  },
+  {
+    "id": 346,
+    "topic": "Nigeria Tax Act 2025",
+    "question": "Where a taxable person's input VAT exceeds output VAT for a period, the person is entitled to:",
+    "options": [
+      "Forfeit the excess to the Service",
+      "Carry the excess back to the preceding year",
+      "Recover the excess only as a cash refund after a tax audit",
+      "Utilise the excess as a credit against subsequent months"
+    ],
+    "answer": 3,
+    "explanation": "Where output VAT exceeds input VAT the excess is remitted; where input VAT exceeds output VAT the excess is a credit against subsequent months.",
+    "source": "NTA 2025 s.156 [secondary source]",
+    "difficulty": "medium"
+  },
+  {
+    "id": 347,
+    "topic": "Nigeria Tax Act 2025",
+    "question": "What is the rate of the surcharge imposed on chargeable fossil fuel products?",
+    "options": [
+      "5%",
+      "2.5%",
+      "7.5%",
+      "10%"
+    ],
+    "answer": 0,
+    "explanation": "The surcharge is 5% on chargeable fossil fuel products. Household kerosene, cooking gas, CNG and clean or renewable energy products are excluded, and the Minister fixes the commencement date by gazetted order.",
+    "source": "NTA 2025 s.159 [secondary source]",
+    "difficulty": "easy"
+  },
+  {
+    "id": 348,
+    "topic": "Nigeria Tax Act 2025",
+    "question": "The economic development tax credit is allowed at what rate and for how long?",
+    "options": [
+      "10% per annum for 5 years",
+      "5% per annum for 10 years",
+      "2.5% per annum for 10 years",
+      "5% per annum for 5 years"
+    ],
+    "answer": 3,
+    "explanation": "The credit is 5% per annum for 5 years on each eligible qualifying capital expenditure within 5 years from the production date.",
+    "source": "NTA 2025 s.177 [secondary source]",
+    "difficulty": "hard"
+  },
+  {
+    "id": 349,
+    "topic": "Nigeria Tax Act 2025",
+    "question": "Under section 66, hydrocarbon tax is levied on the profits of a company engaged in upstream petroleum operations in relation to:",
+    "options": [
+      "Crude oil",
+      "Natural gas",
+      "Refined petroleum products",
+      "Petrochemicals"
+    ],
+    "answer": 0,
+    "explanation": "Section 66 levies hydrocarbon tax on profits from crude oil. Section 65(2) excludes associated and non-associated natural gas.",
+    "source": "NTA 2025 s.65-66",
+    "difficulty": "medium"
+  },
+  {
+    "id": 350,
+    "topic": "Nigeria Tax Act 2025",
+    "question": "Where income of a Nigerian resident derived from outside Nigeria has been taxed in the source country and is also chargeable in Nigeria, the foreign tax may be:",
+    "options": [
+      "Deducted from the income before computing Nigerian tax",
+      "Refunded by the Nigerian tax authority",
+      "Allowed as a credit against the tax payable in Nigeria",
+      "Ignored, with the income taxed in full in Nigeria"
+    ],
+    "answer": 2,
+    "explanation": "The unilateral relief provision allows the tax paid outside Nigeria as a credit against Nigerian tax payable.",
+    "source": "NTA 2025 s.120 [secondary source]",
+    "difficulty": "medium"
+  }
+]

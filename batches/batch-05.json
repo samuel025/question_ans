@@ -1,0 +1,752 @@
+[
+  {
+    "id": 501,
+    "topic": "NRS and Joint Revenue Board Acts 2025",
+    "question": "What is the objective of the Nigeria Revenue Service (Establishment) Act 2025 under section 1?",
+    "options": [
+      "To harmonise and coordinate revenue administration across all tiers of government",
+      "To establish a tribunal for the settlement of tax disputes",
+      "To provide a legal, institutional and regulatory framework for the administration of taxes and revenues accruable to the Government of the Federation",
+      "To provide for the taxation of income, transactions and instruments"
+    ],
+    "answer": 2,
+    "explanation": "Section 1 states the objective as a legal, institutional and regulatory framework for administering federal taxes and revenues. Harmonisation and dispute resolution belong to the Joint Revenue Board Act.",
+    "source": "NRS Act 2025 s.1",
+    "difficulty": "easy"
+  },
+  {
+    "id": 502,
+    "topic": "NRS and Joint Revenue Board Acts 2025",
+    "question": "Which enactment is repealed by section 40 of the Nigeria Revenue Service (Establishment) Act 2025?",
+    "options": [
+      "Federal Inland Revenue Service (Establishment) Act, No. 13, 2007",
+      "Joint Tax Board (Establishment) Act, 2007",
+      "FCT Internal Revenue Service Act, 2015",
+      "Taxes and Levies (Approved List for Collection) Act"
+    ],
+    "answer": 0,
+    "explanation": "Section 40(1) repeals the FIRS (Establishment) Act No. 13, 2007. Section 41 vests the former Service's powers, staff, assets and liabilities in the NRS.",
+    "source": "NRS Act 2025 s.40-41",
+    "difficulty": "easy"
+  },
+  {
+    "id": 503,
+    "topic": "NRS and Joint Revenue Board Acts 2025",
+    "question": "Under section 4(1)(a), the Service assesses persons chargeable with tax, including companies and individuals, other than:",
+    "options": [
+      "Non-resident companies",
+      "Individuals resident in any State of the Federation or the Federal Capital Territory",
+      "Companies carrying on specialised trade or business",
+      "Members of the Nigerian Army, Navy and Air Force"
+    ],
+    "answer": 1,
+    "explanation": "Section 4(1)(a) leaves resident individuals in a State or the FCT to the State or FCT tax authority.",
+    "source": "NRS Act 2025 s.4(1)(a)",
+    "difficulty": "medium"
+  },
+  {
+    "id": 504,
+    "topic": "NRS and Joint Revenue Board Acts 2025",
+    "question": "Under section 4(1)(d), the Service may review tax regimes in collaboration with relevant ministries and agencies, subject to the approval of:",
+    "options": [
+      "The President",
+      "The Joint Revenue Board",
+      "The Federal Executive Council",
+      "The National Assembly"
+    ],
+    "answer": 3,
+    "explanation": "Section 4(1)(d) makes the review of tax regimes subject to National Assembly approval.",
+    "source": "NRS Act 2025 s.4(1)(d)",
+    "difficulty": "medium"
+  },
+  {
+    "id": 505,
+    "topic": "NRS and Joint Revenue Board Acts 2025",
+    "question": "Which power is expressly given to the Service by section 4(1)(g)?",
+    "options": [
+      "To appoint Tax Appeal Commissioners",
+      "To identify, trace, freeze, confiscate or seize proceeds derived from tax fraud or evasion",
+      "To approve the tax rates of State governments",
+      "To pardon persons convicted of tax offences"
+    ],
+    "answer": 1,
+    "explanation": "Section 4(1)(g) empowers the Service to adopt measures to identify, trace, freeze, confiscate or seize proceeds of tax fraud or evasion.",
+    "source": "NRS Act 2025 s.4(1)(g)",
+    "difficulty": "medium"
+  },
+  {
+    "id": 506,
+    "topic": "NRS and Joint Revenue Board Acts 2025",
+    "question": "Under section 4(1)(q), the Service issues taxpayer identification to every relevant taxable person in collaboration with:",
+    "options": [
+      "The Corporate Affairs Commission only",
+      "The Central Bank of Nigeria only",
+      "The National Population Commission",
+      "Tax authorities of States or Local Governments, or the Joint Revenue Board"
+    ],
+    "answer": 3,
+    "explanation": "Section 4(1)(q) provides for collaboration with State and local tax authorities or the Joint Revenue Board.",
+    "source": "NRS Act 2025 s.4(1)(q)",
+    "difficulty": "medium"
+  },
+  {
+    "id": 507,
+    "topic": "NRS and Joint Revenue Board Acts 2025",
+    "question": "Under section 4(2), the Service makes rules and issues regulations for giving effect to the Act:",
+    "options": [
+      "With the approval of the National Assembly",
+      "With the approval of the President",
+      "With the approval of the Minister",
+      "With the approval of the National Economic Council"
+    ],
+    "answer": 2,
+    "explanation": "Section 4(2) requires the Minister's approval for the Service's rules and regulations.",
+    "source": "NRS Act 2025 s.4(2)",
+    "difficulty": "medium"
+  },
+  {
+    "id": 508,
+    "topic": "NRS and Joint Revenue Board Acts 2025",
+    "question": "Under section 5, the Service may, on request, assist a State or Local Government to collect or administer a tax, but only where:",
+    "options": [
+      "The tax is a federal tax",
+      "The requesting government has the statutory right to collect or administer that tax",
+      "The Joint Revenue Board has approved the request",
+      "The amount involved exceeds ₦100,000,000"
+    ],
+    "answer": 1,
+    "explanation": "Section 5(2) limits assistance to taxes the requesting government has the statutory right to collect or administer.",
+    "source": "NRS Act 2025 s.5(1)-(2)",
+    "difficulty": "medium"
+  },
+  {
+    "id": 509,
+    "topic": "NRS and Joint Revenue Board Acts 2025",
+    "question": "Revenue collected by the Service on behalf of a State or Local Government under section 5 must be:",
+    "options": [
+      "Paid into the Federation Account for later sharing",
+      "Retained by the Service for six months before remittance",
+      "Paid to the Joint Revenue Board for distribution",
+      "Remitted directly to that State or Local Government, or the relevant tax authority, as agreed by the parties"
+    ],
+    "answer": 3,
+    "explanation": "Section 5(3) requires direct remittance as agreed. Section 5(9) lets the Service charge an agreed fee for the assistance.",
+    "source": "NRS Act 2025 s.5(3), (9)",
+    "difficulty": "medium"
+  },
+  {
+    "id": 510,
+    "topic": "NRS and Joint Revenue Board Acts 2025",
+    "question": "Under section 16, the Executive Chairman of the Service is appointed by:",
+    "options": [
+      "The President, subject to confirmation by the Senate",
+      "The Board, subject to confirmation by the Minister",
+      "The Minister of Finance, subject to confirmation by the Federal Executive Council",
+      "The Joint Revenue Board, subject to confirmation by the National Assembly"
+    ],
+    "answer": 0,
+    "explanation": "Section 16(a) (and section 7(1)(a)) requires presidential appointment subject to Senate confirmation.",
+    "source": "NRS Act 2025 s.16(a); s.7(1)(a)",
+    "difficulty": "easy"
+  },
+  {
+    "id": 511,
+    "topic": "NRS and Joint Revenue Board Acts 2025",
+    "question": "Which of the following is an ex-officio member of the Nigeria Revenue Service Board under section 7(1)(b)?",
+    "options": [
+      "The Chairman of the Securities and Exchange Commission",
+      "The Auditor-General of the Federation",
+      "A Governor from each geopolitical zone",
+      "The Comptroller-General of the Nigeria Customs Service or a representative not below the rank of Deputy Comptroller-General"
+    ],
+    "answer": 3,
+    "explanation": "Section 7(1)(b) lists finance, planning, justice and petroleum ministry representatives, the CBN, RMAFC, Customs and CAC.",
+    "source": "NRS Act 2025 s.7(1)(b)(vii)",
+    "difficulty": "hard"
+  },
+  {
+    "id": 512,
+    "topic": "NRS and Joint Revenue Board Acts 2025",
+    "question": "Which members of the Nigeria Revenue Service Board serve on a full-time basis under section 7(2)?",
+    "options": [
+      "The Executive Chairman and the Executive Directors",
+      "All ex-officio members",
+      "The representative of the Minister of Finance only",
+      "Every member of the Board"
+    ],
+    "answer": 0,
+    "explanation": "Section 7(2) makes all members other than the Executive Chairman and the Executive Directors part-time.",
+    "source": "NRS Act 2025 s.7(2)",
+    "difficulty": "medium"
+  },
+  {
+    "id": 513,
+    "topic": "NRS and Joint Revenue Board Acts 2025",
+    "question": "Under section 9(1), the Executive Chairman and non ex-officio Board members hold office for:",
+    "options": [
+      "Three years, renewable for another three years and no more",
+      "Five years, not renewable",
+      "Four years, renewable for another four years and no more",
+      "Four years, renewable without limit"
+    ],
+    "answer": 2,
+    "explanation": "Section 9(1) sets a four-year term, renewable once for four years.",
+    "source": "NRS Act 2025 s.9(1)",
+    "difficulty": "medium"
+  },
+  {
+    "id": 514,
+    "topic": "NRS and Joint Revenue Board Acts 2025",
+    "question": "Under section 13(2), the Secretary to the Board must be:",
+    "options": [
+      "A serving Permanent Secretary",
+      "A lawyer, chartered accountant or chartered secretary, not below the rank of Assistant Director",
+      "A person appointed by the President",
+      "A member of the Board nominated by the Minister"
+    ],
+    "answer": 1,
+    "explanation": "Section 13 requires the Board to appoint the Secretary from within the Service, with the stated professional qualification and rank.",
+    "source": "NRS Act 2025 s.13(1)-(2)",
+    "difficulty": "hard"
+  },
+  {
+    "id": 515,
+    "topic": "NRS and Joint Revenue Board Acts 2025",
+    "question": "How many members of the Board sit on the Technical Committee of the Board under section 14(1)?",
+    "options": [
+      "Three",
+      "Four",
+      "Five",
+      "Two"
+    ],
+    "answer": 3,
+    "explanation": "The Technical Committee comprises the Executive Chairman (chair), two Board members, the Executive Directors, the Director Legal and the Director in charge of Tax Policy.",
+    "source": "NRS Act 2025 s.14(1)",
+    "difficulty": "hard"
+  },
+  {
+    "id": 516,
+    "topic": "NRS and Joint Revenue Board Acts 2025",
+    "question": "How many Executive Directors does the President appoint for the Service under section 17(1)?",
+    "options": [
+      "Four, each representing a region",
+      "Six, each representing a geopolitical zone",
+      "Seven, each representing a geopolitical zone",
+      "Three, each representing a federal tier"
+    ],
+    "answer": 1,
+    "explanation": "Section 17(1) provides six Executive Directors, one per geopolitical zone, and the Executive Chairman and an Executive Director shall not come from the same state.",
+    "source": "NRS Act 2025 s.17(1)",
+    "difficulty": "medium"
+  },
+  {
+    "id": 517,
+    "topic": "NRS and Joint Revenue Board Acts 2025",
+    "question": "Under section 19(4), professional consultants or agents engaged by the Service may NOT:",
+    "options": [
+      "Carry out assessment or collection of tax, compliance or enforcement activities, or routine responsibilities of tax officials",
+      "Advise on information technology",
+      "Conduct research for the Service",
+      "Provide training for staff"
+    ],
+    "answer": 0,
+    "explanation": "Section 19(4) allows consultants but bars them from core tax functions.",
+    "source": "NRS Act 2025 s.19(4)",
+    "difficulty": "hard"
+  },
+  {
+    "id": 518,
+    "topic": "NRS and Joint Revenue Board Acts 2025",
+    "question": "What percentage of total revenue (less petroleum royalty) collected by the Service is credited to its fund under section 22(a)?",
+    "options": [
+      "2%",
+      "5%",
+      "10%",
+      "4%"
+    ],
+    "answer": 3,
+    "explanation": "Section 22(a) credits 4% of total revenue, less petroleum royalty, appropriated by the National Assembly for capital and recurrent expenditure.",
+    "source": "NRS Act 2025 s.22(a)",
+    "difficulty": "medium"
+  },
+  {
+    "id": 519,
+    "topic": "NRS and Joint Revenue Board Acts 2025",
+    "question": "By what date each year must the Service submit its annual report to the Minister under section 26(1)?",
+    "options": [
+      "31 March",
+      "30 September",
+      "30 June",
+      "31 December"
+    ],
+    "answer": 2,
+    "explanation": "Section 26(1) sets 30 June. The Minister presents the report to the Federal Executive Council and the National Assembly within 30 days (section 26(2)). The estimate of income and expenditure is due by 30 September (section 24).",
+    "source": "NRS Act 2025 s.24; s.26",
+    "difficulty": "medium"
+  },
+  {
+    "id": 520,
+    "topic": "NRS and Joint Revenue Board Acts 2025",
+    "question": "Under section 25(1), the accounts of the Service must be audited not later than:",
+    "options": [
+      "Three months after the end of each year",
+      "Six months after the end of each year",
+      "Nine months after the end of each year",
+      "Twelve months after the end of each year"
+    ],
+    "answer": 1,
+    "explanation": "Section 25(1) requires audit within six months of the year end, by auditors appointed from the Auditor-General's list.",
+    "source": "NRS Act 2025 s.25(1)",
+    "difficulty": "medium"
+  },
+  {
+    "id": 521,
+    "topic": "NRS and Joint Revenue Board Acts 2025",
+    "question": "Before the Service borrows under section 28, it must obtain the approval of:",
+    "options": [
+      "The Minister of Finance only",
+      "The National Economic Council",
+      "The Federal Executive Council and the National Assembly",
+      "The Joint Revenue Board"
+    ],
+    "answer": 2,
+    "explanation": "The proviso to section 28 requires prior approval of the Federal Executive Council and the National Assembly. By contrast, the Joint Revenue Board needs National Economic Council approval to borrow.",
+    "source": "NRS Act 2025 s.28",
+    "difficulty": "hard"
+  },
+  {
+    "id": 522,
+    "topic": "NRS and Joint Revenue Board Acts 2025",
+    "question": "Under section 29, the Service is exempt from all income taxes, but the exemption does not relieve it from:",
+    "options": [
+      "The obligation to register for tax",
+      "The obligation to file annual returns",
+      "The obligation to pay the development levy",
+      "The statutory obligation to deduct and remit taxes as required by the relevant tax laws"
+    ],
+    "answer": 3,
+    "explanation": "Section 29 preserves the Service's duty to deduct and remit taxes.",
+    "source": "NRS Act 2025 s.29",
+    "difficulty": "medium"
+  },
+  {
+    "id": 523,
+    "topic": "NRS and Joint Revenue Board Acts 2025",
+    "question": "Under section 31(2), the Minister may NOT give a direction in respect of a particular person that would:",
+    "options": [
+      "Require the Service to publish its annual report",
+      "Require the Service to consult the Executive Chairman",
+      "Require the Service to increase or decrease an assessment or relief, or defer collection of tax",
+      "Require the Service to remit revenue to the Federation Account"
+    ],
+    "answer": 2,
+    "explanation": "Section 31(2) protects individual assessments from ministerial direction. The Minister may give written directions only on general policy matters (section 31(1)).",
+    "source": "NRS Act 2025 s.31(1)-(2)",
+    "difficulty": "hard"
+  },
+  {
+    "id": 524,
+    "topic": "NRS and Joint Revenue Board Acts 2025",
+    "question": "What is the penalty on conviction under section 33(2) for an official who communicates confidential taxpayer information without authority?",
+    "options": [
+      "A fine not exceeding ₦5,000,000, imprisonment not exceeding three years, or both",
+      "A fine not exceeding ₦1,000,000, imprisonment not exceeding one year, or both",
+      "A fine not exceeding ₦500,000, imprisonment not exceeding six months, or both",
+      "Imprisonment only, not exceeding five years"
+    ],
+    "answer": 0,
+    "explanation": "Section 33(2) sets a fine up to ₦5,000,000 or up to three years' imprisonment, or both. Section 32(2) carries the same penalty for disclosing institutional information.",
+    "source": "NRS Act 2025 s.32(2); s.33(2)",
+    "difficulty": "hard"
+  },
+  {
+    "id": 525,
+    "topic": "NRS and Joint Revenue Board Acts 2025",
+    "question": "Under section 35(2)(a), a suit against the Service for an act done under the Act must be commenced within:",
+    "options": [
+      "One month",
+      "Six months",
+      "Twelve months",
+      "Three months after the act, neglect or default complained of"
+    ],
+    "answer": 3,
+    "explanation": "Section 35(2)(a) sets three months. Under section 35(3), a one-month written notice of intention to sue must first be served.",
+    "source": "NRS Act 2025 s.35(2)-(3)",
+    "difficulty": "hard"
+  },
+  {
+    "id": 526,
+    "topic": "NRS and Joint Revenue Board Acts 2025",
+    "question": "Which of the following is an objective of the Joint Revenue Board of Nigeria (Establishment) Act 2025 under section 1?",
+    "options": [
+      "To promote the rights of taxpayers",
+      "To assess and collect federal taxes",
+      "To issue tax clearance certificates",
+      "To administer stamp duties"
+    ],
+    "answer": 0,
+    "explanation": "Section 1 lists harmonisation and coordination of revenue administration, efficient dispute resolution and promotion of taxpayer rights.",
+    "source": "JRB Act 2025 s.1",
+    "difficulty": "easy"
+  },
+  {
+    "id": 527,
+    "topic": "NRS and Joint Revenue Board Acts 2025",
+    "question": "Where is the head office of the Joint Revenue Board located under section 3(3)?",
+    "options": [
+      "Lagos State",
+      "Rivers State",
+      "Kaduna State",
+      "The Federal Capital Territory"
+    ],
+    "answer": 3,
+    "explanation": "Section 3(3) places the Board's head office in the FCT. The Office of the Tax Ombud also has its head office in the FCT (section 36(3)).",
+    "source": "JRB Act 2025 s.3(3)",
+    "difficulty": "easy"
+  },
+  {
+    "id": 528,
+    "topic": "NRS and Joint Revenue Board Acts 2025",
+    "question": "Under section 4(1), the Joint Revenue Board consists of a Chairman and:",
+    "options": [
+      "The Governor of each State and the Minister of the FCT",
+      "The Chairman of each State Internal Revenue Service and the FCT Internal Revenue Service",
+      "The Commissioner for Finance of each State",
+      "The Executive Director of each geopolitical zone of the NRS"
+    ],
+    "answer": 1,
+    "explanation": "The Chairman is the Executive Chairman of the NRS, and the other members are the chairmen of the State and FCT Internal Revenue Services, plus ex-officio members.",
+    "source": "JRB Act 2025 s.4(1)",
+    "difficulty": "medium"
+  },
+  {
+    "id": 529,
+    "topic": "NRS and Joint Revenue Board Acts 2025",
+    "question": "Which of the following is an ex-officio member of the Joint Revenue Board under section 4(2)?",
+    "options": [
+      "The Governor of the Central Bank of Nigeria",
+      "The Registrar-General of the Corporate Affairs Commission",
+      "The Accountant-General of the Federation",
+      "The Director-General of the National Identity Management Commission or a representative not below the rank of Director"
+    ],
+    "answer": 3,
+    "explanation": "Section 4(2) includes the Finance Minister's representative, the NIMC, RMAFC, Immigration, FRSC, Customs and NRS. The CBN and CAC sit on the NRS Board instead.",
+    "source": "JRB Act 2025 s.4(2)(b)",
+    "difficulty": "hard"
+  },
+  {
+    "id": 530,
+    "topic": "NRS and Joint Revenue Board Acts 2025",
+    "question": "Under section 4(3), the Board may co-opt persons, bodies or agencies on a need basis not exceeding:",
+    "options": [
+      "One",
+      "Three",
+      "Two",
+      "Five"
+    ],
+    "answer": 2,
+    "explanation": "Section 4(3) caps co-opted persons at two.",
+    "source": "JRB Act 2025 s.4(3)",
+    "difficulty": "medium"
+  },
+  {
+    "id": 531,
+    "topic": "NRS and Joint Revenue Board Acts 2025",
+    "question": "Which function is given to the Joint Revenue Board by section 5(a)?",
+    "options": [
+      "To issue tax clearance certificates to taxpayers",
+      "To integrate and maintain a database of Taxpayer Identification Numbers for every taxable person in Nigeria",
+      "To assess non-resident companies",
+      "To collect value added tax on behalf of States"
+    ],
+    "answer": 1,
+    "explanation": "Section 5(a) tasks the Board with the TIN database, in collaboration with the NRS, State services and local government revenue committees.",
+    "source": "JRB Act 2025 s.5(a)",
+    "difficulty": "medium"
+  },
+  {
+    "id": 532,
+    "topic": "NRS and Joint Revenue Board Acts 2025",
+    "question": "Under section 5(b), the Board is responsible for resolving disputes between tax authorities on:",
+    "options": [
+      "The determination of residency",
+      "The rate of value added tax",
+      "The appointment of State Executive Chairmen",
+      "The design of stamp duty instruments"
+    ],
+    "answer": 0,
+    "explanation": "Section 5(b) covers residency disputes between tax authorities; section 5(d) covers disputes between tax authorities generally.",
+    "source": "JRB Act 2025 s.5(b), (d)",
+    "difficulty": "medium"
+  },
+  {
+    "id": 533,
+    "topic": "NRS and Joint Revenue Board Acts 2025",
+    "question": "Under section 5(l), the Board must receive, collate, analyse and publish periodically:",
+    "options": [
+      "The names of all taxpayers who default",
+      "Salaries of tax officials",
+      "Court judgments on tax appeals",
+      "Tax expenditure on account of waivers, exemptions or incentives granted by each government"
+    ],
+    "answer": 3,
+    "explanation": "Section 5(l) requires publication of tax expenditure. Section 5(k) requires publication of tax revenue collected by all tax authorities.",
+    "source": "JRB Act 2025 s.5(k)-(l)",
+    "difficulty": "hard"
+  },
+  {
+    "id": 534,
+    "topic": "NRS and Joint Revenue Board Acts 2025",
+    "question": "Under section 10(2), the Executive Secretary of the Joint Revenue Board must have at least how many years of relevant experience in tax administration or professional tax practice?",
+    "options": [
+      "10 years",
+      "5 years",
+      "7 years",
+      "15 years"
+    ],
+    "answer": 0,
+    "explanation": "Section 10(2)(b) requires at least 10 years' experience, and section 10(3) sets a four-year term renewable once.",
+    "source": "JRB Act 2025 s.10(2)-(3)",
+    "difficulty": "medium"
+  },
+  {
+    "id": 535,
+    "topic": "NRS and Joint Revenue Board Acts 2025",
+    "question": "By what date each year must the Executive Secretary submit the Board's annual report to the Board under section 18?",
+    "options": [
+      "30 June",
+      "30 September",
+      "31 March",
+      "31 December"
+    ],
+    "answer": 1,
+    "explanation": "Section 18 sets 30 September for the Board's annual report. The NRS, by contrast, reports to the Minister by 30 June.",
+    "source": "JRB Act 2025 s.18",
+    "difficulty": "hard"
+  },
+  {
+    "id": 536,
+    "topic": "NRS and Joint Revenue Board Acts 2025",
+    "question": "Under section 20, the Joint Revenue Board may borrow with the approval of:",
+    "options": [
+      "The National Economic Council",
+      "The Federal Executive Council and the National Assembly",
+      "The Minister of Finance",
+      "The President"
+    ],
+    "answer": 0,
+    "explanation": "Section 20 requires National Economic Council approval.",
+    "source": "JRB Act 2025 s.20",
+    "difficulty": "hard"
+  },
+  {
+    "id": 537,
+    "topic": "NRS and Joint Revenue Board Acts 2025",
+    "question": "What is the quorum at any sitting of the Tax Appeal Tribunal under section 24(4)?",
+    "options": [
+      "Two members",
+      "Four members",
+      "All five members",
+      "Three members"
+    ],
+    "answer": 3,
+    "explanation": "The Tribunal consists of five Tax Appeal Commissioners appointed by the Minister, and the quorum is three.",
+    "source": "JRB Act 2025 s.24(1), (4)",
+    "difficulty": "medium"
+  },
+  {
+    "id": 538,
+    "topic": "NRS and Joint Revenue Board Acts 2025",
+    "question": "A Tax Appeal Commissioner holds office under section 26 for:",
+    "options": [
+      "A term of four years, renewable for a further four years",
+      "A term of five years, not renewable",
+      "A term of three years, renewable for a further three years and no more",
+      "A term of three years, renewable without limit"
+    ],
+    "answer": 2,
+    "explanation": "Section 26 sets three years, renewable once. This differs from the four-year terms of NRS and JRB officers.",
+    "source": "JRB Act 2025 s.26",
+    "difficulty": "medium"
+  },
+  {
+    "id": 539,
+    "topic": "NRS and Joint Revenue Board Acts 2025",
+    "question": "Under section 27(a), a person ceases to be a Tax Appeal Commissioner on attaining the age of:",
+    "options": [
+      "70 years",
+      "60 years",
+      "65 years",
+      "75 years"
+    ],
+    "answer": 0,
+    "explanation": "Section 27(a) fixes 70 years. A zone Secretary, by contrast, serves until 60 (section 32(3)).",
+    "source": "JRB Act 2025 s.27(a); s.32(3)",
+    "difficulty": "hard"
+  },
+  {
+    "id": 540,
+    "topic": "NRS and Joint Revenue Board Acts 2025",
+    "question": "Section 29 gives the Tax Appeal Tribunal power to adjudicate on tax disputes arising from:",
+    "options": [
+      "Federal taxes only",
+      "The Nigeria Tax Act, the Nigeria Tax Administration Act, and any other tax law made by the National Assembly or a State House of Assembly",
+      "Disputes between the Service and the Joint Revenue Board only",
+      "Customs and excise matters only"
+    ],
+    "answer": 1,
+    "explanation": "Section 29(1) covers the NTA, the NTAA and any other tax law of the National Assembly or a State House of Assembly.",
+    "source": "JRB Act 2025 s.29(1)",
+    "difficulty": "medium"
+  },
+  {
+    "id": 541,
+    "topic": "NRS and Joint Revenue Board Acts 2025",
+    "question": "Who determines the salaries and allowances of Tax Appeal Commissioners under section 31?",
+    "options": [
+      "The Revenue Mobilisation Allocation and Fiscal Commission",
+      "The National Salaries, Incomes and Wages Commission",
+      "The Minister of Finance",
+      "The Joint Revenue Board"
+    ],
+    "answer": 0,
+    "explanation": "Section 31 assigns this to RMAFC, and the terms cannot be varied to the Commissioner's disadvantage after appointment.",
+    "source": "JRB Act 2025 s.31",
+    "difficulty": "hard"
+  },
+  {
+    "id": 542,
+    "topic": "NRS and Joint Revenue Board Acts 2025",
+    "question": "An appeal to the Tax Appeal Tribunal against an assessment or decision must be filed within what period under paragraph 2(2) of the Second Schedule?",
+    "options": [
+      "7 days",
+      "60 days",
+      "30 days from the date of the assessment, demand notice, action or decision",
+      "90 days"
+    ],
+    "answer": 2,
+    "explanation": "Paragraph 2(2) sets 30 days, but paragraph 2(3) lets the Tribunal hear a late appeal on sufficient cause. If no appeal is filed, the assessment becomes final and conclusive.",
+    "source": "JRB Act 2025 Second Schedule para 2(2)-(4)",
+    "difficulty": "medium"
+  },
+  {
+    "id": 543,
+    "topic": "NRS and Joint Revenue Board Acts 2025",
+    "question": "At the hearing of an appeal before the Tax Appeal Tribunal, the onus of proving that the assessment is excessive lies on:",
+    "options": [
+      "The appellant",
+      "The relevant tax authority",
+      "The Tribunal Secretary",
+      "Both parties equally"
+    ],
+    "answer": 0,
+    "explanation": "Paragraph 7(5) of the Second Schedule places the onus on the appellant.",
+    "source": "JRB Act 2025 Second Schedule para 7(5)",
+    "difficulty": "easy"
+  },
+  {
+    "id": 544,
+    "topic": "NRS and Joint Revenue Board Acts 2025",
+    "question": "Where the Tribunal adjourns an appeal and orders a deposit on account of tax under paragraph 7(6) of the Second Schedule, the deposit is equal to:",
+    "options": [
+      "The whole of the tax charged by the assessment under appeal",
+      "20% of the tax charged by the assessment under appeal",
+      "The lesser of the tax charged for the preceding year and one half of the tax charged by the assessment under appeal",
+      "The greater of the tax charged for the preceding year and one half of the assessment"
+    ],
+    "answer": 2,
+    "explanation": "Paragraph 7(6) uses the lesser of the two amounts. Failure to comply confirms the assessment and ends the right of appeal at the Tribunal on that assessment.",
+    "source": "JRB Act 2025 Second Schedule para 7(6)-(7)",
+    "difficulty": "hard"
+  },
+  {
+    "id": 545,
+    "topic": "NRS and Joint Revenue Board Acts 2025",
+    "question": "A person dissatisfied with a decision of the Tax Appeal Tribunal may appeal on a point of law to the Federal High Court by giving written notice within:",
+    "options": [
+      "7 days after the date of the decision",
+      "30 days after the date of the decision",
+      "14 days after the date of the decision",
+      "90 days after the date of the decision"
+    ],
+    "answer": 1,
+    "explanation": "Paragraph 10(1) of the Second Schedule sets 30 days and limits the appeal to points of law. Paragraph 15 provides a further appeal to the Court of Appeal.",
+    "source": "JRB Act 2025 Second Schedule para 10(1), 15",
+    "difficulty": "hard"
+  },
+  {
+    "id": 546,
+    "topic": "NRS and Joint Revenue Board Acts 2025",
+    "question": "Under section 37, the Tax Ombud is appointed by:",
+    "options": [
+      "The Minister on the recommendation of the Joint Revenue Board",
+      "The National Assembly",
+      "The President on the recommendation of the Minister",
+      "The Executive Chairman of the NRS"
+    ],
+    "answer": 2,
+    "explanation": "Section 37(1) requires presidential appointment on the Minister's recommendation. The Tax Ombud must be a Nigerian citizen with at least 10 years' experience and serves four years, renewable once.",
+    "source": "JRB Act 2025 s.37(1)",
+    "difficulty": "medium"
+  },
+  {
+    "id": 547,
+    "topic": "NRS and Joint Revenue Board Acts 2025",
+    "question": "Under section 43(c), the Office of the Tax Ombud has no jurisdiction to:",
+    "options": [
+      "Determine any tax liability or duty or issue a tax assessment",
+      "Investigate complaints against tax officials",
+      "Mediate between taxpayers and tax authorities",
+      "Make recommendations to revenue authorities"
+    ],
+    "answer": 0,
+    "explanation": "Section 43 also excludes matters sub judice and personal grievances of tax officials. Section 41 gives the Office its mediation, investigation and recommendation powers.",
+    "source": "JRB Act 2025 s.41; s.43(c)",
+    "difficulty": "medium"
+  },
+  {
+    "id": 548,
+    "topic": "NRS and Joint Revenue Board Acts 2025",
+    "question": "Under paragraph 2(2) of the Third Schedule, an investigation by the Office of the Tax Ombud must be conducted within:",
+    "options": [
+      "7 days of receipt of the complaint, with no extension",
+      "30 days of receipt of the complaint, extendable by 14 days",
+      "14 days of receipt of the complaint, extendable by seven days where necessary",
+      "60 days of receipt of the complaint, with no extension"
+    ],
+    "answer": 2,
+    "explanation": "Paragraph 2(2) sets 14 days, extendable by seven. Paragraph 1(4) bars anonymous complaints.",
+    "source": "JRB Act 2025 Third Schedule para 1(4), 2(2)",
+    "difficulty": "hard"
+  },
+  {
+    "id": 549,
+    "topic": "NRS and Joint Revenue Board Acts 2025",
+    "question": "What is the penalty on conviction under section 51(2) of the Joint Revenue Board Act for disclosing the Board's institutional information without authority?",
+    "options": [
+      "A fine not exceeding ₦5,000,000, imprisonment not exceeding three years, or both",
+      "A fine of ₦100,000 only",
+      "Imprisonment not exceeding one year only",
+      "A fine of ₦1,000,000, imprisonment not exceeding three years, or both"
+    ],
+    "answer": 3,
+    "explanation": "Section 51(2) sets ₦1,000,000 or up to three years or both. Section 52(2) sets ₦500,000 for official disclosure. The NRS Act's equivalent penalty is up to ₦5,000,000.",
+    "source": "JRB Act 2025 s.51(2); s.52(2)",
+    "difficulty": "hard"
+  },
+  {
+    "id": 550,
+    "topic": "NRS and Joint Revenue Board Acts 2025",
+    "question": "What is the quorum of a meeting of the Joint Revenue Board under paragraph 4 of the First Schedule?",
+    "options": [
+      "A simple majority of members",
+      "One-third of members, including the Chairman",
+      "Five members including the Chairman",
+      "Two-thirds of members including the Chairman"
+    ],
+    "answer": 1,
+    "explanation": "Paragraph 4 sets the quorum at one-third of members including the Chairman. Paragraph 2 requires at least three ordinary meetings a year.",
+    "source": "JRB Act 2025 First Schedule para 2, 4",
+    "difficulty": "hard"
+  }
+]

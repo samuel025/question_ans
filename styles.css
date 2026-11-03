@@ -1,0 +1,171 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family:
+    system-ui,
+    -apple-system,
+    Segoe UI,
+    Roboto,
+    sans-serif;
+  background: #f3f4f6;
+  color: #111827;
+}
+
+.container {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 24px 16px;
+}
+
+.card {
+  background: #fff;
+  border-radius: 12px;
+  padding: 24px;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.1);
+}
+
+h1,
+h2 {
+  margin-top: 0;
+}
+
+.muted {
+  color: #6b7280;
+  font-size: 14px;
+}
+
+.source {
+  font-size: 12px;
+  margin-top: 2px;
+}
+
+.field {
+  display: block;
+  margin: 14px 0;
+}
+
+.field span {
+  display: block;
+  font-size: 14px;
+  color: #374151;
+  margin-bottom: 4px;
+}
+
+.field select {
+  width: 100%;
+  padding: 10px 12px;
+  border: 2px solid #e5e7eb;
+  border-radius: 8px;
+  background: #fff;
+  font-size: 16px;
+}
+
+.topbar {
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+  margin-bottom: 12px;
+  font-size: 14px;
+  color: #374151;
+}
+
+.progress {
+  height: 6px;
+  background: #e5e7eb;
+  border-radius: 3px;
+  margin-bottom: 20px;
+  overflow: hidden;
+}
+
+.progress-bar {
+  height: 100%;
+  background: #2563eb;
+  transition: width 0.2s;
+}
+
+.option {
+  display: block;
+  width: 100%;
+  text-align: left;
+  padding: 12px 14px;
+  margin-bottom: 10px;
+  border: 2px solid #e5e7eb;
+  border-radius: 8px;
+  background: #fff;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.option:hover:not(:disabled) {
+  border-color: #93c5fd;
+}
+.option.selected {
+  border-color: #2563eb;
+  background: #eff6ff;
+}
+.option.correct {
+  border-color: #16a34a;
+  background: #f0fdf4;
+}
+.option.wrong {
+  border-color: #dc2626;
+  background: #fef2f2;
+}
+.option:disabled {
+  cursor: default;
+}
+
+.btn {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 8px;
+  background: #2563eb;
+  color: #fff;
+  font-size: 16px;
+  cursor: pointer;
+  margin-right: 8px;
+  margin-top: 8px;
+}
+
+.btn:disabled {
+  background: #9ca3af;
+  cursor: not-allowed;
+}
+.btn.secondary {
+  background: #e5e7eb;
+  color: #111827;
+}
+
+.explanation {
+  margin-top: 12px;
+  padding: 12px;
+  background: #f9fafb;
+  border-left: 4px solid #2563eb;
+  border-radius: 4px;
+  font-size: 15px;
+}
+
+.score {
+  font-size: 48px;
+  font-weight: 700;
+  margin: 8px 0;
+}
+
+.history-row {
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 8px 0;
+  border-bottom: 1px solid #e5e7eb;
+  font-size: 14px;
+}
+.timer {
+  font-weight: 700;
+  font-variant-numeric: tabular-nums;
+}
+.timer.low {
+  color: #dc2626;
+}

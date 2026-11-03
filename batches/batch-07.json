@@ -1,0 +1,752 @@
+[
+  {
+    "id": 701,
+    "topic": "Civil Service Rules",
+    "question": "Under rule 020101, appointments to public offices in the Federal Civil Service are made on the authority of which body?",
+    "options": [
+      "The Federal Civil Service Commission",
+      "The Office of the Head of the Civil Service of the Federation",
+      "The Secretary to the Government of the Federation",
+      "The Establishments and Pensions Office"
+    ],
+    "answer": 0,
+    "explanation": "Rule 020101: appointments are made on the authority of the Federal Civil Service Commission, by letter or by formal agreement.",
+    "source": "Public Service Rules (gazetted edition read), rule 020101",
+    "difficulty": "easy"
+  },
+  {
+    "id": 702,
+    "topic": "Civil Service Rules",
+    "question": "Under rule 020102(i), the Federal Civil Service Commission makes appointments to posts graded:",
+    "options": [
+      "GL.07 - 17",
+      "GL.10 - 17",
+      "GL.12 - 17",
+      "GL.15 - 17"
+    ],
+    "answer": 2,
+    "explanation": "The Commission appoints to GL.12-17, as the need arises, into available vacancies after advertisement.",
+    "source": "Public Service Rules (gazetted edition read), rule 020102(i)",
+    "difficulty": "medium"
+  },
+  {
+    "id": 703,
+    "topic": "Civil Service Rules",
+    "question": "The annual competitive Civil Service Entry Examination under rule 020102(iv) is for posts graded:",
+    "options": [
+      "GL.06 and below",
+      "GL.07 - 10",
+      "GL.12 - 14",
+      "GL.15 - 17"
+    ],
+    "answer": 1,
+    "explanation": "The entry examination covers GL.07-10, for new entrants and serving officers wishing to transfer from other scheduled services.",
+    "source": "Public Service Rules (gazetted edition read), rule 020102(iv)",
+    "difficulty": "easy"
+  },
+  {
+    "id": 704,
+    "topic": "Civil Service Rules",
+    "question": "Under rule 020103, appointment of junior staff on GL.06 and below is handled by:",
+    "options": [
+      "The Federal Civil Service Commission directly",
+      "The Office of the Head of the Civil Service of the Federation alone",
+      "The Junior Staff Committee of each Ministry/Extra-Ministerial Office, subject to the Permanent Secretary's approval",
+      "The Federal Character Commission"
+    ],
+    "answer": 2,
+    "explanation": "Each Ministry/Extra-Ministerial Office appoints junior staff through its Junior Staff Committee, with a representative of the Commission and the Head of Service present, subject to approval of the Permanent Secretary/Head of Extra-Ministerial Office.",
+    "source": "Public Service Rules (gazetted edition read), rule 020103(a)",
+    "difficulty": "medium"
+  },
+  {
+    "id": 705,
+    "topic": "Civil Service Rules",
+    "question": "Under rule 020105, how long must an officer appointed or promoted have spent on the grade, with good performance, before enjoying the increment?",
+    "options": [
+      "At least three months",
+      "At least one year",
+      "At least nine months",
+      "At least six months"
+    ],
+    "answer": 3,
+    "explanation": "The incremental date is 1 January of every year, provided the officer has spent at least six months on the grade with good performance.",
+    "source": "Public Service Rules (gazetted edition read), rule 020105",
+    "difficulty": "medium"
+  },
+  {
+    "id": 706,
+    "topic": "Civil Service Rules",
+    "question": "Rule 020107 provides that the employment of unpaid staff is:",
+    "options": [
+      "Permitted for a maximum of six months",
+      "Prohibited",
+      "Permitted for trainees only",
+      "Permitted with the Commission's approval"
+    ],
+    "answer": 1,
+    "explanation": "Rule 020107: the employment of unpaid staff is prohibited.",
+    "source": "Public Service Rules (gazetted edition read), rule 020107",
+    "difficulty": "easy"
+  },
+  {
+    "id": 707,
+    "topic": "Civil Service Rules",
+    "question": "Under rule 020108(ii), alteration of the date of birth recorded on appointment is regarded as:",
+    "options": [
+      "An act of serious misconduct",
+      "Ordinary misconduct",
+      "General inefficiency",
+      "A permissible correction within the probationary period"
+    ],
+    "answer": 0,
+    "explanation": "The date of birth recorded on appointment shall not be changed throughout the officer's career; contravention is serious misconduct.",
+    "source": "Public Service Rules (gazetted edition read), rule 020108(ii)",
+    "difficulty": "medium"
+  },
+  {
+    "id": 708,
+    "topic": "Civil Service Rules",
+    "question": "Under rule 020205, an applicant for appointment into the Federal Public Service must be:",
+    "options": [
+      "Not less than 16 and not more than 45 years of age",
+      "Not less than 21 and not more than 55 years of age",
+      "Not less than 18 and not more than 50 years of age",
+      "Not less than 18 and not more than 60 years of age"
+    ],
+    "answer": 2,
+    "explanation": "Rule 020205(a) sets the age band at 18 to 50 years.",
+    "source": "Public Service Rules (gazetted edition read), rule 020205(a)",
+    "difficulty": "easy"
+  },
+  {
+    "id": 709,
+    "topic": "Civil Service Rules",
+    "question": "Under rule 020206, which candidate may not be appointed without the Federal Civil Service Commission's prior specific approval?",
+    "options": [
+      "One who holds a Higher National Diploma",
+      "One previously employed in government service and dismissed from it",
+      "One aged 45 years",
+      "One whose testimonial is from his last school"
+    ],
+    "answer": 1,
+    "explanation": "Prior approval is required if the candidate has been convicted of a criminal offence, or was previously dismissed or called upon to resign or retire from government service, irrespective of any delegation.",
+    "source": "Public Service Rules (gazetted edition read), rule 020206",
+    "difficulty": "medium"
+  },
+  {
+    "id": 710,
+    "topic": "Civil Service Rules",
+    "question": "Under rule 020211, contravention of the prohibition on membership of a secret society is regarded as:",
+    "options": [
+      "Serious misconduct which may attract dismissal",
+      "Ordinary misconduct attracting a query only",
+      "General inefficiency",
+      "A matter for the Code of Conduct Bureau only"
+    ],
+    "answer": 0,
+    "explanation": "Rule 020210 bars membership; rule 020211 treats contravention as serious misconduct that may include dismissal.",
+    "source": "Public Service Rules (gazetted edition read), rule 020210-020211",
+    "difficulty": "easy"
+  },
+  {
+    "id": 711,
+    "topic": "Civil Service Rules",
+    "question": "Under rule 020301, officers on probation are required to serve for:",
+    "options": [
+      "One year",
+      "Three years",
+      "Two years",
+      "Eighteen months"
+    ],
+    "answer": 2,
+    "explanation": "Probation is two years before confirmation.",
+    "source": "Public Service Rules (gazetted edition read), rule 020301",
+    "difficulty": "easy"
+  },
+  {
+    "id": 712,
+    "topic": "Civil Service Rules",
+    "question": "Under rule 020301, the two-year probation may be reduced, by deducting previous satisfactory public service in posts of cognate status, to not less than:",
+    "options": [
+      "Three months",
+      "One year",
+      "Nine months",
+      "Six months"
+    ],
+    "answer": 3,
+    "explanation": "The reduction is allowed down to a floor of six months.",
+    "source": "Public Service Rules (gazetted edition read), rule 020301",
+    "difficulty": "medium"
+  },
+  {
+    "id": 713,
+    "topic": "Civil Service Rules",
+    "question": "Under rule 020301, probation shall not exceed two years unless an extension is approved by:",
+    "options": [
+      "The Head of the Civil Service of the Federation",
+      "The Permanent Secretary of the Ministry",
+      "The Federal Civil Service Commission",
+      "The Establishments and Pensions Office"
+    ],
+    "answer": 2,
+    "explanation": "Any extension beyond two years needs the Commission's approval and may carry the incremental penalty in rule 040206.",
+    "source": "Public Service Rules (gazetted edition read), rule 020301",
+    "difficulty": "hard"
+  },
+  {
+    "id": 714,
+    "topic": "Civil Service Rules",
+    "question": "Under rule 020203(a), the normal period of service as a trainee or pupil is:",
+    "options": [
+      "One year",
+      "Two years",
+      "Three years",
+      "Six months"
+    ],
+    "answer": 1,
+    "explanation": "A trainee/pupil serves a normal two years in the post, which may be reduced in special circumstances.",
+    "source": "Public Service Rules (gazetted edition read), rule 020203(a)",
+    "difficulty": "medium"
+  },
+  {
+    "id": 715,
+    "topic": "Civil Service Rules",
+    "question": "Under rule 020401, a contract appointment is best described as:",
+    "options": [
+      "A pensionable appointment for a specified period",
+      "A permanent appointment on probation",
+      "An appointment of trainees for two years",
+      "A temporary appointment for a specific period that does not provide for payment of a pension"
+    ],
+    "answer": 3,
+    "explanation": "A contract appointment is a temporary, non-pensionable appointment for a specific period, recorded in a formal agreement.",
+    "source": "Public Service Rules (gazetted edition read), rule 020401",
+    "difficulty": "medium"
+  },
+  {
+    "id": 716,
+    "topic": "Civil Service Rules",
+    "question": "Under rule 020405, an officer on contract who desires re-engagement must inform government in writing not less than how long before his leave is due?",
+    "options": [
+      "Four months",
+      "Two months",
+      "Three months",
+      "Six months"
+    ],
+    "answer": 0,
+    "explanation": "The notice is through the Permanent Secretary/Head of Extra-Ministerial Office, not less than four months before leave is due.",
+    "source": "Public Service Rules (gazetted edition read), rule 020405",
+    "difficulty": "hard"
+  },
+  {
+    "id": 717,
+    "topic": "Civil Service Rules",
+    "question": "Under rule 020411, retired officers may only be re-engaged into career posts on grade levels:",
+    "options": [
+      "At the same level on which they retired",
+      "One level above that on which they retired",
+      "Any level approved by the Permanent Secretary",
+      "Immediately below that on which they retired"
+    ],
+    "answer": 3,
+    "explanation": "Re-engagement is restricted to the grade level immediately below the retirement level.",
+    "source": "Public Service Rules (gazetted edition read), rule 020411",
+    "difficulty": "hard"
+  },
+  {
+    "id": 718,
+    "topic": "Civil Service Rules",
+    "question": "Under rule 020501(b), secondment means:",
+    "options": [
+      "The permanent release of an officer from one scheduled service to another",
+      "The posting of an officer outside his professional cadre",
+      "The temporary release of an officer to the service of another Government, approved body or recognised international organisation for a specified period",
+      "The grant of study leave to a confirmed officer"
+    ],
+    "answer": 2,
+    "explanation": "Secondment is a temporary release; transfer (rule 020501(a)) is the permanent release from one scheduled service to another.",
+    "source": "Public Service Rules (gazetted edition read), rule 020501",
+    "difficulty": "medium"
+  },
+  {
+    "id": 719,
+    "topic": "Civil Service Rules",
+    "question": "Under rule 020502(iv), the total period of secondment at an officer's own request must not exceed:",
+    "options": [
+      "Two years",
+      "Three years",
+      "Five years",
+      "Four years"
+    ],
+    "answer": 3,
+    "explanation": "Secondment is two years in the first instance, with extensions approved by the committees and the Commission, and the total must not exceed four years.",
+    "source": "Public Service Rules (gazetted edition read), rule 020502(iv)",
+    "difficulty": "hard"
+  },
+  {
+    "id": 720,
+    "topic": "Civil Service Rules",
+    "question": "Under rule 020503(a), for a transfer from one senior post to another, an officer must first have served a minimum of how long in his original department?",
+    "options": [
+      "One year",
+      "Two years",
+      "Six months",
+      "Three months"
+    ],
+    "answer": 2,
+    "explanation": "Senior-post transfers need the Commission's prior approval and at least six months' service in the original department.",
+    "source": "Public Service Rules (gazetted edition read), rule 020503(a)",
+    "difficulty": "hard"
+  },
+  {
+    "id": 721,
+    "topic": "Civil Service Rules",
+    "question": "Under rule 020601, who approves a formal acting appointment, which is then gazetted?",
+    "options": [
+      "The Head of the Civil Service of the Federation",
+      "The Federal Civil Service Commission",
+      "The Permanent Secretary of the Ministry",
+      "The Secretary to the Government of the Federation"
+    ],
+    "answer": 1,
+    "explanation": "The Commission approves acting appointments, by notice in the gazette, for duty posts of status not lower than Senior Clerical Officer.",
+    "source": "Public Service Rules (gazetted edition read), rule 020601",
+    "difficulty": "easy"
+  },
+  {
+    "id": 722,
+    "topic": "Civil Service Rules",
+    "question": "Under rule 020604, an approved acting appointment shall not be back-dated to a period in excess of how long before the Commission received the recommendation?",
+    "options": [
+      "Three months",
+      "One year",
+      "Two months",
+      "Six months"
+    ],
+    "answer": 3,
+    "explanation": "Recommendations go on General Form 66, and back-dating is capped at six months from receipt.",
+    "source": "Public Service Rules (gazetted edition read), rule 020604",
+    "difficulty": "hard"
+  },
+  {
+    "id": 723,
+    "topic": "Civil Service Rules",
+    "question": "Under rule 020603, acting appointments are not intended as a means of:",
+    "options": [
+      "Filling temporarily vacant posts",
+      "Ensuring a duty post stays filled",
+      "Testing the suitability of officers for promotion",
+      "Meeting statutory requirements"
+    ],
+    "answer": 2,
+    "explanation": "Acting appointments are not a form of trial promotion; they fill posts that are temporarily vacant and their duration should be limited.",
+    "source": "Public Service Rules (gazetted edition read), rule 020603",
+    "difficulty": "medium"
+  },
+  {
+    "id": 724,
+    "topic": "Civil Service Rules",
+    "question": "Under rule 020701(b), the minimum years an officer must spend in a post before being eligible for promotion on GL.06 and below, GL.07-14, and GL.15-17 are respectively:",
+    "options": [
+      "2, 3 and 4 years",
+      "1, 2 and 3 years",
+      "3, 4 and 5 years",
+      "2, 4 and 6 years"
+    ],
+    "answer": 0,
+    "explanation": "The minimum is 2 years on GL.06 and below, 3 years on GL.07-14, and 4 years on GL.15-17.",
+    "source": "Public Service Rules (gazetted edition read), rule 020701(b)",
+    "difficulty": "hard"
+  },
+  {
+    "id": 725,
+    "topic": "Civil Service Rules",
+    "question": "Under rule 020701(d), promotion of officers on GL.15 - 17 is made by:",
+    "options": [
+      "The Ministry/Extra-Ministerial Office alone",
+      "The Permanent Secretary of the officer's Ministry",
+      "The Junior Staff Committee",
+      "The Federal Civil Service Commission, on recommendation routed through the Head of the Civil Service"
+    ],
+    "answer": 3,
+    "explanation": "GL.06 and below is by the Ministry; GL.07-14 is by the Ministry or relevant pool subject to confirmation by the Commission; GL.15-17 is by the Commission.",
+    "source": "Public Service Rules (gazetted edition read), rule 020701(d)",
+    "difficulty": "medium"
+  },
+  {
+    "id": 726,
+    "topic": "Civil Service Rules",
+    "question": "Under rule 020704, the effective date of all promotions is:",
+    "options": [
+      "The date the promotion letter is signed",
+      "1 January of the year for which the promotion exercise was conducted, or as determined by the Commission",
+      "1 July of the year of the exercise",
+      "The date the officer passes the interview"
+    ],
+    "answer": 1,
+    "explanation": "Rule 020704 fixes 1 January of the exercise year unless the Commission determines otherwise.",
+    "source": "Public Service Rules (gazetted edition read), rule 020704",
+    "difficulty": "easy"
+  },
+  {
+    "id": 727,
+    "topic": "Civil Service Rules",
+    "question": "Under rule 020706, officers on approved leave of absence, secondment or special assignment:",
+    "options": [
+      "Shall not be granted notional promotion and sit promotion examinations at designated centres nearest to them",
+      "Are automatically promoted on notional basis when peers are promoted",
+      "Are exempted from promotion interviews",
+      "Are promoted by the Head of the Civil Service on return"
+    ],
+    "answer": 0,
+    "explanation": "Notional promotions are not granted; such officers sit promotion interviews/examinations at designated centres.",
+    "source": "Public Service Rules (gazetted edition read), rule 020706",
+    "difficulty": "hard"
+  },
+  {
+    "id": 728,
+    "topic": "Civil Service Rules",
+    "question": "Under rule 020707, an officer who has passed the compulsory examination for confirmation is eligible for promotion:",
+    "options": [
+      "Only after completing the probationary period",
+      "Even though he has not completed the probationary period",
+      "Only after three years in service",
+      "Only with the Head of the Civil Service's special approval"
+    ],
+    "answer": 1,
+    "explanation": "Rule 020707 makes the officer eligible notwithstanding that probation under rule 020301 is incomplete.",
+    "source": "Public Service Rules (gazetted edition read), rule 020707",
+    "difficulty": "medium"
+  },
+  {
+    "id": 729,
+    "topic": "Civil Service Rules",
+    "question": "Under rule 020801, if an officer on probation is found not qualified for efficient service (and the cause is not misconduct), his appointment may be terminated by:",
+    "options": [
+      "Three months' notice",
+      "Immediate effect with no notice",
+      "A month's notice",
+      "Payment of six months' salary"
+    ],
+    "answer": 2,
+    "explanation": "Provided termination is not due to misconduct, it is effected by a month's notice, with leave arranged within the notice period where applicable.",
+    "source": "Public Service Rules (gazetted edition read), rule 020801",
+    "difficulty": "medium"
+  },
+  {
+    "id": 730,
+    "topic": "Civil Service Rules",
+    "question": "Under rule 060203, an officer who fails the confirmation examination on three consecutive attempts is:",
+    "options": [
+      "Demoted by one grade level",
+      "Required to resign or withdraw from the service",
+      "Placed on a further two-year probation",
+      "Redeployed to a junior cadre"
+    ],
+    "answer": 1,
+    "explanation": "Three consecutive failures require the officer to resign or withdraw; the Permanent Secretary ensures compliance.",
+    "source": "Public Service Rules (gazetted edition read), rule 060203",
+    "difficulty": "medium"
+  },
+  {
+    "id": 731,
+    "topic": "Civil Service Rules",
+    "question": "Under rule 060204, an officer who fails to take the confirmation examination after how long from first appointment is required to resign?",
+    "options": [
+      "Two years",
+      "One year",
+      "Three years",
+      "Four years"
+    ],
+    "answer": 2,
+    "explanation": "Failure to take the confirmation examination after 3 years of first appointment requires resignation from the service. (Rule 060206 separately requires GL.06 and below to take it within two years.)",
+    "source": "Public Service Rules (gazetted edition read), rule 060204; 060206",
+    "difficulty": "hard"
+  },
+  {
+    "id": 732,
+    "topic": "Civil Service Rules",
+    "question": "Under rule 020810(i), the compulsory retirement age for all grades is:",
+    "options": [
+      "60 years or 35 years of pensionable service, whichever is earlier",
+      "65 years or 40 years of service, whichever is earlier",
+      "60 years or 35 years of service, whichever is later",
+      "55 years or 30 years of service, whichever is earlier"
+    ],
+    "answer": 0,
+    "explanation": "Compulsory retirement is at 60 years of age or 35 years of pensionable service, whichever comes first.",
+    "source": "Public Service Rules (gazetted edition read), rule 020810(i)",
+    "difficulty": "easy"
+  },
+  {
+    "id": 733,
+    "topic": "Civil Service Rules",
+    "question": "Under rule 020810(iii), judicial officers and academic staff of universities retire at, respectively:",
+    "options": [
+      "65 and 70 years",
+      "70 and 70 years",
+      "65 and 65 years",
+      "70 and 65 years"
+    ],
+    "answer": 3,
+    "explanation": "The 60/35 rule is without prejudice to prevailing requirements for judicial officers (70) and university academic staff (65).",
+    "source": "Public Service Rules (gazetted edition read), rule 020810(iii)",
+    "difficulty": "hard"
+  },
+  {
+    "id": 734,
+    "topic": "Civil Service Rules",
+    "question": "Under rule 020810(iv) of the copy read, a Director shall compulsorily retire upon serving how many years on the post?",
+    "options": [
+      "Four years",
+      "Eight years",
+      "Six years",
+      "Ten years"
+    ],
+    "answer": 1,
+    "explanation": "A Director retires after eight years on the post; a Permanent Secretary holds office for four years, renewable once for four more. Press reports place this rule at 021210 in PSR 2021 [secondary source: Leadership].",
+    "source": "Public Service Rules (gazetted edition read), rule 020810(iv); [secondary source: Leadership, Rule 021210 report]",
+    "difficulty": "medium"
+  },
+  {
+    "id": 735,
+    "topic": "Civil Service Rules",
+    "question": "Under rule 030103, the power of dismissal delegated to Permanent Secretaries and Heads of Extra-Ministerial Offices covers officers on:",
+    "options": [
+      "GL.06 and below",
+      "GL.13 and below",
+      "GL.07 - 14",
+      "GL.10 and below"
+    ],
+    "answer": 0,
+    "explanation": "Full disciplinary powers are delegated for GL.13 and below, except dismissal, which is delegated only for GL.06 and below.",
+    "source": "Public Service Rules (gazetted edition read), rule 030103",
+    "difficulty": "hard"
+  },
+  {
+    "id": 736,
+    "topic": "Civil Service Rules",
+    "question": "Under rule 030203, before proceedings for removal for general inefficiency may begin, the officer must have been warned in writing on how many occasions?",
+    "options": [
+      "Two",
+      "Four",
+      "Three",
+      "Five"
+    ],
+    "answer": 2,
+    "explanation": "Rule 030203 requires three written warnings.",
+    "source": "Public Service Rules (gazetted edition read), rule 030203",
+    "difficulty": "medium"
+  },
+  {
+    "id": 737,
+    "topic": "Civil Service Rules",
+    "question": "Under rule 040205, an increment may be deferred for a period of:",
+    "options": [
+      "Not less than three months nor more than six months",
+      "Not less than one month nor more than three months",
+      "Not less than six months nor more than twelve months",
+      "Not less than two months nor more than four months"
+    ],
+    "answer": 0,
+    "explanation": "A deferred increment not granted by six months from the original due date must be withheld.",
+    "source": "Public Service Rules (gazetted edition read), rule 040205",
+    "difficulty": "medium"
+  },
+  {
+    "id": 738,
+    "topic": "Civil Service Rules",
+    "question": "Under rule 040204, which is the more serious penalty?",
+    "options": [
+      "Deferring an increment",
+      "Withholding an increment",
+      "A formal letter of advice",
+      "Issuing a query"
+    ],
+    "answer": 1,
+    "explanation": "Rule 040204 states that to withhold an increment is more serious than to defer it.",
+    "source": "Public Service Rules (gazetted edition read), rule 040204",
+    "difficulty": "medium"
+  },
+  {
+    "id": 739,
+    "topic": "Civil Service Rules",
+    "question": "Under rule 030208, in all cases of termination for inefficiency, the period of notice shall be:",
+    "options": [
+      "Three calendar months",
+      "Two weeks",
+      "Six weeks",
+      "One calendar month unless another period is appropriate to the officer's terms"
+    ],
+    "answer": 3,
+    "explanation": "Notice is one calendar month; if the officer leaves immediately, emolument equivalent to the notice period is paid.",
+    "source": "Public Service Rules (gazetted edition read), rule 030208",
+    "difficulty": "medium"
+  },
+  {
+    "id": 740,
+    "topic": "Civil Service Rules",
+    "question": "Which of the following is listed as misconduct (rather than serious misconduct) in rule 030301?",
+    "options": [
+      "Falsification of records",
+      "Habitual lateness to work",
+      "Bribery",
+      "Advance fee fraud"
+    ],
+    "answer": 1,
+    "explanation": "Habitual lateness is misconduct under 030301(c). Falsification, bribery and advance fee fraud are serious misconduct under 030402.",
+    "source": "Public Service Rules (gazetted edition read), rule 030301; 030402",
+    "difficulty": "easy"
+  },
+  {
+    "id": 741,
+    "topic": "Civil Service Rules",
+    "question": "Which of the following is listed as serious misconduct in rule 030402?",
+    "options": [
+      "Sleeping on duty",
+      "Improper dressing while on duty",
+      "Hawking merchandise within office premises",
+      "Falsification of records"
+    ],
+    "answer": 3,
+    "explanation": "Falsification of records is serious misconduct; the others are listed as misconduct in rule 030301.",
+    "source": "Public Service Rules (gazetted edition read), rule 030402; 030301",
+    "difficulty": "medium"
+  },
+  {
+    "id": 742,
+    "topic": "Civil Service Rules",
+    "question": "Under rule 030404, an interdicted officer is paid:",
+    "options": [
+      "Not more than half pay (50% of emoluments)",
+      "Full emoluments",
+      "No emoluments",
+      "Seventy-five per cent of emoluments"
+    ],
+    "answer": 0,
+    "explanation": "Interdiction is on not more than half pay pending determination of the case; if cleared, the officer is reinstated with full emoluments denied.",
+    "source": "Public Service Rules (gazetted edition read), rule 030404",
+    "difficulty": "medium"
+  },
+  {
+    "id": 743,
+    "topic": "Civil Service Rules",
+    "question": "Under rule 030406, an officer who is suspended pending investigation of serious misconduct receives:",
+    "options": [
+      "Half pay",
+      "Full pay",
+      "Seventy-five per cent of pay",
+      "No emolument for the period of suspension"
+    ],
+    "answer": 3,
+    "explanation": "Suspension is from the exercise of the powers and functions of office and from the enjoyment of emolument; it must not be used as a synonym for interdiction.",
+    "source": "Public Service Rules (gazetted edition read), rule 030406",
+    "difficulty": "hard"
+  },
+  {
+    "id": 744,
+    "topic": "Civil Service Rules",
+    "question": "Under rule 030307(xiii), disciplinary procedures must commence and be completed within:",
+    "options": [
+      "30 days in all cases",
+      "60 days, except where they involve criminal cases",
+      "90 days, except for criminal cases",
+      "Six months in all cases"
+    ],
+    "answer": 1,
+    "explanation": "Rule 030307(xiii) sets the 60-day limit, excluding criminal cases.",
+    "source": "Public Service Rules (gazetted edition read), rule 030307(xiii)",
+    "difficulty": "hard"
+  },
+  {
+    "id": 745,
+    "topic": "Civil Service Rules",
+    "question": "Which statement about a board of inquiry set up by the Commission under rule 030307 is correct?",
+    "options": [
+      "It consists of not less than three persons, and the head of the officer's department shall not be a member",
+      "It consists of five persons including the head of the officer's department",
+      "The Commission itself hears the witnesses",
+      "The officer may not call witnesses"
+    ],
+    "answer": 0,
+    "explanation": "The Commission does not hear witnesses itself; the officer may call witnesses and put questions to those the board calls.",
+    "source": "Public Service Rules (gazetted edition read), rule 030307(v)-(ix)",
+    "difficulty": "hard"
+  },
+  {
+    "id": 746,
+    "topic": "Civil Service Rules",
+    "question": "Rule 030309 prohibits which of the following as punishment for an offence committed in the course of an officer's duties?",
+    "options": [
+      "A surcharge for loss caused by neglect",
+      "Withholding of an increment",
+      "Reduction in rank",
+      "A fine"
+    ],
+    "answer": 3,
+    "explanation": "No fine shall be imposed for an offence committed in the course of duties; surcharge is separately permitted under rule 030310.",
+    "source": "Public Service Rules (gazetted edition read), rule 030309; 030310",
+    "difficulty": "easy"
+  },
+  {
+    "id": 747,
+    "topic": "Civil Service Rules",
+    "question": "Under rule 030414(1)(a), an officer is deemed to be in serious financial embarrassment if his unsecured debts and liabilities at any time exceed:",
+    "options": [
+      "Three times his monthly emoluments",
+      "His annual emoluments",
+      "Six times his monthly emoluments",
+      "One month's emoluments"
+    ],
+    "answer": 0,
+    "explanation": "Debts exceeding three times monthly emoluments, or being a judgement debtor or undischarged bankrupt, count as serious financial embarrassment.",
+    "source": "Public Service Rules (gazetted edition read), rule 030414(1)",
+    "difficulty": "hard"
+  },
+  {
+    "id": 748,
+    "topic": "Civil Service Rules",
+    "question": "Under rule 030423, an officer wishing to engage in partisan political activities or seek elective public office shall:",
+    "options": [
+      "Proceed on leave without pay",
+      "Obtain the Permanent Secretary's permission",
+      "Be seconded to the political party",
+      "Resign his appointment forthwith"
+    ],
+    "answer": 3,
+    "explanation": "Resignation is necessary before seeking elective public office or engaging in partisan politics.",
+    "source": "Public Service Rules (gazetted edition read), rule 030423",
+    "difficulty": "medium"
+  },
+  {
+    "id": 749,
+    "topic": "Civil Service Rules",
+    "question": "Under rule 030424, a public officer may hold shares in companies but may not be:",
+    "options": [
+      "A Director in a private company",
+      "A shareholder in a public company",
+      "A shareholder in a company operating abroad",
+      "A member of a cooperative society"
+    ],
+    "answer": 0,
+    "explanation": "Officers must not be directors in private companies and may be directors in public companies only if nominated by Government.",
+    "source": "Public Service Rules (gazetted edition read), rule 030424(a)",
+    "difficulty": "medium"
+  },
+  {
+    "id": 750,
+    "topic": "Civil Service Rules",
+    "question": "Under the Federal Government circular of November 2022 on paternity leave in the Public Service Rules 2021 edition, paternity leave for serving male officers is:",
+    "options": [
+      "Seven working days",
+      "Twenty-one working days",
+      "Fourteen working days",
+      "Thirty calendar days"
+    ],
+    "answer": 2,
+    "explanation": "The circular approved fourteen working days, also for an officer whose family adopts a child under four months old.",
+    "source": "Circular 'Computation of Leave Based on Working Days and Approval of Paternity Leave in the Public Service', 25 Nov 2022, as reported by ThisDay/Radio Nigeria [secondary source]",
+    "difficulty": "hard"
+  }
+]
