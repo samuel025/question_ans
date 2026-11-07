@@ -12,7 +12,8 @@
     "answer": 0,
     "explanation": "Rule 020101: appointments are made on the authority of the Federal Civil Service Commission, by letter or by formal agreement.",
     "source": "Public Service Rules (gazetted edition read), rule 020101",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "section": "III"
   },
   {
     "id": 702,
@@ -27,7 +28,8 @@
     "answer": 2,
     "explanation": "The Commission appoints to GL.12-17, as the need arises, into available vacancies after advertisement.",
     "source": "Public Service Rules (gazetted edition read), rule 020102(i)",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "III"
   },
   {
     "id": 703,
@@ -42,7 +44,8 @@
     "answer": 1,
     "explanation": "The entry examination covers GL.07-10, for new entrants and serving officers wishing to transfer from other scheduled services.",
     "source": "Public Service Rules (gazetted edition read), rule 020102(iv)",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "section": "III"
   },
   {
     "id": 704,
@@ -57,7 +60,8 @@
     "answer": 2,
     "explanation": "Each Ministry/Extra-Ministerial Office appoints junior staff through its Junior Staff Committee, with a representative of the Commission and the Head of Service present, subject to approval of the Permanent Secretary/Head of Extra-Ministerial Office.",
     "source": "Public Service Rules (gazetted edition read), rule 020103(a)",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "III"
   },
   {
     "id": 705,
@@ -72,7 +76,8 @@
     "answer": 3,
     "explanation": "The incremental date is 1 January of every year, provided the officer has spent at least six months on the grade with good performance.",
     "source": "Public Service Rules (gazetted edition read), rule 020105",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "III"
   },
   {
     "id": 706,
@@ -87,7 +92,8 @@
     "answer": 1,
     "explanation": "Rule 020107: the employment of unpaid staff is prohibited.",
     "source": "Public Service Rules (gazetted edition read), rule 020107",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "section": "III"
   },
   {
     "id": 707,
@@ -102,7 +108,8 @@
     "answer": 0,
     "explanation": "The date of birth recorded on appointment shall not be changed throughout the officer's career; contravention is serious misconduct.",
     "source": "Public Service Rules (gazetted edition read), rule 020108(ii)",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "III"
   },
   {
     "id": 708,
@@ -117,7 +124,8 @@
     "answer": 2,
     "explanation": "Rule 020205(a) sets the age band at 18 to 50 years.",
     "source": "Public Service Rules (gazetted edition read), rule 020205(a)",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "section": "III"
   },
   {
     "id": 709,
@@ -132,7 +140,8 @@
     "answer": 1,
     "explanation": "Prior approval is required if the candidate has been convicted of a criminal offence, or was previously dismissed or called upon to resign or retire from government service, irrespective of any delegation.",
     "source": "Public Service Rules (gazetted edition read), rule 020206",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "III"
   },
   {
     "id": 710,
@@ -147,7 +156,8 @@
     "answer": 0,
     "explanation": "Rule 020210 bars membership; rule 020211 treats contravention as serious misconduct that may include dismissal.",
     "source": "Public Service Rules (gazetted edition read), rule 020210-020211",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "section": "III"
   },
   {
     "id": 711,
@@ -162,7 +172,8 @@
     "answer": 2,
     "explanation": "Probation is two years before confirmation.",
     "source": "Public Service Rules (gazetted edition read), rule 020301",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "section": "III"
   },
   {
     "id": 712,
@@ -177,7 +188,8 @@
     "answer": 3,
     "explanation": "The reduction is allowed down to a floor of six months.",
     "source": "Public Service Rules (gazetted edition read), rule 020301",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "III"
   },
   {
     "id": 713,
@@ -192,7 +204,8 @@
     "answer": 2,
     "explanation": "Any extension beyond two years needs the Commission's approval and may carry the incremental penalty in rule 040206.",
     "source": "Public Service Rules (gazetted edition read), rule 020301",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "section": "III"
   },
   {
     "id": 714,
@@ -207,7 +220,8 @@
     "answer": 1,
     "explanation": "A trainee/pupil serves a normal two years in the post, which may be reduced in special circumstances.",
     "source": "Public Service Rules (gazetted edition read), rule 020203(a)",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "III"
   },
   {
     "id": 715,
@@ -222,7 +236,8 @@
     "answer": 3,
     "explanation": "A contract appointment is a temporary, non-pensionable appointment for a specific period, recorded in a formal agreement.",
     "source": "Public Service Rules (gazetted edition read), rule 020401",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "III"
   },
   {
     "id": 716,
@@ -237,7 +252,8 @@
     "answer": 0,
     "explanation": "The notice is through the Permanent Secretary/Head of Extra-Ministerial Office, not less than four months before leave is due.",
     "source": "Public Service Rules (gazetted edition read), rule 020405",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "section": "III"
   },
   {
     "id": 717,
@@ -252,7 +268,8 @@
     "answer": 3,
     "explanation": "Re-engagement is restricted to the grade level immediately below the retirement level.",
     "source": "Public Service Rules (gazetted edition read), rule 020411",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "section": "III"
   },
   {
     "id": 718,
@@ -267,7 +284,8 @@
     "answer": 2,
     "explanation": "Secondment is a temporary release; transfer (rule 020501(a)) is the permanent release from one scheduled service to another.",
     "source": "Public Service Rules (gazetted edition read), rule 020501",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "III"
   },
   {
     "id": 719,
@@ -282,7 +300,8 @@
     "answer": 3,
     "explanation": "Secondment is two years in the first instance, with extensions approved by the committees and the Commission, and the total must not exceed four years.",
     "source": "Public Service Rules (gazetted edition read), rule 020502(iv)",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "section": "III"
   },
   {
     "id": 720,
@@ -297,7 +316,8 @@
     "answer": 2,
     "explanation": "Senior-post transfers need the Commission's prior approval and at least six months' service in the original department.",
     "source": "Public Service Rules (gazetted edition read), rule 020503(a)",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "section": "III"
   },
   {
     "id": 721,
@@ -312,7 +332,8 @@
     "answer": 1,
     "explanation": "The Commission approves acting appointments, by notice in the gazette, for duty posts of status not lower than Senior Clerical Officer.",
     "source": "Public Service Rules (gazetted edition read), rule 020601",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "section": "III"
   },
   {
     "id": 722,
@@ -327,7 +348,8 @@
     "answer": 3,
     "explanation": "Recommendations go on General Form 66, and back-dating is capped at six months from receipt.",
     "source": "Public Service Rules (gazetted edition read), rule 020604",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "section": "III"
   },
   {
     "id": 723,
@@ -342,7 +364,8 @@
     "answer": 2,
     "explanation": "Acting appointments are not a form of trial promotion; they fill posts that are temporarily vacant and their duration should be limited.",
     "source": "Public Service Rules (gazetted edition read), rule 020603",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "III"
   },
   {
     "id": 724,
@@ -357,7 +380,8 @@
     "answer": 0,
     "explanation": "The minimum is 2 years on GL.06 and below, 3 years on GL.07-14, and 4 years on GL.15-17.",
     "source": "Public Service Rules (gazetted edition read), rule 020701(b)",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "section": "III"
   },
   {
     "id": 725,
@@ -372,7 +396,8 @@
     "answer": 3,
     "explanation": "GL.06 and below is by the Ministry; GL.07-14 is by the Ministry or relevant pool subject to confirmation by the Commission; GL.15-17 is by the Commission.",
     "source": "Public Service Rules (gazetted edition read), rule 020701(d)",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "III"
   },
   {
     "id": 726,
@@ -387,7 +412,8 @@
     "answer": 1,
     "explanation": "Rule 020704 fixes 1 January of the exercise year unless the Commission determines otherwise.",
     "source": "Public Service Rules (gazetted edition read), rule 020704",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "section": "III"
   },
   {
     "id": 727,
@@ -402,7 +428,8 @@
     "answer": 0,
     "explanation": "Notional promotions are not granted; such officers sit promotion interviews/examinations at designated centres.",
     "source": "Public Service Rules (gazetted edition read), rule 020706",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "section": "III"
   },
   {
     "id": 728,
@@ -417,7 +444,8 @@
     "answer": 1,
     "explanation": "Rule 020707 makes the officer eligible notwithstanding that probation under rule 020301 is incomplete.",
     "source": "Public Service Rules (gazetted edition read), rule 020707",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "III"
   },
   {
     "id": 729,
@@ -432,7 +460,8 @@
     "answer": 2,
     "explanation": "Provided termination is not due to misconduct, it is effected by a month's notice, with leave arranged within the notice period where applicable.",
     "source": "Public Service Rules (gazetted edition read), rule 020801",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "III"
   },
   {
     "id": 730,
@@ -447,7 +476,8 @@
     "answer": 1,
     "explanation": "Three consecutive failures require the officer to resign or withdraw; the Permanent Secretary ensures compliance.",
     "source": "Public Service Rules (gazetted edition read), rule 060203",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "III"
   },
   {
     "id": 731,
@@ -462,7 +492,8 @@
     "answer": 2,
     "explanation": "Failure to take the confirmation examination after 3 years of first appointment requires resignation from the service. (Rule 060206 separately requires GL.06 and below to take it within two years.)",
     "source": "Public Service Rules (gazetted edition read), rule 060204; 060206",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "section": "III"
   },
   {
     "id": 732,
@@ -477,7 +508,8 @@
     "answer": 0,
     "explanation": "Compulsory retirement is at 60 years of age or 35 years of pensionable service, whichever comes first.",
     "source": "Public Service Rules (gazetted edition read), rule 020810(i)",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "section": "III"
   },
   {
     "id": 733,
@@ -492,7 +524,8 @@
     "answer": 3,
     "explanation": "The 60/35 rule is without prejudice to prevailing requirements for judicial officers (70) and university academic staff (65).",
     "source": "Public Service Rules (gazetted edition read), rule 020810(iii)",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "section": "III"
   },
   {
     "id": 734,
@@ -507,7 +540,8 @@
     "answer": 1,
     "explanation": "A Director retires after eight years on the post; a Permanent Secretary holds office for four years, renewable once for four more. Press reports place this rule at 021210 in PSR 2021 [secondary source: Leadership].",
     "source": "Public Service Rules (gazetted edition read), rule 020810(iv); [secondary source: Leadership, Rule 021210 report]",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "III"
   },
   {
     "id": 735,
@@ -522,7 +556,8 @@
     "answer": 0,
     "explanation": "Full disciplinary powers are delegated for GL.13 and below, except dismissal, which is delegated only for GL.06 and below.",
     "source": "Public Service Rules (gazetted edition read), rule 030103",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "section": "III"
   },
   {
     "id": 736,
@@ -537,7 +572,8 @@
     "answer": 2,
     "explanation": "Rule 030203 requires three written warnings.",
     "source": "Public Service Rules (gazetted edition read), rule 030203",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "III"
   },
   {
     "id": 737,
@@ -552,7 +588,8 @@
     "answer": 0,
     "explanation": "A deferred increment not granted by six months from the original due date must be withheld.",
     "source": "Public Service Rules (gazetted edition read), rule 040205",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "III"
   },
   {
     "id": 738,
@@ -567,7 +604,8 @@
     "answer": 1,
     "explanation": "Rule 040204 states that to withhold an increment is more serious than to defer it.",
     "source": "Public Service Rules (gazetted edition read), rule 040204",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "III"
   },
   {
     "id": 739,
@@ -582,7 +620,8 @@
     "answer": 3,
     "explanation": "Notice is one calendar month; if the officer leaves immediately, emolument equivalent to the notice period is paid.",
     "source": "Public Service Rules (gazetted edition read), rule 030208",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "III"
   },
   {
     "id": 740,
@@ -597,7 +636,8 @@
     "answer": 1,
     "explanation": "Habitual lateness is misconduct under 030301(c). Falsification, bribery and advance fee fraud are serious misconduct under 030402.",
     "source": "Public Service Rules (gazetted edition read), rule 030301; 030402",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "section": "III"
   },
   {
     "id": 741,
@@ -612,7 +652,8 @@
     "answer": 3,
     "explanation": "Falsification of records is serious misconduct; the others are listed as misconduct in rule 030301.",
     "source": "Public Service Rules (gazetted edition read), rule 030402; 030301",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "III"
   },
   {
     "id": 742,
@@ -627,7 +668,8 @@
     "answer": 0,
     "explanation": "Interdiction is on not more than half pay pending determination of the case; if cleared, the officer is reinstated with full emoluments denied.",
     "source": "Public Service Rules (gazetted edition read), rule 030404",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "III"
   },
   {
     "id": 743,
@@ -642,7 +684,8 @@
     "answer": 3,
     "explanation": "Suspension is from the exercise of the powers and functions of office and from the enjoyment of emolument; it must not be used as a synonym for interdiction.",
     "source": "Public Service Rules (gazetted edition read), rule 030406",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "section": "III"
   },
   {
     "id": 744,
@@ -657,7 +700,8 @@
     "answer": 1,
     "explanation": "Rule 030307(xiii) sets the 60-day limit, excluding criminal cases.",
     "source": "Public Service Rules (gazetted edition read), rule 030307(xiii)",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "section": "III"
   },
   {
     "id": 745,
@@ -672,7 +716,8 @@
     "answer": 0,
     "explanation": "The Commission does not hear witnesses itself; the officer may call witnesses and put questions to those the board calls.",
     "source": "Public Service Rules (gazetted edition read), rule 030307(v)-(ix)",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "section": "III"
   },
   {
     "id": 746,
@@ -687,7 +732,8 @@
     "answer": 3,
     "explanation": "No fine shall be imposed for an offence committed in the course of duties; surcharge is separately permitted under rule 030310.",
     "source": "Public Service Rules (gazetted edition read), rule 030309; 030310",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "section": "III"
   },
   {
     "id": 747,
@@ -702,7 +748,8 @@
     "answer": 0,
     "explanation": "Debts exceeding three times monthly emoluments, or being a judgement debtor or undischarged bankrupt, count as serious financial embarrassment.",
     "source": "Public Service Rules (gazetted edition read), rule 030414(1)",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "section": "III"
   },
   {
     "id": 748,
@@ -717,7 +764,8 @@
     "answer": 3,
     "explanation": "Resignation is necessary before seeking elective public office or engaging in partisan politics.",
     "source": "Public Service Rules (gazetted edition read), rule 030423",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "III"
   },
   {
     "id": 749,
@@ -732,7 +780,8 @@
     "answer": 0,
     "explanation": "Officers must not be directors in private companies and may be directors in public companies only if nominated by Government.",
     "source": "Public Service Rules (gazetted edition read), rule 030424(a)",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "III"
   },
   {
     "id": 750,
@@ -747,6 +796,7 @@
     "answer": 2,
     "explanation": "The circular approved fourteen working days, also for an officer whose family adopts a child under four months old.",
     "source": "Circular 'Computation of Leave Based on Working Days and Approval of Paternity Leave in the Public Service', 25 Nov 2022, as reported by ThisDay/Radio Nigeria [secondary source]",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "section": "III"
   }
 ]

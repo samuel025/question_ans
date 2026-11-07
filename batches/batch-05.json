@@ -12,7 +12,8 @@
     "answer": 2,
     "explanation": "Section 1 states the objective as a legal, institutional and regulatory framework for administering federal taxes and revenues. Harmonisation and dispute resolution belong to the Joint Revenue Board Act.",
     "source": "NRS Act 2025 s.1",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "section": "I"
   },
   {
     "id": 502,
@@ -27,7 +28,8 @@
     "answer": 0,
     "explanation": "Section 40(1) repeals the FIRS (Establishment) Act No. 13, 2007. Section 41 vests the former Service's powers, staff, assets and liabilities in the NRS.",
     "source": "NRS Act 2025 s.40-41",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "section": "I"
   },
   {
     "id": 503,
@@ -42,7 +44,8 @@
     "answer": 1,
     "explanation": "Section 4(1)(a) leaves resident individuals in a State or the FCT to the State or FCT tax authority.",
     "source": "NRS Act 2025 s.4(1)(a)",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "I"
   },
   {
     "id": 504,
@@ -57,7 +60,8 @@
     "answer": 3,
     "explanation": "Section 4(1)(d) makes the review of tax regimes subject to National Assembly approval.",
     "source": "NRS Act 2025 s.4(1)(d)",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "I"
   },
   {
     "id": 505,
@@ -72,7 +76,8 @@
     "answer": 1,
     "explanation": "Section 4(1)(g) empowers the Service to adopt measures to identify, trace, freeze, confiscate or seize proceeds of tax fraud or evasion.",
     "source": "NRS Act 2025 s.4(1)(g)",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "I"
   },
   {
     "id": 506,
@@ -87,7 +92,8 @@
     "answer": 3,
     "explanation": "Section 4(1)(q) provides for collaboration with State and local tax authorities or the Joint Revenue Board.",
     "source": "NRS Act 2025 s.4(1)(q)",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "I"
   },
   {
     "id": 507,
@@ -102,7 +108,8 @@
     "answer": 2,
     "explanation": "Section 4(2) requires the Minister's approval for the Service's rules and regulations.",
     "source": "NRS Act 2025 s.4(2)",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "I"
   },
   {
     "id": 508,
@@ -117,7 +124,8 @@
     "answer": 1,
     "explanation": "Section 5(2) limits assistance to taxes the requesting government has the statutory right to collect or administer.",
     "source": "NRS Act 2025 s.5(1)-(2)",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "I"
   },
   {
     "id": 509,
@@ -132,7 +140,8 @@
     "answer": 3,
     "explanation": "Section 5(3) requires direct remittance as agreed. Section 5(9) lets the Service charge an agreed fee for the assistance.",
     "source": "NRS Act 2025 s.5(3), (9)",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "I"
   },
   {
     "id": 510,
@@ -147,7 +156,8 @@
     "answer": 0,
     "explanation": "Section 16(a) (and section 7(1)(a)) requires presidential appointment subject to Senate confirmation.",
     "source": "NRS Act 2025 s.16(a); s.7(1)(a)",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "section": "I"
   },
   {
     "id": 511,
@@ -162,7 +172,8 @@
     "answer": 3,
     "explanation": "Section 7(1)(b) lists finance, planning, justice and petroleum ministry representatives, the CBN, RMAFC, Customs and CAC.",
     "source": "NRS Act 2025 s.7(1)(b)(vii)",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "section": "I"
   },
   {
     "id": 512,
@@ -177,7 +188,8 @@
     "answer": 0,
     "explanation": "Section 7(2) makes all members other than the Executive Chairman and the Executive Directors part-time.",
     "source": "NRS Act 2025 s.7(2)",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "I"
   },
   {
     "id": 513,
@@ -192,7 +204,8 @@
     "answer": 2,
     "explanation": "Section 9(1) sets a four-year term, renewable once for four years.",
     "source": "NRS Act 2025 s.9(1)",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "I"
   },
   {
     "id": 514,
@@ -207,7 +220,8 @@
     "answer": 1,
     "explanation": "Section 13 requires the Board to appoint the Secretary from within the Service, with the stated professional qualification and rank.",
     "source": "NRS Act 2025 s.13(1)-(2)",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "section": "I"
   },
   {
     "id": 515,
@@ -222,7 +236,8 @@
     "answer": 3,
     "explanation": "The Technical Committee comprises the Executive Chairman (chair), two Board members, the Executive Directors, the Director Legal and the Director in charge of Tax Policy.",
     "source": "NRS Act 2025 s.14(1)",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "section": "I"
   },
   {
     "id": 516,
@@ -237,7 +252,8 @@
     "answer": 1,
     "explanation": "Section 17(1) provides six Executive Directors, one per geopolitical zone, and the Executive Chairman and an Executive Director shall not come from the same state.",
     "source": "NRS Act 2025 s.17(1)",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "I"
   },
   {
     "id": 517,
@@ -252,7 +268,8 @@
     "answer": 0,
     "explanation": "Section 19(4) allows consultants but bars them from core tax functions.",
     "source": "NRS Act 2025 s.19(4)",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "section": "I"
   },
   {
     "id": 518,
@@ -267,7 +284,8 @@
     "answer": 3,
     "explanation": "Section 22(a) credits 4% of total revenue, less petroleum royalty, appropriated by the National Assembly for capital and recurrent expenditure.",
     "source": "NRS Act 2025 s.22(a)",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "I"
   },
   {
     "id": 519,
@@ -282,7 +300,8 @@
     "answer": 2,
     "explanation": "Section 26(1) sets 30 June. The Minister presents the report to the Federal Executive Council and the National Assembly within 30 days (section 26(2)). The estimate of income and expenditure is due by 30 September (section 24).",
     "source": "NRS Act 2025 s.24; s.26",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "I"
   },
   {
     "id": 520,
@@ -297,7 +316,8 @@
     "answer": 1,
     "explanation": "Section 25(1) requires audit within six months of the year end, by auditors appointed from the Auditor-General's list.",
     "source": "NRS Act 2025 s.25(1)",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "I"
   },
   {
     "id": 521,
@@ -312,7 +332,8 @@
     "answer": 2,
     "explanation": "The proviso to section 28 requires prior approval of the Federal Executive Council and the National Assembly. By contrast, the Joint Revenue Board needs National Economic Council approval to borrow.",
     "source": "NRS Act 2025 s.28",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "section": "I"
   },
   {
     "id": 522,
@@ -327,7 +348,8 @@
     "answer": 3,
     "explanation": "Section 29 preserves the Service's duty to deduct and remit taxes.",
     "source": "NRS Act 2025 s.29",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "I"
   },
   {
     "id": 523,
@@ -342,7 +364,8 @@
     "answer": 2,
     "explanation": "Section 31(2) protects individual assessments from ministerial direction. The Minister may give written directions only on general policy matters (section 31(1)).",
     "source": "NRS Act 2025 s.31(1)-(2)",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "section": "I"
   },
   {
     "id": 524,
@@ -357,7 +380,8 @@
     "answer": 0,
     "explanation": "Section 33(2) sets a fine up to ₦5,000,000 or up to three years' imprisonment, or both. Section 32(2) carries the same penalty for disclosing institutional information.",
     "source": "NRS Act 2025 s.32(2); s.33(2)",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "section": "I"
   },
   {
     "id": 525,
@@ -372,7 +396,8 @@
     "answer": 3,
     "explanation": "Section 35(2)(a) sets three months. Under section 35(3), a one-month written notice of intention to sue must first be served.",
     "source": "NRS Act 2025 s.35(2)-(3)",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "section": "I"
   },
   {
     "id": 526,
@@ -387,7 +412,8 @@
     "answer": 0,
     "explanation": "Section 1 lists harmonisation and coordination of revenue administration, efficient dispute resolution and promotion of taxpayer rights.",
     "source": "JRB Act 2025 s.1",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "section": "I"
   },
   {
     "id": 527,
@@ -402,7 +428,8 @@
     "answer": 3,
     "explanation": "Section 3(3) places the Board's head office in the FCT. The Office of the Tax Ombud also has its head office in the FCT (section 36(3)).",
     "source": "JRB Act 2025 s.3(3)",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "section": "I"
   },
   {
     "id": 528,
@@ -417,7 +444,8 @@
     "answer": 1,
     "explanation": "The Chairman is the Executive Chairman of the NRS, and the other members are the chairmen of the State and FCT Internal Revenue Services, plus ex-officio members.",
     "source": "JRB Act 2025 s.4(1)",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "I"
   },
   {
     "id": 529,
@@ -432,7 +460,8 @@
     "answer": 3,
     "explanation": "Section 4(2) includes the Finance Minister's representative, the NIMC, RMAFC, Immigration, FRSC, Customs and NRS. The CBN and CAC sit on the NRS Board instead.",
     "source": "JRB Act 2025 s.4(2)(b)",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "section": "I"
   },
   {
     "id": 530,
@@ -447,7 +476,8 @@
     "answer": 2,
     "explanation": "Section 4(3) caps co-opted persons at two.",
     "source": "JRB Act 2025 s.4(3)",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "I"
   },
   {
     "id": 531,
@@ -462,7 +492,8 @@
     "answer": 1,
     "explanation": "Section 5(a) tasks the Board with the TIN database, in collaboration with the NRS, State services and local government revenue committees.",
     "source": "JRB Act 2025 s.5(a)",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "I"
   },
   {
     "id": 532,
@@ -477,7 +508,8 @@
     "answer": 0,
     "explanation": "Section 5(b) covers residency disputes between tax authorities; section 5(d) covers disputes between tax authorities generally.",
     "source": "JRB Act 2025 s.5(b), (d)",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "I"
   },
   {
     "id": 533,
@@ -492,7 +524,8 @@
     "answer": 3,
     "explanation": "Section 5(l) requires publication of tax expenditure. Section 5(k) requires publication of tax revenue collected by all tax authorities.",
     "source": "JRB Act 2025 s.5(k)-(l)",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "section": "I"
   },
   {
     "id": 534,
@@ -507,7 +540,8 @@
     "answer": 0,
     "explanation": "Section 10(2)(b) requires at least 10 years' experience, and section 10(3) sets a four-year term renewable once.",
     "source": "JRB Act 2025 s.10(2)-(3)",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "I"
   },
   {
     "id": 535,
@@ -522,7 +556,8 @@
     "answer": 1,
     "explanation": "Section 18 sets 30 September for the Board's annual report. The NRS, by contrast, reports to the Minister by 30 June.",
     "source": "JRB Act 2025 s.18",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "section": "I"
   },
   {
     "id": 536,
@@ -537,7 +572,8 @@
     "answer": 0,
     "explanation": "Section 20 requires National Economic Council approval.",
     "source": "JRB Act 2025 s.20",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "section": "I"
   },
   {
     "id": 537,
@@ -552,7 +588,8 @@
     "answer": 3,
     "explanation": "The Tribunal consists of five Tax Appeal Commissioners appointed by the Minister, and the quorum is three.",
     "source": "JRB Act 2025 s.24(1), (4)",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "I"
   },
   {
     "id": 538,
@@ -567,7 +604,8 @@
     "answer": 2,
     "explanation": "Section 26 sets three years, renewable once. This differs from the four-year terms of NRS and JRB officers.",
     "source": "JRB Act 2025 s.26",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "I"
   },
   {
     "id": 539,
@@ -582,7 +620,8 @@
     "answer": 0,
     "explanation": "Section 27(a) fixes 70 years. A zone Secretary, by contrast, serves until 60 (section 32(3)).",
     "source": "JRB Act 2025 s.27(a); s.32(3)",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "section": "I"
   },
   {
     "id": 540,
@@ -597,7 +636,8 @@
     "answer": 1,
     "explanation": "Section 29(1) covers the NTA, the NTAA and any other tax law of the National Assembly or a State House of Assembly.",
     "source": "JRB Act 2025 s.29(1)",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "I"
   },
   {
     "id": 541,
@@ -612,7 +652,8 @@
     "answer": 0,
     "explanation": "Section 31 assigns this to RMAFC, and the terms cannot be varied to the Commissioner's disadvantage after appointment.",
     "source": "JRB Act 2025 s.31",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "section": "I"
   },
   {
     "id": 542,
@@ -627,7 +668,8 @@
     "answer": 2,
     "explanation": "Paragraph 2(2) sets 30 days, but paragraph 2(3) lets the Tribunal hear a late appeal on sufficient cause. If no appeal is filed, the assessment becomes final and conclusive.",
     "source": "JRB Act 2025 Second Schedule para 2(2)-(4)",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "I"
   },
   {
     "id": 543,
@@ -642,7 +684,8 @@
     "answer": 0,
     "explanation": "Paragraph 7(5) of the Second Schedule places the onus on the appellant.",
     "source": "JRB Act 2025 Second Schedule para 7(5)",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "section": "I"
   },
   {
     "id": 544,
@@ -657,7 +700,8 @@
     "answer": 2,
     "explanation": "Paragraph 7(6) uses the lesser of the two amounts. Failure to comply confirms the assessment and ends the right of appeal at the Tribunal on that assessment.",
     "source": "JRB Act 2025 Second Schedule para 7(6)-(7)",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "section": "I"
   },
   {
     "id": 545,
@@ -672,7 +716,8 @@
     "answer": 1,
     "explanation": "Paragraph 10(1) of the Second Schedule sets 30 days and limits the appeal to points of law. Paragraph 15 provides a further appeal to the Court of Appeal.",
     "source": "JRB Act 2025 Second Schedule para 10(1), 15",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "section": "I"
   },
   {
     "id": 546,
@@ -687,7 +732,8 @@
     "answer": 2,
     "explanation": "Section 37(1) requires presidential appointment on the Minister's recommendation. The Tax Ombud must be a Nigerian citizen with at least 10 years' experience and serves four years, renewable once.",
     "source": "JRB Act 2025 s.37(1)",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "I"
   },
   {
     "id": 547,
@@ -702,7 +748,8 @@
     "answer": 0,
     "explanation": "Section 43 also excludes matters sub judice and personal grievances of tax officials. Section 41 gives the Office its mediation, investigation and recommendation powers.",
     "source": "JRB Act 2025 s.41; s.43(c)",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "I"
   },
   {
     "id": 548,
@@ -717,7 +764,8 @@
     "answer": 2,
     "explanation": "Paragraph 2(2) sets 14 days, extendable by seven. Paragraph 1(4) bars anonymous complaints.",
     "source": "JRB Act 2025 Third Schedule para 1(4), 2(2)",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "section": "I"
   },
   {
     "id": 549,
@@ -732,7 +780,8 @@
     "answer": 3,
     "explanation": "Section 51(2) sets ₦1,000,000 or up to three years or both. Section 52(2) sets ₦500,000 for official disclosure. The NRS Act's equivalent penalty is up to ₦5,000,000.",
     "source": "JRB Act 2025 s.51(2); s.52(2)",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "section": "I"
   },
   {
     "id": 550,
@@ -747,6 +796,7 @@
     "answer": 1,
     "explanation": "Paragraph 4 sets the quorum at one-third of members including the Chairman. Paragraph 2 requires at least three ordinary meetings a year.",
     "source": "JRB Act 2025 First Schedule para 2, 4",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "section": "I"
   }
 ]

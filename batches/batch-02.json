@@ -12,7 +12,8 @@
     "answer": 3,
     "explanation": "The Act commenced on 30 September 1998. 26 May 2015 is the date of the Amendment Order.",
     "source": "Taxes and Levies (Approved List for Collection) Act, commencement clause",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "I"
   },
   {
     "id": 202,
@@ -27,7 +28,8 @@
     "answer": 2,
     "explanation": "It began as Decree No. 21 of 1998 and survived as an existing law (Cap T2, LFN 2004) under s.315 of the 1999 Constitution.",
     "source": "Taxes and Levies (Approved List for Collection) Act, header (1998 No. 21); Ikeyi & Orji, UNN article [secondary source]",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "I"
   },
   {
     "id": 203,
@@ -42,7 +44,8 @@
     "answer": 0,
     "explanation": "Section 1(1) assigns Part I to the Federal Government, Part II to State Governments and Part III to local governments.",
     "source": "Taxes and Levies (Approved List for Collection) Act, s.1(1)",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "section": "I"
   },
   {
     "id": 204,
@@ -57,7 +60,8 @@
     "answer": 3,
     "explanation": "Section 1(2): the Minister of Finance may amend the Schedule on the advice of the Joint Tax Board by Order published in the Gazette.",
     "source": "Taxes and Levies (Approved List for Collection) Act, s.1(2)",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "I"
   },
   {
     "id": 205,
@@ -72,7 +76,8 @@
     "answer": 0,
     "explanation": "Only the appropriate tax authority may assess or collect the listed taxes and levies.",
     "source": "Taxes and Levies (Approved List for Collection) Act, s.2(1)",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "section": "I"
   },
   {
     "id": 206,
@@ -87,7 +92,8 @@
     "answer": 2,
     "explanation": "Section 2(1): members of the Nigeria Police Force shall only be used in accordance with the provisions of the tax laws.",
     "source": "Taxes and Levies (Approved List for Collection) Act, s.2(1)",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "I"
   },
   {
     "id": 207,
@@ -102,7 +108,8 @@
     "answer": 1,
     "explanation": "Section 2(2): no person, including a tax authority, shall mount a road block anywhere in the Federation to collect any tax or levy.",
     "source": "Taxes and Levies (Approved List for Collection) Act, s.2(2)",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "I"
   },
   {
     "id": 208,
@@ -117,7 +124,8 @@
     "answer": 0,
     "explanation": "Section 3: a fine of ₦50,000 or imprisonment for three years or both.",
     "source": "Taxes and Levies (Approved List for Collection) Act, s.3",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "I"
   },
   {
     "id": 209,
@@ -132,7 +140,8 @@
     "answer": 1,
     "explanation": "Section 3 penalises collecting or levying a tax, or mounting a road block, in contravention of section 2.",
     "source": "Taxes and Levies (Approved List for Collection) Act, s.3",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "section": "I"
   },
   {
     "id": 210,
@@ -147,7 +156,8 @@
     "answer": 0,
     "explanation": "Section 4 defines Government as the Federal, State or local government.",
     "source": "Taxes and Levies (Approved List for Collection) Act, s.4",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "section": "I"
   },
   {
     "id": 211,
@@ -162,7 +172,8 @@
     "answer": 2,
     "explanation": "Section 4 defines the Joint Tax Board as the Board established under the Personal Income Tax Act 1993.",
     "source": "Taxes and Levies (Approved List for Collection) Act, s.4",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "I"
   },
   {
     "id": 212,
@@ -177,7 +188,8 @@
     "answer": 3,
     "explanation": "Section 4: 'levy' includes any fee and charge.",
     "source": "Taxes and Levies (Approved List for Collection) Act, s.4",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "section": "I"
   },
   {
     "id": 213,
@@ -192,7 +204,8 @@
     "answer": 0,
     "explanation": "Section 4(a) names the Federal Board of Inland Revenue, the State Board of Internal Revenue and the Local Government Revenue Committee.",
     "source": "Taxes and Levies (Approved List for Collection) Act, s.4",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "I"
   },
   {
     "id": 214,
@@ -207,7 +220,8 @@
     "answer": 2,
     "explanation": "Sections 1 to 5: responsibility for collecting, assessment and collection, offences, interpretation, and citation.",
     "source": "Taxes and Levies (Approved List for Collection) Act, arrangement of sections",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "section": "I"
   },
   {
     "id": 215,
@@ -222,7 +236,8 @@
     "answer": 1,
     "explanation": "Education tax is listed in Part I. Road taxes and pools betting are State items; tenement rates are a local item.",
     "source": "Taxes and Levies (Approved List for Collection) Act, Schedule, Part I",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "section": "I"
   },
   {
     "id": 216,
@@ -237,7 +252,8 @@
     "answer": 2,
     "explanation": "Road taxes are listed in Part II. Petroleum profits tax and education tax are Federal; tenement rates are local.",
     "source": "Taxes and Levies (Approved List for Collection) Act, Schedule, Part II",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "section": "I"
   },
   {
     "id": 217,
@@ -252,7 +268,8 @@
     "answer": 0,
     "explanation": "Tenement rates are in Part III. VAT and CGT on bodies corporate are Federal; pools betting is a State item.",
     "source": "Taxes and Levies (Approved List for Collection) Act, Schedule, Part III",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "section": "I"
   },
   {
     "id": 218,
@@ -267,7 +284,8 @@
     "answer": 2,
     "explanation": "Part I covers PIT of the armed forces, the Police, FCT residents, Foreign Affairs staff and non-resident individuals. PAYE and direct assessment are State items.",
     "source": "Taxes and Levies (Approved List for Collection) Act, Schedule, Part I",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "I"
   },
   {
     "id": 219,
@@ -282,7 +300,8 @@
     "answer": 3,
     "explanation": "Part II lists withholding tax (individuals only) for States. Part I covers WHT on companies, FCT residents and non-resident individuals.",
     "source": "Taxes and Levies (Approved List for Collection) Act, Schedule, Part II",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "I"
   },
   {
     "id": 220,
@@ -297,7 +316,8 @@
     "answer": 1,
     "explanation": "Part I covers CGT on FCT residents, bodies corporate and non-resident individuals. Part II covers CGT on individuals only.",
     "source": "Taxes and Levies (Approved List for Collection) Act, Schedule, Part I and Part II",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "I"
   },
   {
     "id": 221,
@@ -312,7 +332,8 @@
     "answer": 3,
     "explanation": "Part II lists stamp duties on instruments executed by individuals. Part I covers stamp duties on bodies corporate and FCT residents.",
     "source": "Taxes and Levies (Approved List for Collection) Act, Schedule, Part II",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "I"
   },
   {
     "id": 222,
@@ -327,7 +348,8 @@
     "answer": 0,
     "explanation": "These taxes are listed in Part II of the Schedule.",
     "source": "Taxes and Levies (Approved List for Collection) Act, Schedule, Part II",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "I"
   },
   {
     "id": 223,
@@ -342,7 +364,8 @@
     "answer": 3,
     "explanation": "Part III covers streets outside the State Capital; Part II covers naming of street fees in the State Capital.",
     "source": "Taxes and Levies (Approved List for Collection) Act, Schedule, Part III and Part II",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "section": "I"
   },
   {
     "id": 224,
@@ -357,7 +380,8 @@
     "answer": 1,
     "explanation": "Part III covers markets without State finance; Part II covers markets where State finance is involved.",
     "source": "Taxes and Levies (Approved List for Collection) Act, Schedule, Part III and Part II",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "section": "I"
   },
   {
     "id": 225,
@@ -372,7 +396,8 @@
     "answer": 3,
     "explanation": "Part III covers rural lands; Part II covers lands owned by the State Government in urban areas.",
     "source": "Taxes and Levies (Approved List for Collection) Act, Schedule, Part III and Part II",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "section": "I"
   },
   {
     "id": 226,
@@ -387,7 +412,8 @@
     "answer": 2,
     "explanation": "Cattle tax payable by cattle farmers only is a Part III item.",
     "source": "Taxes and Levies (Approved List for Collection) Act, Schedule, Part III",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "I"
   },
   {
     "id": 227,
@@ -402,7 +428,8 @@
     "answer": 3,
     "explanation": "These fees are a Part III item.",
     "source": "Taxes and Levies (Approved List for Collection) Act, Schedule, Part III",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "section": "I"
   },
   {
     "id": 228,
@@ -417,7 +444,8 @@
     "answer": 0,
     "explanation": "Part III: to be imposed by the local government of the State in which the car is registered.",
     "source": "Taxes and Levies (Approved List for Collection) Act, Schedule, Part III",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "section": "I"
   },
   {
     "id": 229,
@@ -432,7 +460,8 @@
     "answer": 1,
     "explanation": "These fees are a Part III item.",
     "source": "Taxes and Levies (Approved List for Collection) Act, Schedule, Part III",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "I"
   },
   {
     "id": 230,
@@ -447,7 +476,8 @@
     "answer": 0,
     "explanation": "Development levy (individuals only) is a Part II item.",
     "source": "Taxes and Levies (Approved List for Collection) Act, Schedule, Part II",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "I"
   },
   {
     "id": 231,
@@ -462,7 +492,8 @@
     "answer": 3,
     "explanation": "Business premises registration fee is a Part II (State) item.",
     "source": "Taxes and Levies (Approved List for Collection) Act, Schedule, Parts I and II",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "section": "I"
   },
   {
     "id": 232,
@@ -477,7 +508,8 @@
     "answer": 2,
     "explanation": "The original Part I lists eight items: companies income tax, withholding tax, petroleum profits tax, VAT, education tax, capital gains tax, stamp duties and personal income tax.",
     "source": "Taxes and Levies (Approved List for Collection) Act, Schedule, Part I (original text)",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "I"
   },
   {
     "id": 233,
@@ -492,7 +524,8 @@
     "answer": 1,
     "explanation": "The original Part II lists eleven items.",
     "source": "Taxes and Levies (Approved List for Collection) Act, Schedule, Part II (original text)",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "I"
   },
   {
     "id": 234,
@@ -507,7 +540,8 @@
     "answer": 3,
     "explanation": "The original Part III lists twenty items.",
     "source": "Taxes and Levies (Approved List for Collection) Act, Schedule, Part III (original text)",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "I"
   },
   {
     "id": 235,
@@ -522,7 +556,8 @@
     "answer": 2,
     "explanation": "The Order brought the total to 61: 9 in Part I, 25 in Part II, 21 in Part III and 6 in Part IV, up from 39.",
     "source": "Taxes and Levies (Approved List for Collection) Act (Amendment) Order 2015, Schedule [secondary source: TheNigeriaLawyer/BusinessDay summary of the Order]",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "I"
   },
   {
     "id": 236,
@@ -537,7 +572,8 @@
     "answer": 1,
     "explanation": "The Order added the National Information Technology Development Levy to Part I, raising it from eight to nine items.",
     "source": "Taxes and Levies (Approved List for Collection) Act (Amendment) Order 2015, Schedule, Part I [secondary source: TheNigeriaLawyer/BusinessDay summary of the Order]",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "I"
   },
   {
     "id": 237,
@@ -552,7 +588,8 @@
     "answer": 0,
     "explanation": "The Amendment Order was made on 26 May 2015 under s.1(2) of the Act.",
     "source": "Taxes and Levies (Approved List for Collection) Act (Amendment) Order 2015, date of Order [secondary source: TheNigeriaLawyer/BusinessDay summary of the Order]",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "I"
   },
   {
     "id": 238,
@@ -567,7 +604,8 @@
     "answer": 2,
     "explanation": "Part II rose from eleven to twenty-five items.",
     "source": "Taxes and Levies (Approved List for Collection) Act (Amendment) Order 2015, Schedule, Part II [secondary source: TheNigeriaLawyer/BusinessDay summary of the Order]",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "I"
   },
   {
     "id": 239,
@@ -582,7 +620,8 @@
     "answer": 1,
     "explanation": "Land use charge is among the items added to Part II. Education tax and petroleum profits tax are Federal; cattle tax is a local item.",
     "source": "Taxes and Levies (Approved List for Collection) Act (Amendment) Order 2015, Schedule, Part II [secondary source: TheNigeriaLawyer/BusinessDay summary of the Order]",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "I"
   },
   {
     "id": 240,
@@ -597,7 +636,8 @@
     "answer": 3,
     "explanation": "Wharf Landing Charge was added to the local government list, which rose from twenty to twenty-one items.",
     "source": "Taxes and Levies (Approved List for Collection) Act (Amendment) Order 2015, Schedule, Part III [secondary source: TheNigeriaLawyer/BusinessDay summary of the Order]",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "section": "I"
   },
   {
     "id": 241,
@@ -612,7 +652,8 @@
     "answer": 1,
     "explanation": "The sticker is designed by the Joint Tax Board and administered by all the States.",
     "source": "Taxes and Levies (Approved List for Collection) Act (Amendment) Order 2015, Part IV (harmonisation) [secondary source: TheNigeriaLawyer/BusinessDay summary of the Order]",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "section": "I"
   },
   {
     "id": 242,
@@ -627,7 +668,8 @@
     "answer": 2,
     "explanation": "Fire service levy is a charge on business premises and corporate organisations; the Federal Fire Service may collect it only in the FCT, not in States.",
     "source": "Taxes and Levies (Approved List for Collection) Act (Amendment) Order 2015, Part IV (harmonisation) [secondary source: TheNigeriaLawyer/BusinessDay summary of the Order]",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "section": "I"
   },
   {
     "id": 243,
@@ -642,7 +684,8 @@
     "answer": 0,
     "explanation": "It is collected by the State in which the vehicle operates and administered by the Board of Internal Revenue with appropriate agencies.",
     "source": "Taxes and Levies (Approved List for Collection) Act (Amendment) Order 2015, Part IV (harmonisation) [secondary source: TheNigeriaLawyer/BusinessDay summary of the Order]",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "section": "I"
   },
   {
     "id": 244,
@@ -657,7 +700,8 @@
     "answer": 3,
     "explanation": "The JTB designs the sticker; the park operators issue it.",
     "source": "Taxes and Levies (Approved List for Collection) Act (Amendment) Order 2015, Part IV (harmonisation) [secondary source: TheNigeriaLawyer/BusinessDay summary of the Order]",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "section": "I"
   },
   {
     "id": 245,
@@ -672,7 +716,8 @@
     "answer": 1,
     "explanation": "The harmonisation rule provides one haulage fee at the point of loading in the State of departure and one at the point of discharge.",
     "source": "Taxes and Levies (Approved List for Collection) Act (Amendment) Order 2015, Part IV (harmonisation) [secondary source: TheNigeriaLawyer/BusinessDay summary of the Order]",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "section": "I"
   },
   {
     "id": 246,
@@ -687,7 +732,8 @@
     "answer": 3,
     "explanation": "Members of the Joint Tax Board advise the Minister of Finance on amounts payable and periodic rate reviews.",
     "source": "Taxes and Levies (Approved List for Collection) Act (Amendment) Order 2015, Part IV (harmonisation) [secondary source: TheNigeriaLawyer/BusinessDay summary of the Order]",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "I"
   },
   {
     "id": 247,
@@ -702,7 +748,8 @@
     "answer": 2,
     "explanation": "Part IV covers six levies: the inter-State road tax sticker, haulage fee, wharf landing fee, parking permit, fire service levy and road worthiness certificate fee.",
     "source": "Taxes and Levies (Approved List for Collection) Act (Amendment) Order 2015, Part IV (harmonisation) [secondary source: TheNigeriaLawyer/BusinessDay summary of the Order]",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "section": "I"
   },
   {
     "id": 248,
@@ -717,7 +764,8 @@
     "answer": 0,
     "explanation": "The fee is collected by the State where there are facilities to administer it, may be jointly administered with the local government, and proceeds are shared in an agreed proportion.",
     "source": "Taxes and Levies (Approved List for Collection) Act (Amendment) Order 2015, Part IV (harmonisation) [secondary source: TheNigeriaLawyer/BusinessDay summary of the Order]",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "section": "I"
   },
   {
     "id": 249,
@@ -732,7 +780,8 @@
     "answer": 2,
     "explanation": "The amended State list shows signage and mobile advertisement as jointly collected by States and local governments.",
     "source": "Taxes and Levies (Approved List for Collection) Act (Amendment) Order 2015, Schedule, Part II [secondary source: TheNigeriaLawyer/BusinessDay summary of the Order]",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "section": "I"
   },
   {
     "id": 250,
@@ -747,6 +796,7 @@
     "answer": 1,
     "explanation": "Hotel, restaurant or event centre consumption tax was added to Part II. PPT and VAT are Federal; customary burial ground permit fees are local.",
     "source": "Taxes and Levies (Approved List for Collection) Act (Amendment) Order 2015, Schedule, Part II [secondary source: TheNigeriaLawyer/BusinessDay summary of the Order]",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "I"
   }
 ]

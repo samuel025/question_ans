@@ -1,0 +1,626 @@
+[
+  {
+    "id": 901,
+    "section": "I",
+    "topic": "Tax Principles and Public Finance",
+    "question": "Who is credited with formulating the four classical canons of taxation (equity, certainty, convenience, economy)?",
+    "options": [
+      "David Ricardo",
+      "Arthur Laffer",
+      "John Maynard Keynes",
+      "Adam Smith"
+    ],
+    "answer": 3,
+    "explanation": "Adam Smith set out the canons in The Wealth of Nations (1776).",
+    "source": "General tax theory",
+    "difficulty": "easy"
+  },
+  {
+    "id": 902,
+    "section": "I",
+    "topic": "Tax Principles and Public Finance",
+    "question": "The canon of certainty requires that:",
+    "options": [
+      "The amount, time and manner of payment are clear to the taxpayer",
+      "Everyone pays the same amount",
+      "The cost of collection is minimal",
+      "Tax is collected at the most convenient time"
+    ],
+    "answer": 0,
+    "explanation": "Certainty means the taxpayer knows how much, when and how to pay; arbitrariness is excluded.",
+    "source": "General tax theory",
+    "difficulty": "easy"
+  },
+  {
+    "id": 903,
+    "section": "I",
+    "topic": "Tax Principles and Public Finance",
+    "question": "A tax whose burden the person legally liable can pass on to another person is called:",
+    "options": [
+      "An indirect tax",
+      "A direct tax",
+      "A progressive tax",
+      "A poll tax"
+    ],
+    "answer": 0,
+    "explanation": "Indirect taxes such as VAT are shifted to the final consumer; direct taxes such as income tax are borne by the person assessed.",
+    "source": "General tax theory",
+    "difficulty": "easy"
+  },
+  {
+    "id": 904,
+    "section": "I",
+    "topic": "Tax Principles and Public Finance",
+    "question": "Personal income tax is classified as:",
+    "options": [
+      "A tax on consumption",
+      "An excise duty",
+      "A direct tax",
+      "An indirect tax"
+    ],
+    "answer": 2,
+    "explanation": "It is levied directly on the income of the person who bears it.",
+    "source": "General tax theory",
+    "difficulty": "easy"
+  },
+  {
+    "id": 905,
+    "section": "I",
+    "topic": "Tax Principles and Public Finance",
+    "question": "Reducing tax liability by lawful use of reliefs and the provisions of the law is called:",
+    "options": [
+      "Tax fraud",
+      "Tax default",
+      "Tax evasion",
+      "Tax avoidance"
+    ],
+    "answer": 3,
+    "explanation": "Avoidance is lawful arrangement of affairs to minimise tax; evasion is unlawful concealment or misstatement.",
+    "source": "General tax theory",
+    "difficulty": "easy"
+  },
+  {
+    "id": 906,
+    "section": "I",
+    "topic": "Tax Principles and Public Finance",
+    "question": "Deliberate concealment of income or false statements to reduce tax liability is called:",
+    "options": [
+      "Tax planning",
+      "Tax avoidance",
+      "Tax evasion",
+      "Tax incidence"
+    ],
+    "answer": 2,
+    "explanation": "Evasion is illegal and attracts penalties and prosecution.",
+    "source": "General tax theory",
+    "difficulty": "easy"
+  },
+  {
+    "id": 907,
+    "section": "I",
+    "topic": "Tax Principles and Public Finance",
+    "question": "In a progressive tax system, as taxable income rises the:",
+    "options": [
+      "Tax is abolished",
+      "Rate of tax falls",
+      "Rate of tax rises",
+      "Rate stays constant"
+    ],
+    "answer": 2,
+    "explanation": "Progressive systems apply higher marginal rates to higher bands of income.",
+    "source": "General tax theory",
+    "difficulty": "easy"
+  },
+  {
+    "id": 908,
+    "section": "I",
+    "topic": "Tax Principles and Public Finance",
+    "question": "A tax that takes a larger proportion of income from low earners than from high earners is:",
+    "options": [
+      "Regressive",
+      "Ad valorem",
+      "Progressive",
+      "Proportional"
+    ],
+    "answer": 0,
+    "explanation": "Regressive taxes weigh more heavily on lower incomes.",
+    "source": "General tax theory",
+    "difficulty": "medium"
+  },
+  {
+    "id": 909,
+    "section": "I",
+    "topic": "Tax Principles and Public Finance",
+    "question": "The 'incidence' of a tax refers to:",
+    "options": [
+      "The date it is due",
+      "The person who finally bears the burden",
+      "The authority that collects it",
+      "The law that imposes it"
+    ],
+    "answer": 1,
+    "explanation": "Incidence identifies who ultimately bears the economic burden.",
+    "source": "General tax theory",
+    "difficulty": "medium"
+  },
+  {
+    "id": 910,
+    "section": "I",
+    "topic": "Tax Principles and Public Finance",
+    "question": "The Laffer curve illustrates the relationship between:",
+    "options": [
+      "Exchange rate and imports",
+      "Inflation and unemployment",
+      "Tax rates and tax revenue",
+      "Income and consumption"
+    ],
+    "answer": 2,
+    "explanation": "It suggests revenue rises with rates up to a point and then falls.",
+    "source": "General tax theory",
+    "difficulty": "medium"
+  },
+  {
+    "id": 911,
+    "section": "I",
+    "topic": "Tax Principles and Public Finance",
+    "question": "The 'tax gap' is the difference between:",
+    "options": [
+      "Budget and actual expenditure",
+      "Tax theoretically due and tax actually collected",
+      "Federal and state revenue",
+      "Direct and indirect tax"
+    ],
+    "answer": 1,
+    "explanation": "It measures lost revenue from evasion, errors and non-compliance.",
+    "source": "General tax theory",
+    "difficulty": "medium"
+  },
+  {
+    "id": 912,
+    "section": "I",
+    "topic": "Tax Principles and Public Finance",
+    "question": "A tax is said to be 'buoyant' when:",
+    "options": [
+      "It applies only to companies",
+      "Its rate is fixed by law",
+      "Revenue grows more than proportionately as the economy grows",
+      "It is collected at source"
+    ],
+    "answer": 2,
+    "explanation": "Buoyancy measures the response of tax revenue to GDP growth, including discretionary changes.",
+    "source": "General tax theory",
+    "difficulty": "hard"
+  },
+  {
+    "id": 913,
+    "section": "I",
+    "topic": "Tax Principles and Public Finance",
+    "question": "Which body shares revenue from the Federation Account among the three tiers of government?",
+    "options": [
+      "Federation Account Allocation Committee (FAAC)",
+      "Budget Office of the Federation",
+      "Revenue Mobilisation Allocation and Fiscal Commission",
+      "Joint Tax Board"
+    ],
+    "answer": 0,
+    "explanation": "FAAC, chaired by the Minister of Finance, meets monthly to distribute allocations; RMAFC recommends the formula.",
+    "source": "1999 Constitution, s.162",
+    "difficulty": "medium"
+  },
+  {
+    "id": 914,
+    "section": "I",
+    "topic": "Tax Principles and Public Finance",
+    "question": "Which body determines the revenue allocation formula and monitors accruals into the Federation Account?",
+    "options": [
+      "Central Bank of Nigeria",
+      "Bureau of Public Procurement",
+      "Fiscal Responsibility Commission",
+      "Revenue Mobilisation Allocation and Fiscal Commission (RMAFC)"
+    ],
+    "answer": 3,
+    "explanation": "RMAFC is established under the Third Schedule, Part I of the 1999 Constitution.",
+    "source": "1999 Constitution, Third Schedule",
+    "difficulty": "medium"
+  },
+  {
+    "id": 915,
+    "section": "I",
+    "topic": "Tax Principles and Public Finance",
+    "question": "What minimum percentage of mineral revenue is paid to oil and gas producing states on the principle of derivation?",
+    "options": [
+      "5%",
+      "20%",
+      "10%",
+      "13%"
+    ],
+    "answer": 3,
+    "explanation": "Section 162(2) provides for not less than 13% on the principle of derivation.",
+    "source": "1999 Constitution, s.162(2)",
+    "difficulty": "medium"
+  },
+  {
+    "id": 916,
+    "section": "I",
+    "topic": "Tax Principles and Public Finance",
+    "question": "The Treasury Single Account (TSA) policy requires government revenues to be:",
+    "options": [
+      "Paid into a single account at the Central Bank of Nigeria",
+      "Kept by each MDA in commercial banks",
+      "Retained by the collecting agency",
+      "Paid into states' accounts first"
+    ],
+    "answer": 0,
+    "explanation": "The TSA consolidates government cash balances to improve transparency and reduce leakages.",
+    "source": "Federal Government TSA policy",
+    "difficulty": "easy"
+  },
+  {
+    "id": 917,
+    "section": "I",
+    "topic": "Tax Principles and Public Finance",
+    "question": "The Fiscal Responsibility Act 2007 established which body to monitor compliance with fiscal rules?",
+    "options": [
+      "Fiscal Responsibility Commission",
+      "Budget Monitoring Unit",
+      "Office of the Accountant-General",
+      "Debt Management Office"
+    ],
+    "answer": 0,
+    "explanation": "The Act promotes prudent management of public resources and created the Fiscal Responsibility Commission.",
+    "source": "Fiscal Responsibility Act 2007",
+    "difficulty": "medium"
+  },
+  {
+    "id": 918,
+    "section": "I",
+    "topic": "Tax Principles and Public Finance",
+    "question": "The Medium Term Expenditure Framework (MTEF) is:",
+    "options": [
+      "A yearly salary scale",
+      "An audit standard",
+      "A tax collection manual",
+      "A three-year rolling plan of revenue and expenditure"
+    ],
+    "answer": 3,
+    "explanation": "The MTEF/Fiscal Strategy Paper guides the annual budget over three years.",
+    "source": "Public finance management",
+    "difficulty": "medium"
+  },
+  {
+    "id": 919,
+    "section": "I",
+    "topic": "Tax Principles and Public Finance",
+    "question": "Which Act established the Bureau of Public Procurement (BPP)?",
+    "options": [
+      "Finance Act 2019",
+      "Public Service Rules 2021",
+      "Public Procurement Act 2007",
+      "Fiscal Responsibility Act 2007"
+    ],
+    "answer": 2,
+    "explanation": "The Public Procurement Act 2007 created the BPP and the National Council on Public Procurement.",
+    "source": "Public Procurement Act 2007",
+    "difficulty": "easy"
+  },
+  {
+    "id": 920,
+    "section": "I",
+    "topic": "Tax Principles and Public Finance",
+    "question": "Which Nigerian agency collects customs and excise duties at the borders?",
+    "options": [
+      "Nigerian Ports Authority",
+      "Nigeria Customs Service",
+      "Nigeria Revenue Service",
+      "Nigeria Immigration Service"
+    ],
+    "answer": 1,
+    "explanation": "Customs administers import and export duties and related levies.",
+    "source": "Customs and Excise Management Act",
+    "difficulty": "easy"
+  },
+  {
+    "id": 921,
+    "section": "I",
+    "topic": "Tax Principles and Public Finance",
+    "question": "The Tax Identification Number (TIN) is used primarily to:",
+    "options": [
+      "Pay pension contributions",
+      "Vote in elections",
+      "Identify a taxpayer uniquely across tax authorities",
+      "Register a vehicle"
+    ],
+    "answer": 2,
+    "explanation": "A TIN uniquely identifies each taxable person and supports compliance and clearance.",
+    "source": "Tax administration",
+    "difficulty": "easy"
+  },
+  {
+    "id": 922,
+    "section": "I",
+    "topic": "Tax Principles and Public Finance",
+    "question": "Input VAT is:",
+    "options": [
+      "VAT paid on purchases by a registered business",
+      "VAT charged on its sales",
+      "VAT paid on salaries",
+      "VAT refunded to consumers"
+    ],
+    "answer": 0,
+    "explanation": "A registered person generally offsets input VAT against output VAT and remits the difference.",
+    "source": "VAT principles",
+    "difficulty": "medium"
+  },
+  {
+    "id": 923,
+    "section": "I",
+    "topic": "Tax Principles and Public Finance",
+    "question": "Output VAT is:",
+    "options": [
+      "VAT charged by a registered business on its taxable supplies",
+      "VAT paid on imports only",
+      "Tax on dividends",
+      "VAT paid by non-residents only"
+    ],
+    "answer": 0,
+    "explanation": "Output VAT less deductible input VAT gives the net amount payable.",
+    "source": "VAT principles",
+    "difficulty": "medium"
+  },
+  {
+    "id": 924,
+    "section": "I",
+    "topic": "Tax Principles and Public Finance",
+    "question": "Which of these is a consumption tax?",
+    "options": [
+      "Value Added Tax",
+      "Personal income tax",
+      "Petroleum profits tax",
+      "Capital gains tax"
+    ],
+    "answer": 0,
+    "explanation": "VAT is levied on the consumption of goods and services.",
+    "source": "General tax theory",
+    "difficulty": "easy"
+  },
+  {
+    "id": 925,
+    "section": "I",
+    "topic": "Tax Principles and Public Finance",
+    "question": "PAYE stands for:",
+    "options": [
+      "Personal Assessment of Yearly Earnings",
+      "Pay As You Earn",
+      "Pay After Year End",
+      "Payment Authorised by Employers"
+    ],
+    "answer": 1,
+    "explanation": "PAYE requires employers to deduct tax from emoluments at source and remit it.",
+    "source": "Tax administration",
+    "difficulty": "easy"
+  },
+  {
+    "id": 926,
+    "section": "I",
+    "topic": "Tax Principles and Public Finance",
+    "question": "Tax withheld at source on certain payments and credited against the recipient's final liability is called:",
+    "options": [
+      "Excise duty",
+      "Withholding tax",
+      "Stamp duty",
+      "Development levy"
+    ],
+    "answer": 1,
+    "explanation": "Withholding tax is an advance payment of the recipient's income tax.",
+    "source": "Tax administration",
+    "difficulty": "easy"
+  },
+  {
+    "id": 927,
+    "section": "I",
+    "topic": "Tax Principles and Public Finance",
+    "question": "Relief given where the same income is taxed in two countries is called:",
+    "options": [
+      "Tax holiday",
+      "Capital allowance",
+      "Amnesty",
+      "Double taxation relief"
+    ],
+    "answer": 3,
+    "explanation": "Double taxation agreements and unilateral relief prevent the same income being taxed twice.",
+    "source": "International taxation",
+    "difficulty": "medium"
+  },
+  {
+    "id": 928,
+    "section": "I",
+    "topic": "Tax Principles and Public Finance",
+    "question": "Pricing of transactions between related companies in different jurisdictions is governed by:",
+    "options": [
+      "Customs valuation only",
+      "Transfer pricing rules",
+      "Stamp duty rules",
+      "Excise tariffs"
+    ],
+    "answer": 1,
+    "explanation": "The arm's length principle underpins transfer pricing.",
+    "source": "International taxation",
+    "difficulty": "medium"
+  },
+  {
+    "id": 929,
+    "section": "I",
+    "topic": "Tax Principles and Public Finance",
+    "question": "The 'arm's length principle' requires related-party transactions to be priced:",
+    "options": [
+      "As if between independent parties",
+      "At cost",
+      "At the government rate",
+      "At zero margin"
+    ],
+    "answer": 0,
+    "explanation": "This prevents profit shifting between related entities.",
+    "source": "International taxation",
+    "difficulty": "medium"
+  },
+  {
+    "id": 930,
+    "section": "I",
+    "topic": "Tax Principles and Public Finance",
+    "question": "BEPS, as used in international tax, stands for:",
+    "options": [
+      "Base Erosion and Profit Shifting",
+      "Budget Estimates and Public Spending",
+      "Benefit Equalisation and Payment Scheme",
+      "Banking Exchange Payment System"
+    ],
+    "answer": 0,
+    "explanation": "The OECD/G20 BEPS project addresses strategies that shift profits to low-tax jurisdictions.",
+    "source": "International taxation",
+    "difficulty": "medium"
+  },
+  {
+    "id": 931,
+    "section": "I",
+    "topic": "Tax Principles and Public Finance",
+    "question": "A capital allowance is:",
+    "options": [
+      "A grant to taxpayers",
+      "A tax-deductible substitute for accounting depreciation",
+      "A penalty for late payment",
+      "A tax on assets"
+    ],
+    "answer": 1,
+    "explanation": "Accounting depreciation is added back and capital allowances are claimed instead.",
+    "source": "Income tax principles",
+    "difficulty": "medium"
+  },
+  {
+    "id": 932,
+    "section": "I",
+    "topic": "Tax Principles and Public Finance",
+    "question": "Expenditure is deductible for tax if it is wholly, reasonably, exclusively and necessarily incurred for:",
+    "options": [
+      "Earning the income",
+      "Paying a fine",
+      "Personal comfort of the owner",
+      "Acquiring a capital asset"
+    ],
+    "answer": 0,
+    "explanation": "Capital expenditure, personal expenses and fines are generally not deductible.",
+    "source": "Income tax principles",
+    "difficulty": "medium"
+  },
+  {
+    "id": 933,
+    "section": "I",
+    "topic": "Tax Principles and Public Finance",
+    "question": "A tax audit conducted at the tax authority's office using submitted returns and documents is a:",
+    "options": [
+      "Investigation visit",
+      "Forensic audit",
+      "Field audit",
+      "Desk audit"
+    ],
+    "answer": 3,
+    "explanation": "A field audit takes place on the taxpayer's premises.",
+    "source": "Tax audit",
+    "difficulty": "easy"
+  },
+  {
+    "id": 934,
+    "section": "I",
+    "topic": "Tax Principles and Public Finance",
+    "question": "Which tax is charged on documents such as agreements and receipts?",
+    "options": [
+      "Withholding tax",
+      "Capital gains tax",
+      "Stamp duty",
+      "Customs duty"
+    ],
+    "answer": 2,
+    "explanation": "Stamp duty is a tax on instruments.",
+    "source": "Stamp Duties Act",
+    "difficulty": "easy"
+  },
+  {
+    "id": 935,
+    "section": "I",
+    "topic": "Tax Principles and Public Finance",
+    "question": "Tax amnesty is:",
+    "options": [
+      "A new tax",
+      "A permanent exemption",
+      "A waiver of penalties and interest for voluntary disclosure and payment",
+      "A refund of VAT"
+    ],
+    "answer": 2,
+    "explanation": "Amnesties encourage compliance by forgiving past defaults.",
+    "source": "Tax administration",
+    "difficulty": "medium"
+  },
+  {
+    "id": 936,
+    "section": "I",
+    "topic": "Tax Principles and Public Finance",
+    "question": "The accrual basis of accounting records income and expenses:",
+    "options": [
+      "At year end only",
+      "When earned or incurred, not when cash moves",
+      "Only when cash is received or paid",
+      "At the tax authority's discretion"
+    ],
+    "answer": 1,
+    "explanation": "The cash basis records at the time of payment or receipt.",
+    "source": "Accounting principles",
+    "difficulty": "medium"
+  },
+  {
+    "id": 937,
+    "section": "I",
+    "topic": "Tax Principles and Public Finance",
+    "question": "Taxes are compulsory payments to government that are:",
+    "options": [
+      "Not linked to a specific benefit received",
+      "Paid only by companies",
+      "Voluntary",
+      "Refundable on demand"
+    ],
+    "answer": 0,
+    "explanation": "Unlike fees, taxes are not payments for a specific service.",
+    "source": "General tax theory",
+    "difficulty": "easy"
+  },
+  {
+    "id": 938,
+    "section": "I",
+    "topic": "Tax Principles and Public Finance",
+    "question": "A tax levied at the same rate regardless of income level is a:",
+    "options": [
+      "Regressive tax",
+      "Proportional (flat) tax",
+      "Lump-sum grant",
+      "Progressive tax"
+    ],
+    "answer": 1,
+    "explanation": "A flat tax applies one rate to all taxable income.",
+    "source": "General tax theory",
+    "difficulty": "easy"
+  },
+  {
+    "id": 939,
+    "section": "I",
+    "topic": "Tax Principles and Public Finance",
+    "question": "The Integrated Payroll and Personnel Information System (IPPIS) is used mainly to:",
+    "options": [
+      "Issue TINs",
+      "Collect VAT",
+      "Audit companies",
+      "Pay federal workers from a central, biometrically verified database"
+    ],
+    "answer": 3,
+    "explanation": "IPPIS was introduced to remove ghost workers and manage payroll.",
+    "source": "Federal Government public finance reform",
+    "difficulty": "medium"
+  }
+]

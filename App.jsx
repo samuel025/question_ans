@@ -19,6 +19,44 @@ const allQuestions = loaded.filter((q) => {
   return true
 })
 
+const SECTIONS = [
+  { id: 'I', name: 'Technical Questions (Career Path)' },
+  { id: 'II', name: 'The FCT-IRS Act, 2015' },
+  { id: 'III', name: 'Public Service Rules (PSR) 2021' },
+  { id: 'IV', name: 'Current Affairs' },
+]
+const sectionName = (id) => {
+  const s = SECTIONS.find((x) => x.id === id)
+  return s ? `Section ${s.id} - ${s.name}` : id
+}
+
+// Build an exam ordered by section. For all sections, the total is split evenly
+// (spare slots go to sections that have more questions available).
+function buildExam(scope, total) {
+  const bySec = (id) =>
+    allQuestions.filter((q) => q.section === id)
+  if (scope !== 'all') {
+    const p = shuffle(bySec(scope))
+    return total === 'all' ? p : p.slice(0, total)
+  }
+  const pools = SECTIONS.map((x) => shuffle(bySec(x.id)))
+  const avail = pools.reduce((n, p) => n + p.length, 0)
+  let left = total === 'all' ? avail : Math.min(total, avail)
+  const take = pools.map(() => 0)
+  while (left > 0) {
+    let moved = false
+    for (let i = 0; i < pools.length && left > 0; i++) {
+      if (take[i] < pools[i].length) {
+        take[i]++
+        left--
+        moved = true
+      }
+    }
+    if (!moved) break
+  }
+  return pools.flatMap((p, i) => p.slice(0, take[i]))
+}
+
 const KEY = 'fctirs-mock-history'
 const COUNT_OPTIONS = [25, 50, 100, 'all']
 const TIME_OPTIONS = [10, 15, 30, 45, 60, 90, 120] // minutes
@@ -62,36 +100,30 @@ export default function App() {
   const [index, setIndex] = useState(0)
   const [answers, setAnswers] = useState([])
   const [history, setHistory] = useState(loadHistory)
-  const [topic, setTopic] = useState('all')
+  const [scope, setScope] = useState('all')
   const [count, setCount] = useState(50)
-  const [examTopic, setExamTopic] = useState('all')
+  const [examScope, setExamScope] = useState('all')
   const [minutes, setMinutes] = useState(30)
   const [remaining, setRemaining] = useState(0)
   const [timedOut, setTimedOut] = useState(false)
   const endTime = useRef(0)
-  const latest = useRef({ questions: [], answers: [], examTopic: 'all', history: [] })
+  const latest = useRef({ questions: [], answers: [], examScope: 'all', history: [] })
   useEffect(() => {
-    latest.current = { questions, answers, examTopic, history }
+    latest.current = { questions, answers, examScope, history }
   })
 
-  const topics = useMemo(
-    () => [...new Set(allQuestions.map((q) => q.topic))],
-    []
-  )
-
   const pool = useMemo(
-    () => (topic === 'all' ? allQuestions : allQuestions.filter((q) => q.topic === topic)),
-    [topic]
+    () =>
+      allQuestions.filter((q) => scope === 'all' || q.section === scope),
+    [scope]
   )
 
   const examSize = count === 'all' ? pool.length : Math.min(count, pool.length)
 
   function start(retakeSameSettings = false) {
-    const t = retakeSameSettings ? examTopic : topic
-    const p = t === 'all' ? allQuestions : allQuestions.filter((q) => q.topic === t)
-    const size = count === 'all' ? p.length : Math.min(count, p.length)
-    const qs = shuffle(p).slice(0, size)
-    setExamTopic(t)
+    const sc = retakeSameSettings ? examScope : scope
+    const qs = buildExam(sc, count)
+    setExamScope(sc)
     setQuestions(qs)
     setIndex(0)
     setAnswers(qs.map(() => null))
@@ -102,11 +134,11 @@ export default function App() {
   }
 
   function finish(auto = false) {
-    const { questions: qs, answers: ans, examTopic: et, history: hist } = latest.current
+    const { questions: qs, answers: ans, examScope: es, history: hist } = latest.current
     const score = ans.filter((a, i) => a === qs[i].answer).length
     const entry = {
       date: new Date().toLocaleString(),
-      topic: et === 'all' ? 'All topics' : et,
+      topic: es === 'all' ? 'All sections' : `Section ${es}`,
       score,
       total: qs.length,
     }
@@ -149,16 +181,19 @@ export default function App() {
           <h1>FCTIRS Mock Exam</h1>
           <p className="muted">
             Assistant Director Tax promotion practice. {allQuestions.length} questions
-            available across {topics.length} topics.
+            available across {SECTIONS.length} sections.
           </p>
 
           <label className="field">
-            <span>Topic</span>
-            <select value={topic} onChange={(e) => setTopic(e.target.value)}>
-              <option value="all">All topics ({allQuestions.length})</option>
-              {topics.map((t) => (
-                <option key={t} value={t}>
-                  {t} ({allQuestions.filter((q) => q.topic === t).length})
+            <span>Section</span>
+            <select
+              value={scope}
+              onChange={(e) => setScope(e.target.value)}
+            >
+              <option value="all">Full exam - all four sections ({allQuestions.length})</option>
+              {SECTIONS.map((x) => (
+                <option key={x.id} value={x.id}>
+                  {sectionName(x.id)} ({allQuestions.filter((q) => q.section === x.id).length})
                 </option>
               ))}
             </select>
@@ -192,7 +227,8 @@ export default function App() {
           </label>
 
           <p className="muted">
-            This exam: {examSize} questions, {minutes} minutes. It submits automatically when
+            This exam: {examSize} questions, {minutes} minutes.
+            {scope === 'all' ? ' Questions are shared across Sections I-IV and presented section by section.' : ''} It submits automatically when
             time runs out. Answers are shown at the end.
           </p>
           <button className="btn" onClick={() => start(false)} disabled={examSize === 0}>
@@ -235,11 +271,28 @@ export default function App() {
             {score}/{questions.length} ({pct}%)
           </div>
 
+          <h2>Score by section</h2>
+          {SECTIONS.filter((x) => questions.some((q) => q.section === x.id)).map((x) => {
+            const idx = questions.map((q, i) => (q.section === x.id ? i : -1)).filter((i) => i >= 0)
+            const sc = idx.filter((i) => answers[i] === questions[i].answer).length
+            return (
+              <div className="history-row" key={x.id}>
+                <span>{sectionName(x.id)}</span>
+                <strong>
+                  {sc}/{idx.length}
+                </strong>
+              </div>
+            )
+          })}
+
           <h2>Review</h2>
           {questions.map((q, i) => {
             const correct = answers[i] === q.answer
             return (
               <div key={q.id} style={{ marginBottom: 16 }}>
+                {(i === 0 || questions[i - 1].section !== q.section) && (
+                  <h3 className="section-head">{sectionName(q.section)}</h3>
+                )}
                 <strong>
                   {i + 1}. {q.question}
                 </strong>
@@ -285,6 +338,7 @@ export default function App() {
           />
         </div>
 
+        <div className="muted section-tag">{sectionName(q.section)}</div>
         <h2>{q.question}</h2>
 
         {q.options.map((opt, i) => (
@@ -303,6 +357,33 @@ export default function App() {
         <button className="btn" onClick={next}>
           {last ? 'Submit' : 'Next'}
         </button>
+      </div>
+
+      <div className="card" style={{ marginTop: 16 }}>
+        <h2>Question index</h2>
+        {SECTIONS.filter((x) => questions.some((qq) => qq.section === x.id)).map((x) => (
+          <div key={x.id} className="index-section">
+            <div className="muted section-tag">{sectionName(x.id)}</div>
+            <div className="index-grid">
+              {questions.map((qq, i) =>
+                qq.section !== x.id ? null : (
+                  <button
+                    key={qq.id}
+                    className={`index-btn${answers[i] !== null ? ' answered' : ''}${i === index ? ' current' : ''}`}
+                    onClick={() => setIndex(i)}
+                    aria-label={`Go to question ${i + 1}`}
+                  >
+                    {i + 1}
+                  </button>
+                )
+              )}
+            </div>
+          </div>
+        ))}
+        <p className="muted">
+          {answers.filter((a) => a !== null).length} of {questions.length} answered. Blue = answered,
+          outlined = current.
+        </p>
       </div>
     </div>
   )

@@ -12,7 +12,8 @@
     "answer": 3,
     "explanation": "Section 36(2) preserves an audit that commenced before the six-year period ended. Section 36(4) separately removes the limit for deliberate misstatement.",
     "source": "NTAA 2025 s.36(2)",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "I"
   },
   {
     "id": 602,
@@ -27,7 +28,8 @@
     "answer": 1,
     "explanation": "Section 36(5) requires all relevant facts to be considered, including facts unknown at the time of the prior assessment.",
     "source": "NTAA 2025 s.36(5)",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "section": "I"
   },
   {
     "id": 603,
@@ -42,7 +44,8 @@
     "answer": 2,
     "explanation": "Section 35(4) allows a jeopardy assessment for any year before the time to deliver a return or give notice expires.",
     "source": "NTAA 2025 s.35(4)",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "section": "I"
   },
   {
     "id": 604,
@@ -57,7 +60,8 @@
     "answer": 0,
     "explanation": "Section 38(1)(a) provides for a deemed profit assessment on a fair and reasonable percentage of gross income. For non-residents, section 38(1)(b) applies the profit margin to Nigerian turnover.",
     "source": "NTAA 2025 s.38(1)(a)",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "I"
   },
   {
     "id": 605,
@@ -72,7 +76,8 @@
     "answer": 2,
     "explanation": "Section 38(2) defines profit margin by reference to EBIT over revenue, using comparable companies where the person publishes no statements.",
     "source": "NTAA 2025 s.38(2)",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "section": "I"
   },
   {
     "id": 606,
@@ -87,7 +92,8 @@
     "answer": 0,
     "explanation": "Section 44(2) lists names and addresses, the person in whose name the taxpayer is chargeable, total profits, tax payable and other particulars the authority determines.",
     "source": "NTAA 2025 s.44(2)",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "I"
   },
   {
     "id": 607,
@@ -102,7 +108,8 @@
     "answer": 2,
     "explanation": "Section 45 makes the manager or principal officer answerable for the acts required to assess the company and pay its tax.",
     "source": "NTAA 2025 s.45",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "I"
   },
   {
     "id": 608,
@@ -117,7 +124,8 @@
     "answer": 1,
     "explanation": "Section 46(1) lets the authority disregard the disposition or transaction or make counteracting adjustments. Section 46(3) gives the person a right of appeal as if the direction were an assessment.",
     "source": "NTAA 2025 s.46(1), (3)",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "I"
   },
   {
     "id": 609,
@@ -132,7 +140,8 @@
     "answer": 3,
     "explanation": "Section 47(1) places the burden on the taxable person to satisfy the authority that the benefit accords with the object and purpose of the provisions.",
     "source": "NTAA 2025 s.47(1)",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "section": "I"
   },
   {
     "id": 610,
@@ -147,7 +156,8 @@
     "answer": 1,
     "explanation": "Section 47(2) lists main purpose, conflict with the object and purpose of the law, misuse or abuse of the provisions, and lack of commercial substance.",
     "source": "NTAA 2025 s.47(2)",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "I"
   },
   {
     "id": 611,
@@ -162,7 +172,8 @@
     "answer": 2,
     "explanation": "Section 48 provides for information exchange (section 48(1)) and referral or joint audit (section 48(2)).",
     "source": "NTAA 2025 s.48(1)-(2)",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "I"
   },
   {
     "id": 612,
@@ -177,7 +188,8 @@
     "answer": 0,
     "explanation": "Section 30(1) requires disclosure without notice or request. Regulations may set the form, timing and administrative penalties (section 30(2)).",
     "source": "NTAA 2025 s.30(1)-(2)",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "I"
   },
   {
     "id": 613,
@@ -192,7 +204,8 @@
     "answer": 3,
     "explanation": "Section 30(3) includes relief, repayment, avoidance or reduction of a charge or assessment, deferral of payment, advancement of a repayment, and avoidance of an obligation to deduct or account for tax.",
     "source": "NTAA 2025 s.30(3)(f)",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "section": "I"
   },
   {
     "id": 614,
@@ -207,7 +220,8 @@
     "answer": 1,
     "explanation": "Section 31(1) applies to every person regardless of tax liability.",
     "source": "NTAA 2025 s.31(1)",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "section": "I"
   },
   {
     "id": 615,
@@ -222,7 +236,8 @@
     "answer": 2,
     "explanation": "Section 31(3)-(4) requires English-language books or a certified translation at the person's own cost.",
     "source": "NTAA 2025 s.31(3)-(4)",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "I"
   },
   {
     "id": 616,
@@ -237,7 +252,8 @@
     "answer": 0,
     "explanation": "Section 41(4) gives the authority information and summons powers for the purposes of the objection.",
     "source": "NTAA 2025 s.41(4)",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "I"
   },
   {
     "id": 617,
@@ -252,7 +268,8 @@
     "answer": 3,
     "explanation": "Section 43(1) also covers amounts agreed on objection, revised on objection, or agreed, revised or determined on appeal.",
     "source": "NTAA 2025 s.43(1)",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "I"
   },
   {
     "id": 618,
@@ -267,7 +284,8 @@
     "answer": 1,
     "explanation": "Section 57(1)(e) covers electronically stored records, including cloud facilities maintained, operated, controlled or owned by the person.",
     "source": "NTAA 2025 s.57(1)(e)",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "I"
   },
   {
     "id": 619,
@@ -282,7 +300,8 @@
     "answer": 0,
     "explanation": "Section 57(3) preserves the audit and investigation power regardless of the form in which records are stored.",
     "source": "NTAA 2025 s.57(3)",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "I"
   },
   {
     "id": 620,
@@ -297,7 +316,8 @@
     "answer": 3,
     "explanation": "Section 57(4) requires an application made before expiry with good cause shown. Section 57(5) lets the authority grant or limit the extension in writing.",
     "source": "NTAA 2025 s.57(4)-(5)",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "section": "I"
   },
   {
     "id": 621,
@@ -312,7 +332,8 @@
     "answer": 2,
     "explanation": "Section 57(6) requires a declaration or attestation of truth and correctness.",
     "source": "NTAA 2025 s.57(6)",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "I"
   },
   {
     "id": 622,
@@ -327,7 +348,8 @@
     "answer": 3,
     "explanation": "Section 58(1) gives wide access powers, including to computers, servers and electronic media.",
     "source": "NTAA 2025 s.58(1)",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "section": "I"
   },
   {
     "id": 623,
@@ -342,7 +364,8 @@
     "answer": 1,
     "explanation": "Section 58(2) is aimed at preventing accidental or intentional destruction, removal or alteration of records.",
     "source": "NTAA 2025 s.58(2)",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "section": "I"
   },
   {
     "id": 624,
@@ -357,7 +380,8 @@
     "answer": 0,
     "explanation": "Section 58(3) allows exact duplicate copies to be made and used as digital evidence in investigation or criminal proceedings.",
     "source": "NTAA 2025 s.58(3)",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "section": "I"
   },
   {
     "id": 625,
@@ -372,7 +396,8 @@
     "answer": 3,
     "explanation": "Section 58(5)-(6): consent of an occupier, or a warrant on application to a judicial officer.",
     "source": "NTAA 2025 s.58(5)-(6)",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "I"
   },
   {
     "id": 626,
@@ -387,7 +412,8 @@
     "answer": 1,
     "explanation": "Section 58(8) requires production on first entry and whenever reasonably required afterwards.",
     "source": "NTAA 2025 s.58(8)",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "I"
   },
   {
     "id": 627,
@@ -402,7 +428,8 @@
     "answer": 3,
     "explanation": "Section 59(1) requires authorisation by the Chairman. The documents must be returned as soon as practicable (section 59(2)).",
     "source": "NTAA 2025 s.59(1)-(2)",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "I"
   },
   {
     "id": 628,
@@ -417,7 +444,8 @@
     "answer": 1,
     "explanation": "Section 59(3) gives certified copies and digital evidence the same evidential status as originals.",
     "source": "NTAA 2025 s.59(3)",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "I"
   },
   {
     "id": 629,
@@ -432,7 +460,8 @@
     "answer": 2,
     "explanation": "Section 59(5) provides that a person shall bear any cost incurred in removing the items.",
     "source": "NTAA 2025 s.59(5)",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "section": "I"
   },
   {
     "id": 630,
@@ -447,7 +476,8 @@
     "answer": 0,
     "explanation": "Section 59(6) requires a written receipt. Section 59(4) lets the owner inspect and copy the items at the owner's expense.",
     "source": "NTAA 2025 s.59(4), (6)",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "I"
   },
   {
     "id": 631,
@@ -462,7 +492,8 @@
     "answer": 3,
     "explanation": "Section 60(1) is the power of substitution. It also applies where the agent holds or is expected to hold the taxable person's money, funds or assets.",
     "source": "NTAA 2025 s.60(1)",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "I"
   },
   {
     "id": 632,
@@ -477,7 +508,8 @@
     "answer": 2,
     "explanation": "Section 60(3) extends enforcement against the defaulting agent. Section 60(5) applies the objection and appeal provisions to the notice.",
     "source": "NTAA 2025 s.60(3), (5)",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "section": "I"
   },
   {
     "id": 633,
@@ -492,7 +524,8 @@
     "answer": 1,
     "explanation": "Section 61(1) requires a final and conclusive assessment and an unpaid demand notice.",
     "source": "NTAA 2025 s.61(1)",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "I"
   },
   {
     "id": 634,
@@ -507,7 +540,8 @@
     "answer": 0,
     "explanation": "Section 61(3) limits forced entry to the day time and provides for police assistance.",
     "source": "NTAA 2025 s.61(3)",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "section": "I"
   },
   {
     "id": 635,
@@ -522,7 +556,8 @@
     "answer": 1,
     "explanation": "Section 61(8) protects immovable property from sale without a court order.",
     "source": "NTAA 2025 s.61(8)",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "section": "I"
   },
   {
     "id": 636,
@@ -537,7 +572,8 @@
     "answer": 3,
     "explanation": "Section 62(4) requires the taxpayer to supply the access information for books, records and computers.",
     "source": "NTAA 2025 s.62(4)",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "I"
   },
   {
     "id": 637,
@@ -552,7 +588,8 @@
     "answer": 0,
     "explanation": "Section 62(5) requires a same-gender searcher.",
     "source": "NTAA 2025 s.62(5)",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "section": "I"
   },
   {
     "id": 638,
@@ -567,7 +604,8 @@
     "answer": 2,
     "explanation": "Section 63 provides for notification to the relevant licensing body so that the licence or lease can be revoked under the relevant law.",
     "source": "NTAA 2025 s.63",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "section": "I"
   },
   {
     "id": 639,
@@ -582,7 +620,8 @@
     "answer": 0,
     "explanation": "Section 64(1) allows investigation on its own initiative and arrest through law enforcement agencies.",
     "source": "NTAA 2025 s.64(1)",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "I"
   },
   {
     "id": 640,
@@ -597,7 +636,8 @@
     "answer": 3,
     "explanation": "Section 64(2) provides for Special Purpose Tax Officers and permits the authority to seek assistance from law enforcement agencies.",
     "source": "NTAA 2025 s.64(2)",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "I"
   },
   {
     "id": 641,
@@ -612,7 +652,8 @@
     "answer": 2,
     "explanation": "Section 64(5) provides a preservation order. Section 64(6) protects the person complying from legal proceedings.",
     "source": "NTAA 2025 s.64(5)-(6)",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "section": "I"
   },
   {
     "id": 642,
@@ -627,7 +668,8 @@
     "answer": 3,
     "explanation": "Section 67(6) sets a six-year limit with an exception for untrue documents or statements.",
     "source": "NTAA 2025 s.67(4)-(6)",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "section": "I"
   },
   {
     "id": 643,
@@ -642,7 +684,8 @@
     "answer": 0,
     "explanation": "Section 69(1)-(2) excludes employees and their relatives and requires confidentiality of the informant's identity.",
     "source": "NTAA 2025 s.69(1)-(2)",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "I"
   },
   {
     "id": 644,
@@ -657,7 +700,8 @@
     "answer": 3,
     "explanation": "Section 4(1)(f) of the NRS Act covers losses from tax fraud and evasion and revenue foregone from waivers.",
     "source": "NRS Act 2025 s.4(1)(f)",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "I"
   },
   {
     "id": 645,
@@ -672,7 +716,8 @@
     "answer": 2,
     "explanation": "Section 4(1)(s) gives the Service oversight powers to query, subpoena, sanction or reward activity relating to revenue accruable to the Federation.",
     "source": "NRS Act 2025 s.4(1)(s)",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "section": "I"
   },
   {
     "id": 646,
@@ -687,7 +732,8 @@
     "answer": 0,
     "explanation": "Section 104 penalises failure to use the fiscalisation system at ₦200,000 plus 100% of the tax due, with interest.",
     "source": "NTAA 2025 s.104 [secondary source]",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "section": "I"
   },
   {
     "id": 647,
@@ -702,7 +748,8 @@
     "answer": 1,
     "explanation": "Section 105 sets a penalty of 40% of the amount not deducted.",
     "source": "NTAA 2025 s.105 [secondary source]",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "I"
   },
   {
     "id": 648,
@@ -717,7 +764,8 @@
     "answer": 2,
     "explanation": "Section 116 provides up to five years for carrying an offensive weapon while committing an offence. Injuring a tax officer while armed carries up to ten years.",
     "source": "NTAA 2025 s.116 [secondary source]",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "section": "I"
   },
   {
     "id": 649,
@@ -732,7 +780,8 @@
     "answer": 0,
     "explanation": "Section 117 provides up to ₦1,000,000 or up to three years or both.",
     "source": "NTAA 2025 s.117 [secondary source]",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "section": "I"
   },
   {
     "id": 650,
@@ -747,6 +796,7 @@
     "answer": 1,
     "explanation": "Section 86 prevents taxpayers from using pending litigation to suspend compliance, except as ordered by a court or tribunal.",
     "source": "NTAA 2025 s.86",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "I"
   }
 ]

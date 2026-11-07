@@ -169,3 +169,47 @@ h2 {
 .timer.low {
   color: #dc2626;
 }
+
+.section-head {
+  margin: 24px 0 12px;
+  padding-bottom: 6px;
+  border-bottom: 2px solid #e5e7eb;
+}
+
+.section-tag {
+  font-size: 13px;
+  font-weight: 600;
+  margin-bottom: 4px;
+}
+
+.index-section {
+  margin-bottom: 12px;
+}
+
+.index-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+
+.index-btn {
+  width: 38px;
+  height: 34px;
+  border: 1px solid #d1d5db;
+  border-radius: 6px;
+  background: #fff;
+  color: #111827;
+  cursor: pointer;
+  font-size: 13px;
+}
+
+.index-btn.answered {
+  background: #2563eb;
+  border-color: #2563eb;
+  color: #fff;
+}
+
+.index-btn.current {
+  outline: 2px solid #111827;
+  outline-offset: 1px;
+}

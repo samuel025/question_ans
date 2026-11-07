@@ -1,0 +1,354 @@
+[
+  {
+    "id": 1001,
+    "section": "III",
+    "topic": "Public Service Administration",
+    "question": "Which constitutional body is responsible for appointment, promotion and discipline of federal civil servants of senior grade, within its delegated powers?",
+    "options": [
+      "Revenue Mobilisation Allocation and Fiscal Commission",
+      "Federal Civil Service Commission",
+      "National Judicial Council",
+      "Federal Character Commission"
+    ],
+    "answer": 1,
+    "explanation": "The Commission is established under the Third Schedule, Part I of the 1999 Constitution.",
+    "source": "1999 Constitution, s.153 and Third Schedule",
+    "difficulty": "easy"
+  },
+  {
+    "id": 1002,
+    "section": "III",
+    "topic": "Public Service Administration",
+    "question": "The Head of the Civil Service of the Federation is appointed by:",
+    "options": [
+      "The Chief Justice",
+      "The President",
+      "The Senate President",
+      "The Federal Civil Service Commission"
+    ],
+    "answer": 1,
+    "explanation": "The Head of Service is appointed by the President (s.171).",
+    "source": "1999 Constitution, s.171",
+    "difficulty": "medium"
+  },
+  {
+    "id": 1003,
+    "section": "III",
+    "topic": "Public Service Administration",
+    "question": "The Permanent Secretary of a ministry is its:",
+    "options": [
+      "Legislative representative",
+      "Accounting Officer",
+      "Auditor",
+      "Political head"
+    ],
+    "answer": 1,
+    "explanation": "The Minister is the political head; the Permanent Secretary is the accounting officer and administrative head.",
+    "source": "Public Service Rules 2021",
+    "difficulty": "easy"
+  },
+  {
+    "id": 1004,
+    "section": "III",
+    "topic": "Public Service Administration",
+    "question": "The principle that public servants should serve governments of any political party without bias is called:",
+    "options": [
+      "Political neutrality",
+      "Federal character",
+      "Seniority",
+      "Tenure"
+    ],
+    "answer": 0,
+    "explanation": "The civil service is expected to be impartial and non-partisan.",
+    "source": "Public Service Rules 2021",
+    "difficulty": "easy"
+  },
+  {
+    "id": 1005,
+    "section": "III",
+    "topic": "Public Service Administration",
+    "question": "The principle of 'Federal Character' in public appointments is contained in:",
+    "options": [
+      "Section 1 of the FCT-IRS Act",
+      "Section 14(3) of the 1999 Constitution",
+      "Section 25 of the Nigeria Tax Act",
+      "Section 100 of the Pension Reform Act"
+    ],
+    "answer": 1,
+    "explanation": "It requires the composition of government to reflect the diversity of the people and avoid dominance by a few.",
+    "source": "1999 Constitution, s.14(3)",
+    "difficulty": "medium"
+  },
+  {
+    "id": 1006,
+    "section": "III",
+    "topic": "Public Service Administration",
+    "question": "The Official Secrets Act is concerned with:",
+    "options": [
+      "Recruitment of civil servants",
+      "Taxing secret income",
+      "Regulating public holidays",
+      "Protecting classified government information"
+    ],
+    "answer": 3,
+    "explanation": "Public officers must not disclose classified information without authority.",
+    "source": "Official Secrets Act",
+    "difficulty": "easy"
+  },
+  {
+    "id": 1007,
+    "section": "III",
+    "topic": "Public Service Administration",
+    "question": "Under the Freedom of Information Act 2011, a public institution must respond to a request for information within:",
+    "options": [
+      "Fourteen days",
+      "Thirty days",
+      "Twenty-four hours",
+      "Seven days"
+    ],
+    "answer": 3,
+    "explanation": "Section 4 requires a decision within seven days.",
+    "source": "Freedom of Information Act 2011, s.4",
+    "difficulty": "medium"
+  },
+  {
+    "id": 1008,
+    "section": "III",
+    "topic": "Public Service Administration",
+    "question": "The Contributory Pension Scheme in Nigeria is governed by:",
+    "options": [
+      "Pensions Act 1979",
+      "Labour Act 1974",
+      "Finance Act 2019",
+      "Pension Reform Act 2014"
+    ],
+    "answer": 3,
+    "explanation": "The 2014 Act repealed the 2004 Act and governs the contributory scheme.",
+    "source": "Pension Reform Act 2014",
+    "difficulty": "easy"
+  },
+  {
+    "id": 1009,
+    "section": "III",
+    "topic": "Public Service Administration",
+    "question": "Under the Pension Reform Act 2014, the minimum monthly pension contribution by an employee is:",
+    "options": [
+      "5%",
+      "8% of monthly emoluments",
+      "10%",
+      "15%"
+    ],
+    "answer": 1,
+    "explanation": "The employer contributes at least 10%; the employee at least 8%.",
+    "source": "Pension Reform Act 2014, s.4",
+    "difficulty": "medium"
+  },
+  {
+    "id": 1010,
+    "section": "III",
+    "topic": "Public Service Administration",
+    "question": "Under the Pension Reform Act 2014, the minimum monthly contribution by the employer is:",
+    "options": [
+      "8%",
+      "10% of monthly emoluments",
+      "5%",
+      "20%"
+    ],
+    "answer": 1,
+    "explanation": "Employee 8%, employer 10%, totalling at least 18%.",
+    "source": "Pension Reform Act 2014, s.4",
+    "difficulty": "medium"
+  },
+  {
+    "id": 1011,
+    "section": "III",
+    "topic": "Public Service Administration",
+    "question": "Which body regulates and supervises pension administration in Nigeria?",
+    "options": [
+      "Corporate Affairs Commission",
+      "National Pension Commission (PenCom)",
+      "Securities and Exchange Commission",
+      "Nigeria Social Insurance Trust Fund"
+    ],
+    "answer": 1,
+    "explanation": "PenCom is established by the Pension Reform Act.",
+    "source": "Pension Reform Act 2014",
+    "difficulty": "easy"
+  },
+  {
+    "id": 1012,
+    "section": "III",
+    "topic": "Public Service Administration",
+    "question": "The Public Service Rules 2021 edition added paternity leave of:",
+    "options": [
+      "Three months",
+      "7 working days",
+      "14 working days",
+      "30 working days"
+    ],
+    "answer": 2,
+    "explanation": "The FEC approved 14 working days of paternity leave.",
+    "source": "Public Service Rules 2021",
+    "difficulty": "medium"
+  },
+  {
+    "id": 1013,
+    "section": "III",
+    "topic": "Public Service Administration",
+    "question": "The Performance Management System (PMS) introduced in the Public Service is used mainly for:",
+    "options": [
+      "Appraising officers' performance against agreed targets",
+      "Registering taxpayers",
+      "Paying salaries",
+      "Auditing the budget"
+    ],
+    "answer": 0,
+    "explanation": "PMS ties appraisal and career progression to results.",
+    "source": "Public Service Rules 2021",
+    "difficulty": "medium"
+  },
+  {
+    "id": 1014,
+    "section": "III",
+    "topic": "Public Service Administration",
+    "question": "The Annual Performance Evaluation Report (APER) is used for:",
+    "options": [
+      "Reviewing the national budget",
+      "Calculating pensions",
+      "Assessing officers for promotion and career decisions",
+      "Auditing contracts"
+    ],
+    "answer": 2,
+    "explanation": "APER forms record an officer's annual performance.",
+    "source": "Public Service Rules 2021",
+    "difficulty": "medium"
+  },
+  {
+    "id": 1015,
+    "section": "III",
+    "topic": "Public Service Administration",
+    "question": "Which of the following is a form of official correspondence discipline in the civil service?",
+    "options": [
+      "Using personal email only",
+      "Sending files directly to the President",
+      "Use of the chain of command",
+      "Writing to the media"
+    ],
+    "answer": 2,
+    "explanation": "Official communication follows the channels of the hierarchy.",
+    "source": "Public Service Rules 2021",
+    "difficulty": "easy"
+  },
+  {
+    "id": 1016,
+    "section": "III",
+    "topic": "Public Service Administration",
+    "question": "A public officer who accepts a bribe commits:",
+    "options": [
+      "A criminal offence and serious misconduct",
+      "A civil dispute",
+      "A leave offence",
+      "A minor lapse"
+    ],
+    "answer": 0,
+    "explanation": "Bribery is an offence under the Corrupt Practices Act and a ground for dismissal.",
+    "source": "Public Service Rules 2021; ICPC Act 2000",
+    "difficulty": "easy"
+  },
+  {
+    "id": 1017,
+    "section": "III",
+    "topic": "Public Service Administration",
+    "question": "The Independent Corrupt Practices and Other Related Offences Commission (ICPC) was established in:",
+    "options": [
+      "2000",
+      "2003",
+      "1999",
+      "2010"
+    ],
+    "answer": 0,
+    "explanation": "The ICPC Act was signed in 2000.",
+    "source": "Corrupt Practices Act 2000",
+    "difficulty": "easy"
+  },
+  {
+    "id": 1018,
+    "section": "III",
+    "topic": "Public Service Administration",
+    "question": "The Public Service Rules are applicable to:",
+    "options": [
+      "Only private sector staff",
+      "Only state public servants",
+      "Federal public servants",
+      "Only the military"
+    ],
+    "answer": 2,
+    "explanation": "They govern the conduct and conditions of service of federal public officers.",
+    "source": "Public Service Rules 2021",
+    "difficulty": "easy"
+  },
+  {
+    "id": 1019,
+    "section": "III",
+    "topic": "Public Service Administration",
+    "question": "Leave granted to an officer to attend a course of study is called:",
+    "options": [
+      "Sick leave",
+      "Study leave",
+      "Casual leave",
+      "Paternity leave"
+    ],
+    "answer": 1,
+    "explanation": "Study leave may be with or without pay as the rules provide.",
+    "source": "Public Service Rules 2021",
+    "difficulty": "easy"
+  },
+  {
+    "id": 1020,
+    "section": "III",
+    "topic": "Public Service Administration",
+    "question": "Which of these is a ground for compulsory retirement of a public officer?",
+    "options": [
+      "Winning a promotion",
+      "Being transferred",
+      "Attaining the retirement age or length of service prescribed",
+      "Taking annual leave"
+    ],
+    "answer": 2,
+    "explanation": "Retirement age and years of service are fixed by the rules.",
+    "source": "Public Service Rules 2021",
+    "difficulty": "easy"
+  },
+  {
+    "id": 1021,
+    "section": "III",
+    "topic": "Public Service Administration",
+    "question": "Confirmation of appointment depends on:",
+    "options": [
+      "A recommendation by the Minister only",
+      "Payment of a fee",
+      "Satisfactory completion of probation and the required examination",
+      "Seniority alone"
+    ],
+    "answer": 2,
+    "explanation": "Probation and confirmation examinations are conditions for confirmation.",
+    "source": "Public Service Rules 2021",
+    "difficulty": "medium"
+  },
+  {
+    "id": 1022,
+    "section": "III",
+    "topic": "Public Service Administration",
+    "question": "What is the term for an officer standing in temporarily for a higher office?",
+    "options": [
+      "Acting appointment",
+      "Probation",
+      "Secondment",
+      "Redeployment"
+    ],
+    "answer": 0,
+    "explanation": "Acting appointments are subject to rules on duration and approval.",
+    "source": "Public Service Rules 2021",
+    "difficulty": "easy"
+  }
+]

@@ -12,7 +12,8 @@
     "answer": 1,
     "explanation": "Section 1(1) establishes the Service; section 3 establishes the Board.",
     "source": "FCT-IRS Act 2015, s.1(1)",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "section": "II"
   },
   {
     "id": 102,
@@ -27,7 +28,8 @@
     "answer": 3,
     "explanation": "Commencement is 27 February 2015. The Act was published in the Official Gazette of 4 March 2015.",
     "source": "FCT-IRS Act 2015, Commencement clause",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "II"
   },
   {
     "id": 103,
@@ -42,7 +44,8 @@
     "answer": 0,
     "explanation": "Section 1(2) makes the Service a body corporate with perpetual succession and a common seal that may sue and be sued in its corporate name.",
     "source": "FCT-IRS Act 2015, s.1(2)",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "section": "II"
   },
   {
     "id": 104,
@@ -57,7 +60,8 @@
     "answer": 2,
     "explanation": "Section 2: control and administer the taxes and laws specified in the First Schedule and account for all taxes collected.",
     "source": "FCT-IRS Act 2015, s.2",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "II"
   },
   {
     "id": 105,
@@ -72,7 +76,8 @@
     "answer": 1,
     "explanation": "Section 3(2)(a) and 3(3): the Chairman is appointed by the Minister of the FCT, subject to the approval of the National Assembly.",
     "source": "FCT-IRS Act 2015, s.3(2)(a), s.3(3)",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "II"
   },
   {
     "id": 106,
@@ -87,7 +92,8 @@
     "answer": 0,
     "explanation": "Section 3(2)(b): the FCT Director of Treasury is Deputy Chairman.",
     "source": "FCT-IRS Act 2015, s.3(2)(b)",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "II"
   },
   {
     "id": 107,
@@ -102,7 +108,8 @@
     "answer": 3,
     "explanation": "Section 3(2)(d): six persons from the six geopolitical zones, knowledgeable in tax matters, two of whom must be women.",
     "source": "FCT-IRS Act 2015, s.3(2)(d)",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "II"
   },
   {
     "id": 108,
@@ -117,7 +124,8 @@
     "answer": 2,
     "explanation": "Section 3(4): members other than the Chairman are part-time members.",
     "source": "FCT-IRS Act 2015, s.3(4)",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "section": "II"
   },
   {
     "id": 109,
@@ -132,7 +140,8 @@
     "answer": 0,
     "explanation": "Section 4(a): a term of four years renewable once only.",
     "source": "FCT-IRS Act 2015, s.4(a)",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "section": "II"
   },
   {
     "id": 110,
@@ -147,7 +156,8 @@
     "answer": 1,
     "explanation": "Section 5(1) lists resignation, unsound mind, bankruptcy, conviction, incapacity, serious misconduct, removal by the Minister, Code of Conduct breach, professional disqualification and ceasing to hold a qualifying office. Absence from meetings is not listed.",
     "source": "FCT-IRS Act 2015, s.5(1)",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "section": "II"
   },
   {
     "id": 111,
@@ -162,7 +172,8 @@
     "answer": 3,
     "explanation": "Section 5(2): another person representing the same interest is appointed for the unexpired term.",
     "source": "FCT-IRS Act 2015, s.5(2)",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "II"
   },
   {
     "id": 112,
@@ -177,7 +188,8 @@
     "answer": 2,
     "explanation": "Section 6: such emoluments, allowances and benefits as may be approved by the Minister.",
     "source": "FCT-IRS Act 2015, s.6",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "section": "II"
   },
   {
     "id": 113,
@@ -192,7 +204,8 @@
     "answer": 0,
     "explanation": "Section 7(1)(c) gives the Board this function. The TAC is established by the Minister (s.50), magistrates are designated by the Chief Judge (s.47) and regulations are made by the Minister (s.84).",
     "source": "FCT-IRS Act 2015, s.7(1)(c)",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "II"
   },
   {
     "id": 114,
@@ -207,7 +220,8 @@
     "answer": 3,
     "explanation": "Section 7(1)(e): recommendations to the Joint Tax Board.",
     "source": "FCT-IRS Act 2015, s.7(1)(e)",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "II"
   },
   {
     "id": 115,
@@ -222,7 +236,8 @@
     "answer": 1,
     "explanation": "Section 8(1)(g): issue a taxpayer identification number to every person taxable in the FCT.",
     "source": "FCT-IRS Act 2015, s.8(1)(g)",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "section": "II"
   },
   {
     "id": 116,
@@ -237,7 +252,8 @@
     "answer": 2,
     "explanation": "Section 8(1)(p): administer, collect and enforce payment of property tax in the FCT.",
     "source": "FCT-IRS Act 2015, s.8(1)(p)",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "section": "II"
   },
   {
     "id": 117,
@@ -252,7 +268,8 @@
     "answer": 0,
     "explanation": "Section 8(1)(f): adopt measures to identify, trace, freeze, confiscate or seize the proceeds of tax fraud or evasion.",
     "source": "FCT-IRS Act 2015, s.8(1)(f)",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "II"
   },
   {
     "id": 118,
@@ -267,7 +284,8 @@
     "answer": 1,
     "explanation": "Section 7(2)(g) excludes income tax assessment from what may be delegated to external practitioners.",
     "source": "FCT-IRS Act 2015, s.7(2)(g)",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "section": "II"
   },
   {
     "id": 119,
@@ -282,7 +300,8 @@
     "answer": 3,
     "explanation": "Section 9(1): the Technical Committee comprises the Chairman, two Directors from within the Service, and the Director of Legal Services or a representative not below Director rank.",
     "source": "FCT-IRS Act 2015, s.9(1)",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "II"
   },
   {
     "id": 120,
@@ -297,7 +316,8 @@
     "answer": 2,
     "explanation": "Section 11(a): Chief Executive and Accounting Officer of the Service.",
     "source": "FCT-IRS Act 2015, s.11(a)",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "section": "II"
   },
   {
     "id": 121,
@@ -312,7 +332,8 @@
     "answer": 1,
     "explanation": "Section 12(1)(a): the Secretary is appointed by the Board within the Service.",
     "source": "FCT-IRS Act 2015, s.12(1)(a)",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "II"
   },
   {
     "id": 122,
@@ -327,7 +348,8 @@
     "answer": 0,
     "explanation": "Section 13(2): approval by the Minister and publication in the FCT Gazette.",
     "source": "FCT-IRS Act 2015, s.13(2)",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "II"
   },
   {
     "id": 123,
@@ -342,7 +364,8 @@
     "answer": 2,
     "explanation": "Section 62: failure to remit within 30 days of deduction (or of the duty to deduct arising) is an offence, with the tax withheld, a 10% per annum penalty and interest at the prevailing commercial rate.",
     "source": "FCT-IRS Act 2015, s.62",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "section": "II"
   },
   {
     "id": 124,
@@ -357,7 +380,8 @@
     "answer": 3,
     "explanation": "Section 15(a): an amount not more than 5% of all revenues collected in the preceding year, subject to appropriation.",
     "source": "FCT-IRS Act 2015, s.15(a)",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "II"
   },
   {
     "id": 125,
@@ -372,7 +396,8 @@
     "answer": 0,
     "explanation": "Section 17(1): not later than 30th September in each year.",
     "source": "FCT-IRS Act 2015, s.17(1)",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "II"
   },
   {
     "id": 126,
@@ -387,7 +412,8 @@
     "answer": 1,
     "explanation": "Section 17(2): audited within six months after the end of each year.",
     "source": "FCT-IRS Act 2015, s.17(2)",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "II"
   },
   {
     "id": 127,
@@ -402,7 +428,8 @@
     "answer": 2,
     "explanation": "Section 20(3): the Service shall not borrow in foreign currency without the prior approval of the Minister.",
     "source": "FCT-IRS Act 2015, s.20(3)",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "II"
   },
   {
     "id": 128,
@@ -417,7 +444,8 @@
     "answer": 0,
     "explanation": "Section 22(3) refers to paragraph 10 of the First Schedule to the FIRS (Establishment) Act 2007.",
     "source": "FCT-IRS Act 2015, s.22(3)",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "section": "II"
   },
   {
     "id": 129,
@@ -432,7 +460,8 @@
     "answer": 3,
     "explanation": "Section 23(3): they may be charged jointly or severally and are jointly and severally liable for payment.",
     "source": "FCT-IRS Act 2015, s.23(3)",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "II"
   },
   {
     "id": 130,
@@ -447,7 +476,8 @@
     "answer": 1,
     "explanation": "Section 24(2): any two daily national newspapers.",
     "source": "FCT-IRS Act 2015, s.24(2)",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "section": "II"
   },
   {
     "id": 131,
@@ -462,7 +492,8 @@
     "answer": 2,
     "explanation": "Section 24(6): within one month after the end of the year.",
     "source": "FCT-IRS Act 2015, s.24(6)",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "section": "II"
   },
   {
     "id": 132,
@@ -477,7 +508,8 @@
     "answer": 0,
     "explanation": "Section 26(2)(b): the Service may refuse the return and determine the assessment to the best of its judgment.",
     "source": "FCT-IRS Act 2015, s.26(2)(b)",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "II"
   },
   {
     "id": 133,
@@ -492,7 +524,8 @@
     "answer": 3,
     "explanation": "Section 26(4): no assessment is made on PAYE emoluments unless, within six years after the end of the year, the employee applied to be assessed for repayment or otherwise.",
     "source": "FCT-IRS Act 2015, s.26(4)",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "section": "II"
   },
   {
     "id": 134,
@@ -507,7 +540,8 @@
     "answer": 1,
     "explanation": "Section 28(c): within 21 days from the date of notice.",
     "source": "FCT-IRS Act 2015, s.28(c)",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "II"
   },
   {
     "id": 135,
@@ -522,7 +556,8 @@
     "answer": 2,
     "explanation": "Section 30(2): within 30 days from the date of service of the notice of assessment.",
     "source": "FCT-IRS Act 2015, s.30(2)",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "section": "II"
   },
   {
     "id": 136,
@@ -537,7 +572,8 @@
     "answer": 3,
     "explanation": "Section 31(1): within two weeks of receipt of the application.",
     "source": "FCT-IRS Act 2015, s.31(1)",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "II"
   },
   {
     "id": 137,
@@ -552,7 +588,8 @@
     "answer": 0,
     "explanation": "Section 31(1)(a)(i) and 31(8): the three years immediately preceding the current year of assessment.",
     "source": "FCT-IRS Act 2015, s.31(1)(a)(i)",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "section": "II"
   },
   {
     "id": 138,
@@ -567,7 +604,8 @@
     "answer": 2,
     "explanation": "Section 31(3): failure to remit withholding tax or PAYE deductions collected on behalf of the FCT bars issuance.",
     "source": "FCT-IRS Act 2015, s.31(3)",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "II"
   },
   {
     "id": 139,
@@ -582,7 +620,8 @@
     "answer": 1,
     "explanation": "Section 31(2): electronic format on a machine-readable smart card (Electronic Tax Clearance Certificate).",
     "source": "FCT-IRS Act 2015, s.31(2)",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "II"
   },
   {
     "id": 140,
@@ -597,7 +636,8 @@
     "answer": 3,
     "explanation": "Section 32(1): between 9 a.m. and 4 p.m.",
     "source": "FCT-IRS Act 2015, s.32(1)",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "II"
   },
   {
     "id": 141,
@@ -612,7 +652,8 @@
     "answer": 0,
     "explanation": "Section 32(5)-(6): entry needs the occupier's consent or a written authorisation issued by the Chairman.",
     "source": "FCT-IRS Act 2015, s.32(5)-(6)",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "section": "II"
   },
   {
     "id": 142,
@@ -627,7 +668,8 @@
     "answer": 2,
     "explanation": "Section 32(7)(c): valid for 3 months, and renewable by the Chairman on application.",
     "source": "FCT-IRS Act 2015, s.32(7)(c)",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "section": "II"
   },
   {
     "id": 143,
@@ -642,7 +684,8 @@
     "answer": 1,
     "explanation": "Section 34(3): a sum equal to 10 per cent of the tax payable is added, and interest runs at the prevailing CBN commercial rate.",
     "source": "FCT-IRS Act 2015, s.34(3)",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "II"
   },
   {
     "id": 144,
@@ -657,7 +700,8 @@
     "answer": 3,
     "explanation": "Section 35(5): kept for 14 days, after which they may be sold if the amount due is not paid.",
     "source": "FCT-IRS Act 2015, s.35(5)",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "II"
   },
   {
     "id": 145,
@@ -672,7 +716,8 @@
     "answer": 0,
     "explanation": "Section 35(7): the sale of immovable property requires an order of a Federal High Court.",
     "source": "FCT-IRS Act 2015, s.35(7)",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "II"
   },
   {
     "id": 146,
@@ -687,7 +732,8 @@
     "answer": 1,
     "explanation": "Section 36(1): a debt due to the FCT, recoverable by civil action brought by the Board.",
     "source": "FCT-IRS Act 2015, s.36(1)",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "section": "II"
   },
   {
     "id": 147,
@@ -702,7 +748,8 @@
     "answer": 2,
     "explanation": "Section 42(2): a fine of ₦200,000 or imprisonment for 3 years or both.",
     "source": "FCT-IRS Act 2015, s.42(2)",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "section": "II"
   },
   {
     "id": 148,
@@ -717,7 +764,8 @@
     "answer": 3,
     "explanation": "Section 47: at least two magistrates in each Area Council.",
     "source": "FCT-IRS Act 2015, s.47",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "II"
   },
   {
     "id": 149,
@@ -732,7 +780,8 @@
     "answer": 1,
     "explanation": "Section 50(7)(b): a period of 3 years from the date of appointment.",
     "source": "FCT-IRS Act 2015, s.50(7)(b)",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "II"
   },
   {
     "id": 150,
@@ -747,6 +796,7 @@
     "answer": 0,
     "explanation": "Section 57(1): a fine of ₦200,000, or imprisonment not exceeding 6 months, or both.",
     "source": "FCT-IRS Act 2015, s.57(1)",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "section": "II"
   }
 ]

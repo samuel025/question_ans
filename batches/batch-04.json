@@ -12,7 +12,8 @@
     "answer": 0,
     "explanation": "Section 1 provides uniform procedures for consistent and efficient tax administration in order to facilitate compliance and optimise revenue.",
     "source": "NTAA 2025 s.1",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "section": "I"
   },
   {
     "id": 402,
@@ -27,7 +28,8 @@
     "answer": 2,
     "explanation": "Section 3(1)(a)(iv) gives the Service exclusive responsibility for taxes on non-residents deriving profit or income from Nigeria. Resident individuals fall to State or FCT authorities under section 3(2).",
     "source": "NTAA 2025 s.3(1)(a)(iv); s.3(2)",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "I"
   },
   {
     "id": 403,
@@ -42,7 +44,8 @@
     "answer": 3,
     "explanation": "Section 3(1)(a)(ii) covers military and police personnel (other than in a civilian capacity). Section 3(1)(a)(iii) adds officers of the Nigerian Foreign Service.",
     "source": "NTAA 2025 s.3(1)(a)(ii)-(iii)",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "section": "I"
   },
   {
     "id": 404,
@@ -57,7 +60,8 @@
     "answer": 1,
     "explanation": "Companies and non-residents are reserved to the Service. State and FCT authorities administer income tax of resident individuals, other than military, police, foreign service and non-resident categories.",
     "source": "NTAA 2025 s.3(2)",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "I"
   },
   {
     "id": 405,
@@ -72,7 +76,8 @@
     "answer": 3,
     "explanation": "Section 81(2) shares the States' and local governments' VAT revenue 50% equally, 20% population and 30% consumption, with consumption determined by place of consumption.",
     "source": "NTAA 2025 s.81(2)-(3)",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "section": "I"
   },
   {
     "id": 406,
@@ -87,7 +92,8 @@
     "answer": 1,
     "explanation": "The proviso to section 6(1) relieves such a person of registration but not of the duty to supply prescribed information.",
     "source": "NTAA 2025 s.6(1) proviso",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "section": "I"
   },
   {
     "id": 407,
@@ -102,7 +108,8 @@
     "answer": 3,
     "explanation": "Section 7(2) requires notice of the refusal, with reasons, within five working days of the decision.",
     "source": "NTAA 2025 s.7(2)",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "I"
   },
   {
     "id": 408,
@@ -117,7 +124,8 @@
     "answer": 1,
     "explanation": "Section 7(7) makes a Tax ID non-transferable, section 7(5) bars a second ID, and section 7(3) lets the authority register a person who should have applied but did not.",
     "source": "NTAA 2025 s.7(3), (5), (7)",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "I"
   },
   {
     "id": 409,
@@ -132,7 +140,8 @@
     "answer": 2,
     "explanation": "Section 8(1)(c) makes the Tax ID a condition for contracting with federal, State and local government bodies.",
     "source": "NTAA 2025 s.8(1)(c)",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "section": "I"
   },
   {
     "id": 410,
@@ -147,7 +156,8 @@
     "answer": 3,
     "explanation": "Section 9(1) sets 30 days. Changes include name, registered address and, for a company, any person holding 5% or more of its share capital.",
     "source": "NTAA 2025 s.9(1)-(2)",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "I"
   },
   {
     "id": 411,
@@ -162,7 +172,8 @@
     "answer": 2,
     "explanation": "The proviso allows a small company to attach an attested statement of accounts instead of audited financial statements.",
     "source": "NTAA 2025 s.11(1)(b) proviso",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "I"
   },
   {
     "id": 412,
@@ -177,7 +188,8 @@
     "answer": 3,
     "explanation": "Section 11(5)(b) uses the earlier of the two dates.",
     "source": "NTAA 2025 s.11(5)(b)",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "section": "I"
   },
   {
     "id": 413,
@@ -192,7 +204,8 @@
     "answer": 1,
     "explanation": "Section 11(5)(a) sets six months after the end of the accounting year.",
     "source": "NTAA 2025 s.11(5)(a)",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "section": "I"
   },
   {
     "id": 414,
@@ -207,7 +220,8 @@
     "answer": 0,
     "explanation": "Section 13(1) requires a return in each year of assessment without notice or demand from every taxable person, whether or not liable.",
     "source": "NTAA 2025 s.13(1)",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "I"
   },
   {
     "id": 415,
@@ -222,7 +236,8 @@
     "answer": 2,
     "explanation": "Section 14(1) sets 31 January for the preceding year's emoluments. Employees still file their own annual returns under section 13.",
     "source": "NTAA 2025 s.14(1), (3)",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "section": "I"
   },
   {
     "id": 416,
@@ -237,7 +252,8 @@
     "answer": 1,
     "explanation": "Section 16(1) requires the estimated return within two months of the start of each accounting period.",
     "source": "NTAA 2025 s.16(1)",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "I"
   },
   {
     "id": 417,
@@ -252,7 +268,8 @@
     "answer": 0,
     "explanation": "Section 18(2) sets the 14th day, whether or not production has taken place. Mineral royalty returns (section 20(2)) are due by the 21st.",
     "source": "NTAA 2025 s.18(2); s.20(2)",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "section": "I"
   },
   {
     "id": 418,
@@ -267,7 +284,8 @@
     "answer": 3,
     "explanation": "Section 22(1) sets the 21st day of the following month, whether or not an economic activity has taken place.",
     "source": "NTAA 2025 s.22(1)",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "section": "I"
   },
   {
     "id": 419,
@@ -282,7 +300,8 @@
     "answer": 0,
     "explanation": "Section 22(2) states that an extension of the filing period does not imply an extension of time to pay.",
     "source": "NTAA 2025 s.22(2)",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "I"
   },
   {
     "id": 420,
@@ -297,7 +316,8 @@
     "answer": 1,
     "explanation": "Section 22(5) allows a small business to opt out of the exemption by written notice to the Service. It does not apply to petroleum operations companies (section 22(9)).",
     "source": "NTAA 2025 s.22(5), (9)",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "section": "I"
   },
   {
     "id": 421,
@@ -312,7 +332,8 @@
     "answer": 0,
     "explanation": "Section 23(1) requires use of the Electronic Fiscal System for recording and reporting all supplies once it is deployed.",
     "source": "NTAA 2025 s.23(1)",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "section": "I"
   },
   {
     "id": 422,
@@ -327,7 +348,8 @@
     "answer": 3,
     "explanation": "Section 29(1)(b) sets ₦25m a month for individuals and ₦100m a month for bodies corporate. Returns on new customers are also required.",
     "source": "NTAA 2025 s.29(1)",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "section": "I"
   },
   {
     "id": 423,
@@ -342,7 +364,8 @@
     "answer": 0,
     "explanation": "Section 31(5) sets six years after the year of assessment. Records must be in English or translated by a sworn translator on demand.",
     "source": "NTAA 2025 s.31(3)-(5)",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "I"
   },
   {
     "id": 424,
@@ -357,7 +380,8 @@
     "answer": 2,
     "explanation": "Section 33(3): no return is deemed duly filed except by the taxpayer or an accredited tax agent.",
     "source": "NTAA 2025 s.33(3)",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "I"
   },
   {
     "id": 425,
@@ -372,7 +396,8 @@
     "answer": 1,
     "explanation": "Section 34(2) treats the return as a self-assessment, even for a nil or negative amount.",
     "source": "NTAA 2025 s.34(2)",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "I"
   },
   {
     "id": 426,
@@ -387,7 +412,8 @@
     "answer": 0,
     "explanation": "Section 34(4) lets the authority accept, accept with an additional assessment, or reject and assess to the best of its judgement.",
     "source": "NTAA 2025 s.34(4)",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "I"
   },
   {
     "id": 427,
@@ -402,7 +428,8 @@
     "answer": 1,
     "explanation": "Section 35(1) provides for an administrative assessment on a best-of-judgement basis where no return has been delivered.",
     "source": "NTAA 2025 s.35(1)",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "section": "I"
   },
   {
     "id": 428,
@@ -417,7 +444,8 @@
     "answer": 3,
     "explanation": "Section 36(1) sets a six-year window, but section 36(2) allows an audit that began within the six years to continue.",
     "source": "NTAA 2025 s.36(1)-(2)",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "I"
   },
   {
     "id": 429,
@@ -432,7 +460,8 @@
     "answer": 1,
     "explanation": "Section 36(4) removes the six-year limit in cases of deliberate misstatement.",
     "source": "NTAA 2025 s.36(4)",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "I"
   },
   {
     "id": 430,
@@ -447,7 +476,8 @@
     "answer": 0,
     "explanation": "Section 38(1)(b) applies the profit margin (EBIT to revenue, or a comparable company's margin) to the Nigerian turnover.",
     "source": "NTAA 2025 s.38(1)(b), (2)",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "section": "I"
   },
   {
     "id": 431,
@@ -462,7 +492,8 @@
     "answer": 2,
     "explanation": "Section 41(2)(a) sets 30 days from service, though the authority may extend the period for good cause (section 41(3)).",
     "source": "NTAA 2025 s.41(2)(a), (3)",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "section": "I"
   },
   {
     "id": 432,
@@ -477,7 +508,8 @@
     "answer": 3,
     "explanation": "Section 41(6) provides that failure to respond within 90 days results in the objection being upheld.",
     "source": "NTAA 2025 s.41(6)",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "I"
   },
   {
     "id": 433,
@@ -492,7 +524,8 @@
     "answer": 1,
     "explanation": "Section 41(8) requires 20% of the disputed amount as security, with evidence of payment filed with the notice of appeal.",
     "source": "NTAA 2025 s.41(8)",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "I"
   },
   {
     "id": 434,
@@ -507,7 +540,8 @@
     "answer": 0,
     "explanation": "Section 46(2) uses an arm's-length test for connected persons.",
     "source": "NTAA 2025 s.46(2)",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "I"
   },
   {
     "id": 435,
@@ -522,7 +556,8 @@
     "answer": 2,
     "explanation": "Section 49(2) sets 30 days of service, though the authority may extend the time at its discretion.",
     "source": "NTAA 2025 s.49(2)",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "section": "I"
   },
   {
     "id": 436,
@@ -537,7 +572,8 @@
     "answer": 3,
     "explanation": "Section 51(8) imposes a 5% deduction as final tax for such non-resident service providers.",
     "source": "NTAA 2025 s.51(8)",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "section": "I"
   },
   {
     "id": 437,
@@ -552,7 +588,8 @@
     "answer": 2,
     "explanation": "Section 53(1)-(2): no distribution without provision for tax in full, and the liquidator is personally liable otherwise.",
     "source": "NTAA 2025 s.53",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "I"
   },
   {
     "id": 438,
@@ -567,7 +604,8 @@
     "answer": 0,
     "explanation": "Section 55(7) sets six years after the year of assessment. Refunds are paid within 90 days of the authority's decision (section 55(3)).",
     "source": "NTAA 2025 s.55(3), (7)",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "section": "I"
   },
   {
     "id": 439,
@@ -582,7 +620,8 @@
     "answer": 2,
     "explanation": "Section 56(2) sets 12 months. The Service must refund within 30 days of a valid request or set off the amount against liabilities (section 56(3)).",
     "source": "NTAA 2025 s.56(2)-(3)",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "section": "I"
   },
   {
     "id": 440,
@@ -597,7 +636,8 @@
     "answer": 1,
     "explanation": "Section 57(2) sets a minimum of seven days from service.",
     "source": "NTAA 2025 s.57(2)",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "I"
   },
   {
     "id": 441,
@@ -612,7 +652,8 @@
     "answer": 2,
     "explanation": "Section 58(7) makes the warrant valid for three months or a lesser period, and renewable on application. Section 58(5) bars entry into a private dwelling without consent or a warrant.",
     "source": "NTAA 2025 s.58(5)-(7)",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "section": "I"
   },
   {
     "id": 442,
@@ -627,7 +668,8 @@
     "answer": 0,
     "explanation": "Section 61(4) allows sale after 14 days. Distrained assets of another relevant tax authority are sold only with a High Court order (section 61(5)).",
     "source": "NTAA 2025 s.61(4)-(5)",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "section": "I"
   },
   {
     "id": 443,
@@ -642,7 +684,8 @@
     "answer": 3,
     "explanation": "Section 65(1)(a) adds 10% of the tax payable. Interest accrues separately under section 65(1)(b) and (c).",
     "source": "NTAA 2025 s.65(1)(a)",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "section": "I"
   },
   {
     "id": 444,
@@ -657,7 +700,8 @@
     "answer": 0,
     "explanation": "Section 65(1)(c) uses SOFR (or any successor rate) plus 10% or such other spread as the Minister determines. Naira remittances use the CBN monetary policy rate plus a spread.",
     "source": "NTAA 2025 s.65(1)(b)-(c)",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "section": "I"
   },
   {
     "id": 445,
@@ -672,7 +716,8 @@
     "answer": 2,
     "explanation": "Section 72(2)-(3) requires a certificate covering the three preceding years, disclosing total profits or income, tax payable, tax paid and tax outstanding.",
     "source": "NTAA 2025 s.72(2)-(3)",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "I"
   },
   {
     "id": 446,
@@ -687,7 +732,8 @@
     "answer": 3,
     "explanation": "Section 73(2)(b) sets 21 days.",
     "source": "NTAA 2025 s.73(2)(b)",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "section": "I"
   },
   {
     "id": 447,
@@ -702,7 +748,8 @@
     "answer": 1,
     "explanation": "Section 81(1) allocates 10% federal, 55% States and FCT, and 35% local governments.",
     "source": "NTAA 2025 s.81(1)",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "section": "I"
   },
   {
     "id": 448,
@@ -717,7 +764,8 @@
     "answer": 3,
     "explanation": "Section 89(4) fixes the quorum at five members, one of whom is the Chairman or a Director.",
     "source": "NTAA 2025 s.89(4)",
-    "difficulty": "hard"
+    "difficulty": "hard",
+    "section": "I"
   },
   {
     "id": 449,
@@ -732,7 +780,8 @@
     "answer": 0,
     "explanation": "Section 90(1) requires appointment by the Governor, subject to confirmation by the State House of Assembly.",
     "source": "NTAA 2025 s.90(1)",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "I"
   },
   {
     "id": 450,
@@ -747,6 +796,7 @@
     "answer": 2,
     "explanation": "Section 101 penalises non-filing and knowingly filing incomplete or inaccurate returns at ₦100,000 for the first month and ₦50,000 per further month. State revenue services cite this in their public notices.",
     "source": "NTAA 2025 s.101 [secondary source]",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "section": "I"
   }
 ]

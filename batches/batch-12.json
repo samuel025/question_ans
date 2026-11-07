@@ -1,0 +1,434 @@
+[
+  {
+    "id": 1101,
+    "section": "IV",
+    "topic": "Current Affairs (Nigeria)",
+    "question": "Who is the President of the Federal Republic of Nigeria, sworn in on 29 May 2023?",
+    "options": [
+      "Muhammadu Buhari",
+      "Bola Ahmed Tinubu",
+      "Goodluck Jonathan",
+      "Atiku Abubakar"
+    ],
+    "answer": 1,
+    "explanation": "Tinubu succeeded Muhammadu Buhari on 29 May 2023.",
+    "source": "Public record",
+    "difficulty": "easy"
+  },
+  {
+    "id": 1102,
+    "section": "IV",
+    "topic": "Current Affairs (Nigeria)",
+    "question": "Who is the Vice-President of Nigeria?",
+    "options": [
+      "Namadi Sambo",
+      "Peter Obi",
+      "Yemi Osinbajo",
+      "Kashim Shettima"
+    ],
+    "answer": 3,
+    "explanation": "Shettima was sworn in with President Tinubu on 29 May 2023.",
+    "source": "Public record",
+    "difficulty": "easy"
+  },
+  {
+    "id": 1103,
+    "section": "IV",
+    "topic": "Current Affairs (Nigeria)",
+    "question": "Who is the Governor of the Central Bank of Nigeria appointed in 2023?",
+    "options": [
+      "Godwin Emefiele",
+      "Olayemi Cardoso",
+      "Charles Soludo",
+      "Sanusi Lamido Sanusi"
+    ],
+    "answer": 1,
+    "explanation": "Cardoso took office in September 2023.",
+    "source": "Public record",
+    "difficulty": "easy"
+  },
+  {
+    "id": 1104,
+    "section": "IV",
+    "topic": "Current Affairs (Nigeria)",
+    "question": "Who is the Minister of the Federal Capital Territory under President Tinubu?",
+    "options": [
+      "Babatunde Fashola",
+      "Muhammad Musa Bello",
+      "Malam Nasir El-Rufai",
+      "Nyesom Wike"
+    ],
+    "answer": 3,
+    "explanation": "Wike was appointed in August 2023.",
+    "source": "Public record",
+    "difficulty": "easy"
+  },
+  {
+    "id": 1105,
+    "section": "IV",
+    "topic": "Current Affairs (Nigeria)",
+    "question": "The Nigeria Tax Act 2025 took effect on:",
+    "options": [
+      "1 January 2026",
+      "26 June 2025",
+      "1 January 2025",
+      "1 June 2025"
+    ],
+    "answer": 0,
+    "explanation": "The core tax Act commenced on 1 January 2026.",
+    "source": "Nigeria Tax Act 2025",
+    "difficulty": "easy"
+  },
+  {
+    "id": 1106,
+    "section": "IV",
+    "topic": "Current Affairs (Nigeria)",
+    "question": "The tax reform laws were signed into law by President Tinubu in:",
+    "options": [
+      "June 2023",
+      "June 2025",
+      "December 2024",
+      "January 2026"
+    ],
+    "answer": 1,
+    "explanation": "Four tax reform Acts were signed on 26 June 2025.",
+    "source": "Public record",
+    "difficulty": "medium"
+  },
+  {
+    "id": 1107,
+    "section": "IV",
+    "topic": "Current Affairs (Nigeria)",
+    "question": "President Tinubu signed the 2026 Appropriation Act, with total expenditure of about:",
+    "options": [
+      "₦54.99 trillion",
+      "₦100 trillion",
+      "₦28.77 trillion",
+      "₦68.32 trillion"
+    ],
+    "answer": 3,
+    "explanation": "The 2026 budget was signed on 17 April 2026.",
+    "source": "Press reports, April 2026",
+    "difficulty": "medium"
+  },
+  {
+    "id": 1108,
+    "section": "IV",
+    "topic": "Current Affairs (Nigeria)",
+    "question": "The current national minimum wage in Nigeria, set in 2024, is:",
+    "options": [
+      "₦30,000",
+      "₦100,000",
+      "₦70,000",
+      "₦50,000"
+    ],
+    "answer": 2,
+    "explanation": "The Minimum Wage Act 2024 raised it from ₦30,000 to ₦70,000; calls for ₦100,000 were made in 2026.",
+    "source": "Minimum Wage Act 2024",
+    "difficulty": "easy"
+  },
+  {
+    "id": 1109,
+    "section": "IV",
+    "topic": "Current Affairs (Nigeria)",
+    "question": "In May 2026, the CBN Monetary Policy Committee retained the Monetary Policy Rate at:",
+    "options": [
+      "24.75%",
+      "14%",
+      "18.75%",
+      "26.5%"
+    ],
+    "answer": 3,
+    "explanation": "The MPC held the rate at 26.5% despite rising inflation.",
+    "source": "Press reports, May 2026",
+    "difficulty": "hard"
+  },
+  {
+    "id": 1110,
+    "section": "IV",
+    "topic": "Current Affairs (Nigeria)",
+    "question": "The Monetary Policy Rate is set by the:",
+    "options": [
+      "Ministry of Finance",
+      "Federal Executive Council",
+      "National Assembly",
+      "Monetary Policy Committee of the CBN"
+    ],
+    "answer": 3,
+    "explanation": "The MPC meets periodically to set policy rates.",
+    "source": "CBN",
+    "difficulty": "easy"
+  },
+  {
+    "id": 1111,
+    "section": "IV",
+    "topic": "Current Affairs (Nigeria)",
+    "question": "The national currency redesign launched in late 2022 affected which notes?",
+    "options": [
+      "₦5 and ₦10",
+      "₦200, ₦500 and ₦1,000",
+      "All coins",
+      "₦50 and ₦100"
+    ],
+    "answer": 1,
+    "explanation": "The redesign targeted the three highest notes.",
+    "source": "CBN",
+    "difficulty": "medium"
+  },
+  {
+    "id": 1112,
+    "section": "IV",
+    "topic": "Current Affairs (Nigeria)",
+    "question": "The Dangote Refinery, located in Lagos, has a nameplate capacity of:",
+    "options": [
+      "50,000 barrels per day",
+      "650,000 barrels per day",
+      "150,000 barrels per day",
+      "1.5 million barrels per day"
+    ],
+    "answer": 1,
+    "explanation": "It is the largest single-train refinery in the world.",
+    "source": "Dangote Group",
+    "difficulty": "medium"
+  },
+  {
+    "id": 1113,
+    "section": "IV",
+    "topic": "Current Affairs (Nigeria)",
+    "question": "Which agency administers student loans under the 2023 Act?",
+    "options": [
+      "JAMB",
+      "Nigerian Education Loan Fund (NELFUND)",
+      "TETFund",
+      "NYSC"
+    ],
+    "answer": 1,
+    "explanation": "NELFUND provides loans to eligible students in public institutions.",
+    "source": "Student Loan Act 2023",
+    "difficulty": "medium"
+  },
+  {
+    "id": 1114,
+    "section": "IV",
+    "topic": "Current Affairs (Nigeria)",
+    "question": "Nigeria's next general elections are scheduled to be conducted by the:",
+    "options": [
+      "National Orientation Agency",
+      "Code of Conduct Bureau",
+      "Federal Character Commission",
+      "Independent National Electoral Commission (INEC)"
+    ],
+    "answer": 3,
+    "explanation": "INEC organises elections; the next general elections are due in 2027.",
+    "source": "1999 Constitution, s.153 and Third Schedule",
+    "difficulty": "easy"
+  },
+  {
+    "id": 1115,
+    "section": "IV",
+    "topic": "Current Affairs (Nigeria)",
+    "question": "The regional bloc whose members include Nigeria and which the three Sahel juntas announced exit from in January 2024 is:",
+    "options": [
+      "African Union",
+      "OPEC",
+      "ECOWAS",
+      "The G20"
+    ],
+    "answer": 2,
+    "explanation": "Mali, Burkina Faso and Niger announced withdrawal from ECOWAS.",
+    "source": "Press reports",
+    "difficulty": "medium"
+  },
+  {
+    "id": 1116,
+    "section": "IV",
+    "topic": "Current Affairs (Nigeria)",
+    "question": "The African Continental Free Trade Area (AfCFTA) Secretariat is based in:",
+    "options": [
+      "Abuja, Nigeria",
+      "Addis Ababa, Ethiopia",
+      "Nairobi, Kenya",
+      "Accra, Ghana"
+    ],
+    "answer": 3,
+    "explanation": "The AfCFTA Secretariat is in Accra.",
+    "source": "African Union",
+    "difficulty": "medium"
+  },
+  {
+    "id": 1117,
+    "section": "IV",
+    "topic": "Current Affairs (Nigeria)",
+    "question": "Nigeria's 36 states and the FCT are divided into how many Local Government Areas (including FCT area councils)?",
+    "options": [
+      "700",
+      "750",
+      "774",
+      "800"
+    ],
+    "answer": 2,
+    "explanation": "The 1999 Constitution (Schedule 1, Part I) lists 774 LGAs.",
+    "source": "1999 Constitution",
+    "difficulty": "medium"
+  },
+  {
+    "id": 1118,
+    "section": "IV",
+    "topic": "Current Affairs (Nigeria)",
+    "question": "Which organisation produces Nigeria's official GDP and inflation figures?",
+    "options": [
+      "National Bureau of Statistics (NBS)",
+      "NNPC Ltd",
+      "Central Bank of Nigeria",
+      "Federal Ministry of Finance"
+    ],
+    "answer": 0,
+    "explanation": "The NBS publishes GDP, CPI and inflation data.",
+    "source": "NBS",
+    "difficulty": "easy"
+  },
+  {
+    "id": 1119,
+    "section": "IV",
+    "topic": "Current Affairs (Nigeria)",
+    "question": "The Nigerian National Petroleum Company was converted to a limited liability company under which Act?",
+    "options": [
+      "Oil Pipelines Act",
+      "Companies and Allied Matters Act 2020",
+      "Finance Act 2019",
+      "Petroleum Industry Act 2021"
+    ],
+    "answer": 3,
+    "explanation": "PIA 2021 led to NNPC Ltd.",
+    "source": "Petroleum Industry Act 2021",
+    "difficulty": "medium"
+  },
+  {
+    "id": 1120,
+    "section": "IV",
+    "topic": "Current Affairs (Nigeria)",
+    "question": "Nigeria's Independence Day is celebrated annually on:",
+    "options": [
+      "1 October",
+      "29 May",
+      "12 June",
+      "1 January"
+    ],
+    "answer": 0,
+    "explanation": "Nigeria became independent on 1 October 1960.",
+    "source": "History",
+    "difficulty": "easy"
+  },
+  {
+    "id": 1121,
+    "section": "IV",
+    "topic": "Current Affairs (Nigeria)",
+    "question": "Democracy Day in Nigeria is celebrated on:",
+    "options": [
+      "29 May",
+      "12 June",
+      "1 October",
+      "11 November"
+    ],
+    "answer": 1,
+    "explanation": "12 June was declared Democracy Day in 2019, honouring the 1993 election.",
+    "source": "Public record",
+    "difficulty": "easy"
+  },
+  {
+    "id": 1122,
+    "section": "IV",
+    "topic": "Current Affairs (Nigeria)",
+    "question": "The Electoral Act 2022 introduced which technology into elections?",
+    "options": [
+      "Bimodal Voter Accreditation System (BVAS) and IReV portal",
+      "Online voting",
+      "Blockchain voting",
+      "SMS voting"
+    ],
+    "answer": 0,
+    "explanation": "BVAS and the INEC Result Viewing (IReV) portal were legalised.",
+    "source": "Electoral Act 2022",
+    "difficulty": "medium"
+  },
+  {
+    "id": 1123,
+    "section": "IV",
+    "topic": "Current Affairs (Nigeria)",
+    "question": "Nigeria's President signs bills into law, and if the President withholds assent the National Assembly can override with:",
+    "options": [
+      "Two-thirds majority in each chamber",
+      "Three-quarters",
+      "Simple majority",
+      "A court order"
+    ],
+    "answer": 0,
+    "explanation": "Section 58 of the Constitution gives this override.",
+    "source": "1999 Constitution, s.58",
+    "difficulty": "medium"
+  },
+  {
+    "id": 1124,
+    "section": "IV",
+    "topic": "Current Affairs (Nigeria)",
+    "question": "The tenure of a President of Nigeria under the Constitution is:",
+    "options": [
+      "Four years, renewable twice",
+      "Five years, renewable once",
+      "Six years, non-renewable",
+      "Four years, renewable once"
+    ],
+    "answer": 3,
+    "explanation": "Section 135 limits to two four-year terms.",
+    "source": "1999 Constitution, s.135",
+    "difficulty": "easy"
+  },
+  {
+    "id": 1125,
+    "section": "IV",
+    "topic": "Current Affairs (Nigeria)",
+    "question": "Nigeria's capital, Abuja, is located in the:",
+    "options": [
+      "Kogi State",
+      "Nasarawa State",
+      "Niger State",
+      "Federal Capital Territory"
+    ],
+    "answer": 3,
+    "explanation": "Abuja is the seat of the Federal Government in the FCT.",
+    "source": "Geography",
+    "difficulty": "easy"
+  },
+  {
+    "id": 1126,
+    "section": "IV",
+    "topic": "Current Affairs (Nigeria)",
+    "question": "The Nigerian Senate is headed by the:",
+    "options": [
+      "Speaker",
+      "Senate President",
+      "Clerk",
+      "Chief Justice"
+    ],
+    "answer": 1,
+    "explanation": "The Speaker heads the House of Representatives.",
+    "source": "1999 Constitution, s.50",
+    "difficulty": "easy"
+  },
+  {
+    "id": 1127,
+    "section": "IV",
+    "topic": "Current Affairs (Nigeria)",
+    "question": "The acronym NASS stands for:",
+    "options": [
+      "National Assembly",
+      "National Social Scheme",
+      "National Security Service",
+      "Nigerian Armed Services"
+    ],
+    "answer": 0,
+    "explanation": "The NASS comprises the Senate and House of Representatives.",
+    "source": "1999 Constitution, s.4",
+    "difficulty": "easy"
+  }
+]

@@ -1,0 +1,226 @@
+[
+  {
+    "id": 951,
+    "section": "II",
+    "topic": "FCT and Revenue Background",
+    "question": "The Federal Capital Territory, Abuja, became Nigeria's capital in place of Lagos in:",
+    "options": [
+      "October 1960",
+      "January 1976",
+      "May 1999",
+      "December 1991"
+    ],
+    "answer": 3,
+    "explanation": "The seat of government formally moved to Abuja on 12 December 1991.",
+    "source": "FCT background",
+    "difficulty": "easy"
+  },
+  {
+    "id": 952,
+    "section": "II",
+    "topic": "FCT and Revenue Background",
+    "question": "How many Area Councils are in the FCT?",
+    "options": [
+      "Five",
+      "Eight",
+      "Six",
+      "Four"
+    ],
+    "answer": 2,
+    "explanation": "They are Abaji, Abuja Municipal, Bwari, Gwagwalada, Kuje and Kwali.",
+    "source": "FCT background",
+    "difficulty": "easy"
+  },
+  {
+    "id": 953,
+    "section": "II",
+    "topic": "FCT and Revenue Background",
+    "question": "Which of these is an Area Council of the FCT?",
+    "options": [
+      "Kwali",
+      "Keffi",
+      "Nasarawa",
+      "Suleja"
+    ],
+    "answer": 0,
+    "explanation": "Keffi, Suleja and Nasarawa are not FCT Area Councils.",
+    "source": "FCT background",
+    "difficulty": "easy"
+  },
+  {
+    "id": 954,
+    "section": "II",
+    "topic": "FCT and Revenue Background",
+    "question": "Section 299 of the 1999 Constitution provides that the FCT shall be administered as if it were:",
+    "options": [
+      "A federal agency",
+      "A special military zone",
+      "One of the states of the Federation",
+      "A local government"
+    ],
+    "answer": 2,
+    "explanation": "The President exercises the powers through the Minister of the FCT.",
+    "source": "1999 Constitution, s.299",
+    "difficulty": "medium"
+  },
+  {
+    "id": 955,
+    "section": "II",
+    "topic": "FCT and Revenue Background",
+    "question": "Who is the political head of the FCT Administration?",
+    "options": [
+      "The Governor of Niger State",
+      "The Minister of the Federal Capital Territory",
+      "The Chief Judge of the FCT",
+      "The Head of Service"
+    ],
+    "answer": 1,
+    "explanation": "The FCT has a Minister rather than a governor.",
+    "source": "1999 Constitution, s.299",
+    "difficulty": "easy"
+  },
+  {
+    "id": 956,
+    "section": "II",
+    "topic": "FCT and Revenue Background",
+    "question": "Ownership of land in the FCT is vested in:",
+    "options": [
+      "The Chief Judge",
+      "The Federal Government, administered by the Minister",
+      "Traditional rulers",
+      "Each Area Council"
+    ],
+    "answer": 1,
+    "explanation": "Under the Land Use Act, s.297 and s.299, the Minister controls FCT land.",
+    "source": "Land Use Act; FCT Act 1976",
+    "difficulty": "medium"
+  },
+  {
+    "id": 957,
+    "section": "II",
+    "topic": "FCT and Revenue Background",
+    "question": "The Federal Capital Territory Act 1976 created the FCT from parts of which states?",
+    "options": [
+      "Benue, Taraba and Adamawa",
+      "Kano, Kaduna and Bauchi",
+      "Niger, Kogi (then Kwara) and Nasarawa (then Plateau)",
+      "Lagos and Ogun"
+    ],
+    "answer": 2,
+    "explanation": "The territory was carved from parts of Niger, Kogi/Kwara and Nasarawa/Plateau.",
+    "source": "FCT background",
+    "difficulty": "hard"
+  },
+  {
+    "id": 958,
+    "section": "II",
+    "topic": "FCT and Revenue Background",
+    "question": "Which court hears tax disputes on matters of federal taxation at first instance in Nigeria?",
+    "options": [
+      "Sharia Court of Appeal",
+      "Area Court",
+      "Federal High Court",
+      "Customary Court of Appeal"
+    ],
+    "answer": 2,
+    "explanation": "Section 251 of the Constitution gives the Federal High Court jurisdiction over revenue matters of the Federal Government.",
+    "source": "1999 Constitution, s.251",
+    "difficulty": "medium"
+  },
+  {
+    "id": 959,
+    "section": "II",
+    "topic": "FCT and Revenue Background",
+    "question": "Ground rent in the FCT is paid to:",
+    "options": [
+      "The Federal Ministry of Works",
+      "The FCT Administration",
+      "The Nigerian Ports Authority",
+      "The Area Council chairman personally"
+    ],
+    "answer": 1,
+    "explanation": "Ground rent is a recurring charge on land allocated in the FCT.",
+    "source": "FCT land administration",
+    "difficulty": "medium"
+  },
+  {
+    "id": 960,
+    "section": "II",
+    "topic": "FCT and Revenue Background",
+    "question": "The FCT-IRS was established as an agency to administer taxes within:",
+    "options": [
+      "Niger State",
+      "The Federal Capital Territory",
+      "Abuja Municipal only",
+      "The entire Federation"
+    ],
+    "answer": 1,
+    "explanation": "Its remit covers taxes and levies within the FCT.",
+    "source": "FCT-IRS Act 2015, s.2",
+    "difficulty": "easy"
+  },
+  {
+    "id": 961,
+    "section": "II",
+    "topic": "FCT and Revenue Background",
+    "question": "Tax clearance certificates in the FCT are issued by:",
+    "options": [
+      "The Federal Ministry of Justice",
+      "The Code of Conduct Bureau",
+      "The Area Council chairman",
+      "The FCT-IRS Board through the Service"
+    ],
+    "answer": 3,
+    "explanation": "See the Tax Clearance Certificate provisions of the FCT-IRS Act.",
+    "source": "FCT-IRS Act 2015, s.31",
+    "difficulty": "medium"
+  },
+  {
+    "id": 962,
+    "section": "II",
+    "topic": "FCT and Revenue Background",
+    "question": "Which taxes does the FCT-IRS collect that are of particular local importance?",
+    "options": [
+      "Mining royalties",
+      "Import duties",
+      "Petroleum profit tax",
+      "Property tax and personal income tax of FCT residents"
+    ],
+    "answer": 3,
+    "explanation": "Personal income tax of residents and property tax are core FCT collections.",
+    "source": "FCT-IRS Act 2015, First Schedule",
+    "difficulty": "medium"
+  },
+  {
+    "id": 963,
+    "section": "II",
+    "topic": "FCT and Revenue Background",
+    "question": "The Nigeria Revenue Service replaced which federal agency?",
+    "options": [
+      "Nigeria Customs Service",
+      "FCT Internal Revenue Service",
+      "Joint Tax Board",
+      "Federal Inland Revenue Service"
+    ],
+    "answer": 3,
+    "explanation": "The NRS Act 2025 establishes the NRS in place of FIRS.",
+    "source": "NRS (Establishment) Act 2025",
+    "difficulty": "easy"
+  },
+  {
+    "id": 964,
+    "section": "II",
+    "topic": "FCT and Revenue Background",
+    "question": "The tax authority for each state of the Federation is called:",
+    "options": [
+      "State Internal Revenue Service",
+      "Joint Tax Board",
+      "Area Court",
+      "Federal Inland Revenue Service"
+    ],
+    "answer": 0,
+    "explanation": "States run their own internal revenue services for state-level taxes.",
+    "source": "Revenue administration",
+    "difficulty": "easy"
+  }
+]
